@@ -58,7 +58,7 @@ const names = [
   'Firebase Cloud Messaging', 'Firebase Performance Monitoring', 'Google Gemini Developer API', 'Apple App Attest',
   'Apple Push Notification service',
   'Google Analytics', 'Google AdMob', 'Google Play', 'Google Cloud', 'Cloud Firestore', 'App Store', 'App Check',
-  'Apple ID', 'Qelunai Plus', 'Ho Ngoc Duc', 'TestFlight', 'iPhone', 'iPad', 'Android',
+  'Apple ID', 'Qelunai Plus', 'Ho Ngoc Duc', 'NASA JPL DE440s', 'TestFlight', 'iPhone', 'iPad', 'Android',
 ];
 /** Three or more Latin words in a row, once URLs, emails and the names above are gone: an untranslated phrase. */
 function englishLeft(text) {

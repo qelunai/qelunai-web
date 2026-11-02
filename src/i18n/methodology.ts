@@ -1,6 +1,6 @@
 /**
- * Copy for the "method and accuracy" page (`/phuong-phap/`). The only source is
- * `METHODOLOGY.md` and `README.md` of https://github.com/qelunai/qelunai-lunar;
+ * Copy for the "method and accuracy" page (`/phuong-phap/`). The only sources are
+ * `METHODOLOGY.md`, `CLEANROOM.md` and `README.md` of https://github.com/qelunai/qelunai-lunar;
  * add nothing that is not stated there. Items marked [Unverified] in the source
  * are written as "not yet checked" or left out. zh and ko are AI translations of
  * the English copy.
@@ -45,10 +45,11 @@ const vi: MethodContent = {
         'Lịch âm Việt Nam là lịch âm dương. Mỗi tháng âm bắt đầu vào **ngày sóc** (trăng non) theo giờ địa phương; ngày âm là số ngày kể từ ngày sóc gần nhất không sau ngày cần đổi, cộng 1.',
       ],
       list: [
-        'Ngày dương lịch được đổi sang số ngày Julius (JDN) theo công thức Fliegel & Van Flandern (1968), trình bày trong sách Astronomical Algorithms của Meeus (ấn bản 2, 1998).',
-        '**Sóc:** tính từ chu kỳ giao hội trung bình 29,530588853 ngày, cộng một chuỗi hiệu chỉnh tuần hoàn rút gọn và trừ một xấp xỉ ΔT dạng đa thức.',
-        '**Kinh độ Mặt Trời:** chuỗi rút gọn ba số hạng, không hiệu chỉnh chương động và quang sai.',
-        'Cấu trúc đổi lịch (sóc, tháng 11, tháng nhuận) là thuật toán âm lịch Việt Nam do Hồ Ngọc Đức công bố, được nhiều thư viện dùng lại.',
+        'Ngày dương lịch được đổi sang số ngày Julius (JDN) theo công thức Fliegel & Van Flandern (1968); xem Meeus, Astronomical Algorithms (ấn bản 2, 1998), chương 7.',
+        '**Sóc:** theo Meeus chương 49 (Phases of the Moon): thời điểm sóc trung bình cộng chuỗi số hạng tuần hoàn rút gọn theo dị thường trung bình của Mặt Trời, của Mặt Trăng và đối số vĩ độ của Mặt Trăng. Kết quả ở giờ TT, trừ ΔT để ra giờ UT.',
+        '**Kinh độ Mặt Trời:** theo Meeus chương 25, phương pháp độ chính xác thấp: kinh độ và dị thường trung bình, ba số hạng của phương trình tâm, có hiệu chỉnh chương động và quang sai.',
+        '**ΔT = TT − UT:** đa thức của F. Espenak và J. Meeus (Five Millennium Canon of Solar Eclipses, NASA TP-2006-214141), các đoạn 1900–2150. Trước 1900 giữ giá trị năm 1900.',
+        'Lõi thiên văn của thư viện được viết độc lập (clean-room) từ các nguồn thiên văn công khai; quy trình và nguồn ghi tại https://github.com/qelunai/qelunai-lunar/blob/main/CLEANROOM.md',
         'Múi giờ mặc định là **UTC+7** (giờ Việt Nam), không phụ thuộc múi giờ của máy. Lịch Trung Quốc (UTC+8) hoặc Hàn Quốc (UTC+9) có thể lệch một ngày, kéo theo lệch tháng hoặc năm, khi sóc hoặc trung khí rơi gần nửa đêm.',
         'Chỉ dùng lịch Gregory: ngày trước 15/10/1582 được tính theo lịch Gregory ngoại suy.',
       ],
@@ -56,9 +57,9 @@ const vi: MethodContent = {
     {
       title: 'Tháng nhuận',
       list: [
-        '**Tháng 11** là tháng âm chứa Đông chí.',
-        'Nếu từ đầu tháng 11 năm trước đến đầu tháng 11 năm sau dài hơn 365 ngày, năm đó có 13 tháng âm.',
-        'Khi đó tháng nhuận là tháng đầu tiên sau tháng 11 không chứa trung khí. Tháng nhuận mang số của tháng liền trước; ví dụ năm âm 2025 có tháng 6 nhuận.',
+        '**Tháng 11** là tháng âm chứa ngày Đông chí: thư viện tìm thời điểm Mặt Trời qua kinh độ 270°, lấy ngày địa phương chứa thời điểm đó; tháng 11 là tháng âm chứa ngày này.',
+        'Nếu từ đầu tháng 11 năm này đến đầu tháng 11 năm sau có 13 tháng âm, năm đó có tháng nhuận.',
+        'Tháng nhuận là tháng đầu tiên sau tháng 11 không chứa trung khí: cung trung khí (30°) tại nửa đêm ngày đầu tháng đó bằng cung tại nửa đêm ngày đầu tháng kế tiếp. Tháng nhuận mang số của tháng liền trước; ví dụ năm âm 2025 có tháng 6 nhuận.',
         'Năm âm đổi vào mùng 1 tháng Giêng.',
       ],
       ordered: true,
@@ -125,16 +126,29 @@ const vi: MethodContent = {
       after: [
         '**Giờ hoàng đạo** đã đối chiếu cho 01/02/2025 (đủ 12 giờ, baoquocte.vn), 01/05/2025 (vtcnews.vn, baolamdong.vn), 10/02/2026 (xemlicham.com, baohatinh.vn, ngaydep.com), 09/10/2026 (xemlicham.com, ngaydep.com) và 28/10/2026 (xemlicham.com). Với mọi ngày 2025–2026, test kiểm mỗi ngày có đúng 6 giờ hoàng đạo.',
         '**Thập nhị trực:** 28/10/2026 và 10/02/2026 là trực Trừ (xemlicham.com, ngaydep.com). Ngày 10/02/2026 là 23 tháng Chạp âm nhưng đã qua Lập xuân: theo tháng tiết khí ra Trừ, theo tháng âm sẽ ra Mãn.',
-        '**Tiết khí:** với mọi ngày 2026–2027, khoảng tiết khí dài 14–16 ngày và ranh giới đúng chỗ đổi tiết; đây là kiểm nhất quán nội bộ. Ngày giao tiết chưa đối chiếu với nguồn thiên văn chính thức trong thư viện. Ứng dụng Qelunai có kiểm hàm kinh độ Mặt Trời với thời điểm xuân phân, hạ chí, thu phân, đông chí 2024 của Đài thiên văn Hải quân Hoa Kỳ.',
+        '**Tiết khí:** với mọi ngày 2026–2027, khoảng tiết khí dài 14–16 ngày và ranh giới đúng chỗ đổi tiết; đây là kiểm nhất quán nội bộ. Chỉ số tiết khí của mọi ngày 1900–2100 được đối chiếu với NASA JPL DE440s (mục kế tiếp). Ứng dụng Qelunai có kiểm hàm kinh độ Mặt Trời với thời điểm xuân phân, hạ chí, thu phân, đông chí 2024 của Đài thiên văn Hải quân Hoa Kỳ.',
         'Các ngày mẫu khác trong test (mùng một, rằm, ngày giỗ mẫu, ngày bắt đầu tháng 6 nhuận 2025) là giá trị do thuật toán tính, chưa đối chiếu với nguồn ngoài.',
       ],
+    },
+    {
+      title: 'Kiểm chứng thiên văn: NASA JPL DE440s, 1900–2100',
+      body: ['Thời điểm sóc và thời điểm Mặt Trời qua mỗi bội số 15° (giờ UTC+7) được sinh từ lịch thiên văn DE440s của NASA JPL bằng thư viện Skyfield, độc lập với mọi mã lịch âm, rồi so với kết quả của thư viện cho mọi ngày từ 01/01/1900 đến 31/12/2100 (73.414 ngày).'],
+      table: {
+        head: ['Kiểm tra', 'Kết quả'],
+        rows: [
+          ['Sóc rơi sai ngày địa phương', '2 ca: 20/06/1944 lúc 23:59:17 và 07/07/1967 lúc 23:59:59, cả hai cách nửa đêm không quá 43 giây'],
+          ['Chỉ số tiết khí tại nửa đêm khác JPL', '11 ngày, đều cách thời điểm giao tiết không quá 8 phút'],
+        ],
+      },
+      after: ['Test chỉ chấp nhận sai lệch khi thời điểm JPL cách nửa đêm không quá 2 phút (sóc) hoặc 10 phút (tiết khí), và giới hạn số ca chấp nhận ở 2 (sóc) và 11 (tiết khí).'],
     },
     {
       title: 'Giới hạn',
       list: [
         'Đã đối chiếu với lịch công bố: các ngày nêu trên, trong **2023–2027**. Ngoài khoảng này kết quả tính cùng phương pháp nhưng chưa được đối chiếu.',
-        'Con số "đáng tin trong khoảng năm 1200–3000" do một thư viện khác nêu cho cùng họ thuật toán; qelunai-lunar chưa tự kiểm.',
-        'Chuỗi thiên văn rút gọn và xấp xỉ ΔT, trong trường hợp hiếm, có thể đẩy sóc hoặc tiết khí qua nửa đêm và làm lệch ranh giới tháng một ngày.',
+        'Đã đối chiếu thiên văn với NASA JPL DE440s cho **1900–2100**. Ngoài khoảng này chưa kiểm.',
+        'Sóc hoặc tiết khí rơi trong vòng vài phút quanh nửa đêm địa phương có thể bị xếp sang ngày bên cạnh; sai số này nằm dưới độ chính xác của các chuỗi rút gọn và của ΔT dự báo cho các năm tương lai.',
+        'ΔT trước 1900 giữ giá trị năm 1900: ngày trước 1900 vẫn đổi được nhưng ít được kiểm hơn.',
         'Chưa có ca test so sánh lịch Việt Nam với lịch Trung Quốc hoặc Hàn Quốc.',
         'Không dùng cho thiên văn chính xác cao.',
       ],
@@ -169,10 +183,11 @@ const en: MethodContent = {
         'The Vietnamese calendar is lunisolar. Each lunar month starts on the local date of a **new moon**; the lunar day is the number of days since the latest new moon not after the date, plus 1.',
       ],
       list: [
-        'Gregorian dates are converted to a Julian Day Number (JDN) with the Fliegel & Van Flandern (1968) formula, as given in Meeus, Astronomical Algorithms (2nd ed., 1998).',
-        '**New moons:** a mean synodic month of 29.530588853 days, plus a truncated periodic series, minus a polynomial ΔT approximation.',
-        '**Solar longitude:** a truncated three-term series, with no nutation or aberration correction.',
-        'The conversion (new moons, month 11, leap month) is the Vietnamese lunar calendar algorithm published by Hồ Ngọc Đức and reused by many libraries.',
+        'Gregorian dates are converted to a Julian Day Number (JDN) with the Fliegel & Van Flandern (1968) formula; see Meeus, Astronomical Algorithms (2nd ed., 1998), ch. 7.',
+        '**New moons:** Meeus ch. 49 (Phases of the Moon): the mean New Moon time plus a truncated periodic series in the mean anomalies of the Sun and the Moon and the Moon\'s argument of latitude. The result is in TT; ΔT is subtracted to get UT.',
+        '**Solar longitude:** Meeus ch. 25, low-accuracy method: mean longitude and mean anomaly, three terms of the equation of centre, with a nutation and aberration correction.',
+        '**ΔT = TT − UT:** the polynomials of F. Espenak and J. Meeus (Five Millennium Canon of Solar Eclipses, NASA TP-2006-214141), segments 1900–2150. Before 1900 the 1900 value is held.',
+        'The library\'s astronomical core is written independently (clean-room) from public astronomy sources; the process and sources are recorded at https://github.com/qelunai/qelunai-lunar/blob/main/CLEANROOM.md',
         'The default time zone is **UTC+7** (Vietnam), whatever the device time zone. Chinese (UTC+8) and Korean (UTC+9) lunar calendars can differ by a day, and so by a month or a year, when a new moon or principal term falls near midnight.',
         'Gregorian only: dates before 1582-10-15 are proleptic Gregorian.',
       ],
@@ -180,9 +195,9 @@ const en: MethodContent = {
     {
       title: 'Leap months',
       list: [
-        '**Month 11** is the lunar month containing the winter solstice.',
-        'If month 11 to the next month 11 spans more than 365 days, the year has 13 lunar months.',
-        'The leap month is then the first month after month 11 with no principal term. It takes the number of the month before it; for example, lunar 2025 has a leap 6th month.',
+        '**Month 11** is the lunar month containing the day of the winter solstice: the library finds the instant the Sun crosses longitude 270° and takes the local day containing it; month 11 is the lunar month containing that day.',
+        'If month 11 to the next month 11 holds 13 lunar months, the year has a leap month.',
+        'The leap month is the first month after month 11 with no principal term: the 30° sector index at local midnight of its first day equals the index at the first day of the following month. It takes the number of the month before it; for example, lunar 2025 has a leap 6th month.',
         'The lunar year changes on the first day of month 1.',
       ],
       ordered: true,
@@ -249,16 +264,29 @@ const en: MethodContent = {
       after: [
         '**Lucky hours** checked for 2025-02-01 (all 12 hours, baoquocte.vn), 2025-05-01 (vtcnews.vn, baolamdong.vn), 2026-02-10 (xemlicham.com, baohatinh.vn, ngaydep.com), 2026-10-09 (xemlicham.com, ngaydep.com) and 2026-10-28 (xemlicham.com). For every day of 2025–2026 the tests check exactly 6 lucky hours.',
         '**Day officers:** 2026-10-28 and 2026-02-10 are Trừ (xemlicham.com, ngaydep.com). 2026-02-10 is lunar 23/12 but after Lập xuân: the solar-term month gives Trừ, the lunar month would give Mãn.',
-        '**Solar terms:** for every day of 2026–2027, term spans are 14–16 days long and their bounds are real term changes; this is an internal consistency check. Term dates have not yet been checked against an official astronomical source in the library. The Qelunai app checks the solar longitude function against the U.S. Naval Observatory 2024 equinox and solstice times.',
+        '**Solar terms:** for every day of 2026–2027, term spans are 14–16 days long and their bounds are real term changes; this is an internal consistency check. The solar-term index of every day of 1900–2100 is checked against NASA JPL DE440s (next section). The Qelunai app checks the solar longitude function against the U.S. Naval Observatory 2024 equinox and solstice times.',
         'The other sample dates in the tests (first and fifteenth days, sample death anniversaries, the start of leap month 6 of 2025) are values computed by the algorithm, not yet checked against an external source.',
       ],
+    },
+    {
+      title: 'Astronomy check: NASA JPL DE440s, 1900–2100',
+      body: ['New-moon times and the times the Sun crosses each multiple of 15° (UTC+7) are generated from NASA JPL\'s DE440s ephemeris with the Skyfield library, independently of any lunar calendar code, and compared with the library for every day from 1900-01-01 to 2100-12-31 (73,414 days).'],
+      table: {
+        head: ['Check', 'Result'],
+        rows: [
+          ['New moon on the wrong local day', '2 cases: 1944-06-20 23:59:17 and 1967-07-07 23:59:59, both within 43 seconds of midnight'],
+          ['Solar-term index at local midnight differs from JPL', '11 days, all within 8 minutes of a term crossing'],
+        ],
+      },
+      after: ['The test accepts a difference only when the JPL time is within 2 minutes (new moon) or 10 minutes (solar term) of midnight, and caps the accepted cases at 2 and 11.'],
     },
     {
       title: 'Limitations',
       list: [
         'Checked against published calendars: the dates above, within **2023–2027**. Outside that range results use the same method but are not checked.',
-        'The figure "reliable for roughly 1200–3000" is stated by another library for the same family of algorithms; qelunai-lunar has not checked it.',
-        'The truncated series and ΔT approximation can, in rare cases, move a new moon or solar term across midnight and shift a month boundary by one day.',
+        'Astronomy checked against NASA JPL DE440s for **1900–2100**. Outside that range it is not checked.',
+        'A new moon or solar term within a few minutes of local midnight can land on the neighbouring day; this is below the accuracy of the truncated series and of the predicted ΔT for future years.',
+        'Before 1900, ΔT is held at its 1900 value: earlier dates still convert but are less checked.',
         'No test compares Vietnamese dates with Chinese or Korean ones.',
         'Not suitable for high-precision astronomy.',
       ],
@@ -290,10 +318,11 @@ const zh: MethodContent = {
       title: '农历如何计算',
       body: ['越南历是阴阳历。每个农历月从当地时间的**朔日**（新月）开始；农历日 = 自不晚于该日的最近朔日起的天数，加 1。'],
       list: [
-        '公历日期按 Fliegel 与 Van Flandern（1968）的公式换算为儒略日数（JDN），见 Meeus《Astronomical Algorithms》（第 2 版，1998）。',
-        '**朔：**以平均朔望月 29.530588853 日为基础，加上简化的周期项，再减去多项式形式的 ΔT 近似值。',
-        '**太阳黄经：**简化的三项级数，不做章动和光行差改正。',
-        '换算结构（朔、十一月、闰月）采用 Ho Ngoc Duc 公布的越南农历算法，许多库都在使用。',
+        '公历日期按 Fliegel 与 Van Flandern（1968）的公式换算为儒略日数（JDN），见 Meeus《Astronomical Algorithms》（第 2 版，1998）第 7 章。',
+        '**朔：**依 Meeus 第 49 章（月相）：平朔时刻加上简化的周期项，周期项以太阳平近点角、月球平近点角和月球纬度参数为自变量。结果为 TT 时间，减去 ΔT 得到 UT。',
+        '**太阳黄经：**依 Meeus 第 25 章的低精度方法：平黄经和平近点角、中心差的三项，并做章动和光行差改正。',
+        '**ΔT = TT − UT：**采用 F. Espenak 与 J. Meeus 的多项式（NASA TP-2006-214141）中 1900–2150 年各段。1900 年以前沿用 1900 年的值。',
+        '本库的天文核心依据公开天文资料独立编写（clean-room），流程和来源记录在 https://github.com/qelunai/qelunai-lunar/blob/main/CLEANROOM.md',
         '默认时区为 **UTC+7**（越南时间），与设备时区无关。当朔或中气临近午夜时，中国（UTC+8）或韩国（UTC+9）的农历可能相差一天，进而相差一个月或一年。',
         '只使用公历：1582-10-15 之前的日期按外推公历计算。',
       ],
@@ -301,9 +330,9 @@ const zh: MethodContent = {
     {
       title: '闰月',
       list: [
-        '**十一月**是包含冬至的农历月。',
-        '若从上一个十一月初到下一个十一月初超过 365 天，该年有 13 个农历月。',
-        '此时闰月是十一月之后第一个不含中气的月。闰月沿用前一个月的月份数；例如农历 2025 年有闰六月。',
+        '**十一月**是包含冬至日的农历月：本库求出太阳经过黄经 270° 的时刻，取包含该时刻的当地日期；包含这一天的农历月就是十一月。',
+        '若从本年十一月初到次年十一月初共有 13 个农历月，该年有闰月。',
+        '闰月是十一月之后第一个不含中气的月：该月初一当地午夜所在的 30° 中气区间，与下个月初一午夜所在的区间相同。闰月沿用前一个月的月份数；例如农历 2025 年有闰六月。',
         '农历年在正月初一更替。',
       ],
       ordered: true,
@@ -370,16 +399,29 @@ const zh: MethodContent = {
       after: [
         '**黄道时辰**已核对：2025-02-01（全部 12 个时辰，baoquocte.vn）、2025-05-01（vtcnews.vn、baolamdong.vn）、2026-02-10（xemlicham.com、baohatinh.vn、ngaydep.com）、2026-10-09（xemlicham.com、ngaydep.com）和 2026-10-28（xemlicham.com）。对 2025–2026 年的每一天，测试都检查恰好有 6 个黄道时辰。',
         '**建除：**2026-10-28 和 2026-02-10 为“除”（xemlicham.com、ngaydep.com）。2026-02-10 是农历腊月廿三，但已过立春：按节气月为“除”，按农历月则为“满”。',
-        '**节气：**对 2026–2027 年的每一天，节气区间长 14–16 天，边界正是节气交替处；这是内部一致性检查。本库尚未将交节日期与官方天文资料核对。Qelunai 应用曾用美国海军天文台公布的 2024 年春分、夏至、秋分、冬至时刻检查太阳黄经函数。',
+        '**节气：**对 2026–2027 年的每一天，节气区间长 14–16 天，边界正是节气交替处；这是内部一致性检查。1900–2100 年每一天的节气序号都已与 NASA JPL DE440s 核对（见下一节）。Qelunai 应用曾用美国海军天文台公布的 2024 年春分、夏至、秋分、冬至时刻检查太阳黄经函数。',
         '测试中的其他样例日期（初一、十五、忌日样例、2025 年闰六月的起始日）是算法计算出的值，尚未与外部来源核对。',
       ],
+    },
+    {
+      title: '天文核对：NASA JPL DE440s，1900–2100 年',
+      body: ['朔的时刻和太阳经过每个 15° 整数倍的时刻（UTC+7）由 NASA JPL 的 DE440s 星历表借助 Skyfield 库生成，与任何农历代码无关，再与本库在 1900-01-01 至 2100-12-31 的每一天（共 73,414 天）的结果对比。'],
+      table: {
+        head: ['检查项', '结果'],
+        rows: [
+          ['朔落在错误的当地日期', '2 例：1944-06-20 23:59:17 和 1967-07-07 23:59:59，均距午夜不超过 43 秒'],
+          ['午夜时的节气序号与 JPL 不同', '11 天，均距交节时刻不超过 8 分钟'],
+        ],
+      },
+      after: ['只有当 JPL 时刻距午夜不超过 2 分钟（朔）或 10 分钟（节气）时，测试才接受差异，且接受的例数上限分别为 2 和 11。'],
     },
     {
       title: '局限',
       list: [
         '已与公开历书核对的：上述日期，范围在 **2023–2027** 年。此范围以外的结果用相同方法计算，但未经核对。',
-        '“约 1200–3000 年可靠”的说法来自另一个使用同类算法的库；qelunai-lunar 尚未自行验证。',
-        '简化级数和 ΔT 近似在少数情况下可能把朔或节气推过午夜，使月份边界偏差一天。',
+        '天文部分已与 NASA JPL DE440s 核对的范围为 **1900–2100** 年，此范围以外尚未核对。',
+        '朔或节气若落在当地午夜前后几分钟内，可能被归到相邻的一天；这一误差小于简化级数以及未来年份 ΔT 预测值的精度。',
+        '1900 年以前 ΔT 沿用 1900 年的值：更早的日期仍可换算，但核对较少。',
         '尚无将越南农历与中国或韩国农历对比的测试。',
         '不适用于高精度天文计算。',
       ],
@@ -409,10 +451,11 @@ const ko: MethodContent = {
       title: '음력은 어떻게 계산하나요',
       body: ['베트남 달력은 태음태양력입니다. 음력 한 달은 현지 시간 기준 **삭일**(새달)에 시작하며, 음력 날짜는 해당 날짜보다 늦지 않은 가장 최근 삭일부터 센 일수에 1을 더한 값입니다.'],
       list: [
-        '양력 날짜는 Fliegel과 Van Flandern(1968)의 공식으로 율리우스일(JDN)로 바꿉니다. Meeus의 《Astronomical Algorithms》(제2판, 1998)에 실린 공식입니다.',
-        '**삭:** 평균 삭망월 29.530588853일에 간략화한 주기 보정항을 더하고, 다항식 형태의 ΔT 근사값을 뺍니다.',
-        '**태양 황경:** 간략화한 3항 급수이며, 장동과 광행차 보정은 하지 않습니다.',
-        '변환 구조(삭, 11월, 윤달)는 Ho Ngoc Duc이 공개하고 여러 라이브러리가 사용하는 베트남 음력 알고리즘입니다.',
+        '양력 날짜는 Fliegel과 Van Flandern(1968)의 공식으로 율리우스일(JDN)로 바꿉니다. Meeus의 《Astronomical Algorithms》(제2판, 1998) 7장을 참고하세요.',
+        '**삭:** Meeus 49장(달의 위상)을 따릅니다. 평균 삭 시각에 태양 평균근점이각, 달 평균근점이각, 달의 위도 인수로 이루어진 간략화한 주기항을 더합니다. 결과는 TT 기준이며 ΔT를 빼서 UT로 바꿉니다.',
+        '**태양 황경:** Meeus 25장의 저정밀 방법을 따릅니다. 평균 황경과 평균근점이각, 중심차 3항을 쓰고 장동과 광행차를 보정합니다.',
+        '**ΔT = TT − UT:** F. Espenak과 J. Meeus의 다항식(NASA TP-2006-214141) 중 1900–2150년 구간을 씁니다. 1900년 이전에는 1900년 값을 그대로 씁니다.',
+        '라이브러리의 천문 핵심 코드는 공개된 천문 자료만으로 독립적으로(클린룸 방식) 작성했으며, 과정과 출처는 https://github.com/qelunai/qelunai-lunar/blob/main/CLEANROOM.md 에 기록되어 있습니다.',
         '기본 시간대는 **UTC+7**(베트남 시간)이며 기기의 시간대와 상관없습니다. 삭이나 중기가 자정 무렵이면 중국(UTC+8)이나 한국(UTC+9) 음력과 하루, 나아가 한 달이나 한 해가 차이 날 수 있습니다.',
         '그레고리력만 씁니다. 1582-10-15 이전 날짜는 그레고리력을 거슬러 적용해 계산합니다.',
       ],
@@ -420,9 +463,9 @@ const ko: MethodContent = {
     {
       title: '윤달',
       list: [
-        '**11월**은 동지가 든 음력 달입니다.',
-        '전년 11월 초부터 다음 11월 초까지가 365일보다 길면 그해는 음력 달이 13개입니다.',
-        '이때 윤달은 11월 뒤에 오는 첫 번째, 중기가 없는 달입니다. 윤달은 바로 앞 달의 숫자를 씁니다. 예를 들어 음력 2025년에는 윤6월이 있습니다.',
+        '**11월**은 동짓날이 든 음력 달입니다. 라이브러리는 태양이 황경 270°를 지나는 시각을 구하고 그 시각이 속한 현지 날짜를 잡은 뒤, 그날이 든 음력 달을 11월로 정합니다.',
+        '올해 11월 초부터 다음 해 11월 초까지 음력 달이 13개이면 그해에는 윤달이 있습니다.',
+        '윤달은 11월 뒤에 오는 첫 번째, 중기가 없는 달입니다. 그 달 초하루 현지 자정의 30° 중기 구간이 다음 달 초하루 자정의 구간과 같으면 중기가 없는 달입니다. 윤달은 바로 앞 달의 숫자를 씁니다. 예를 들어 음력 2025년에는 윤6월이 있습니다.',
         '음력 해는 정월 초하루에 바뀝니다.',
       ],
       ordered: true,
@@ -489,16 +532,29 @@ const ko: MethodContent = {
       after: [
         '**황도시** 대조: 2025-02-01(12시진 전부, baoquocte.vn), 2025-05-01(vtcnews.vn · baolamdong.vn), 2026-02-10(xemlicham.com · baohatinh.vn · ngaydep.com), 2026-10-09(xemlicham.com · ngaydep.com), 2026-10-28(xemlicham.com). 2025–2026년의 모든 날짜에 대해 황도시가 정확히 6개인지 테스트합니다.',
         '**십이직:** 2026-10-28과 2026-02-10은 제(除)입니다(xemlicham.com · ngaydep.com). 2026-02-10은 음력 섣달 23일이지만 입춘이 지났으므로 절기 월로는 제, 음력 월로는 만이 됩니다.',
-        '**절기:** 2026–2027년의 모든 날짜에서 절기 구간은 14–16일이고 경계는 실제로 절기가 바뀌는 곳입니다. 이는 내부 일관성 검사입니다. 라이브러리에서는 절기 날짜를 공식 천문 자료와 아직 대조하지 않았습니다. Qelunai 앱은 미국 해군 천문대의 2024년 춘분·하지·추분·동지 시각으로 태양 황경 함수를 검사합니다.',
+        '**절기:** 2026–2027년의 모든 날짜에서 절기 구간은 14–16일이고 경계는 실제로 절기가 바뀌는 곳입니다. 이는 내부 일관성 검사입니다. 1900–2100년 모든 날짜의 절기 번호는 NASA JPL DE440s와 대조했습니다(다음 절 참조). Qelunai 앱은 미국 해군 천문대의 2024년 춘분·하지·추분·동지 시각으로 태양 황경 함수를 검사합니다.',
         '테스트의 다른 예시 날짜(초하루, 보름, 기일 예시, 2025년 윤6월 시작일)는 알고리즘이 계산한 값이며 외부 출처와 아직 대조하지 않았습니다.',
       ],
+    },
+    {
+      title: '천문 대조: NASA JPL DE440s, 1900–2100년',
+      body: ['삭 시각과 태양이 15°의 배수를 지나는 시각(UTC+7)을 NASA JPL의 DE440s 천체력에서 Skyfield 라이브러리로 생성했습니다. 이 값은 어떤 음력 코드와도 독립적이며, 1900-01-01부터 2100-12-31까지 모든 날짜(73,414일)에 대해 라이브러리 결과와 비교했습니다.'],
+      table: {
+        head: ['검사', '결과'],
+        rows: [
+          ['삭이 잘못된 현지 날짜에 놓임', '2건: 1944-06-20 23:59:17, 1967-07-07 23:59:59. 둘 다 자정에서 43초 이내'],
+          ['자정 기준 절기 번호가 JPL과 다름', '11일. 모두 절기가 바뀌는 시각에서 8분 이내'],
+        ],
+      },
+      after: ['테스트는 JPL 시각이 자정에서 2분(삭) 또는 10분(절기) 이내일 때만 차이를 허용하며, 허용 건수 상한은 각각 2건과 11건입니다.'],
     },
     {
       title: '한계',
       list: [
         '공개된 달력과 대조한 범위: 위의 날짜들, **2023–2027년** 안. 이 범위 밖의 결과는 같은 방법으로 계산하지만 대조하지 않았습니다.',
-        '"대략 1200–3000년에 신뢰할 수 있다"는 수치는 같은 계열 알고리즘을 쓰는 다른 라이브러리가 밝힌 것이며, qelunai-lunar가 직접 확인하지 않았습니다.',
-        '간략화한 급수와 ΔT 근사 때문에 드물게 삭이나 절기가 자정을 넘어가 달의 경계가 하루 어긋날 수 있습니다.',
+        '천문 계산은 NASA JPL DE440s와 **1900–2100년** 범위에서 대조했습니다. 이 범위 밖은 대조하지 않았습니다.',
+        '삭이나 절기가 현지 자정 전후 몇 분 안에 들면 이웃한 날짜로 분류될 수 있습니다. 이 오차는 간략화한 급수와 미래 연도 ΔT 예측값의 정밀도보다 작습니다.',
+        '1900년 이전에는 ΔT를 1900년 값으로 고정합니다. 그 이전 날짜도 변환은 되지만 검증이 적습니다.',
         '베트남 음력과 중국·한국 음력을 비교하는 테스트는 아직 없습니다.',
         '고정밀 천문 계산에는 적합하지 않습니다.',
       ],
