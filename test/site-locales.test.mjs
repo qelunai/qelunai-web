@@ -10,7 +10,7 @@ const site = 'https://qelunai.com/';
 
 /** URL prefix and `<html lang>` (also the hreflang code) of each language. */
 const langs = { vi: ['', 'vi'], en: ['en/', 'en'], zh: ['zh/', 'zh-Hans'], ko: ['ko/', 'ko'] };
-const indexable = ['', 'privacy/', 'support/', 'delete-account/', 'terms/', 'lich-am/', 'gio-hoang-dao/', 'kinh-dich/', 'testers/', 'blog/'];
+const indexable = ['', 'privacy/', 'support/', 'delete-account/', 'terms/', 'lich-am/', 'gio-hoang-dao/', 'kinh-dich/', 'testers/', 'blog/', 'phuong-phap/'];
 const noindex = ['tai/'];
 
 /** Published posts per language, from the built JSON feeds: slug → URL path. */
@@ -56,7 +56,7 @@ const names = [
   'Firebase Cloud Messaging', 'Firebase Performance Monitoring', 'Google Gemini Developer API', 'Apple App Attest',
   'Apple Push Notification service',
   'Google Analytics', 'Google AdMob', 'Google Play', 'Google Cloud', 'Cloud Firestore', 'App Store', 'App Check',
-  'Apple ID', 'Qelunai Plus', 'TestFlight', 'iPhone', 'iPad', 'Android',
+  'Apple ID', 'Qelunai Plus', 'Ho Ngoc Duc', 'TestFlight', 'iPhone', 'iPad', 'Android',
 ];
 /** Three or more Latin words in a row, once URLs, emails and the names above are gone: an untranslated phrase. */
 function englishLeft(text) {

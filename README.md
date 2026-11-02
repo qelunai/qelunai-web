@@ -25,6 +25,7 @@ Node 22 or newer.
 | `src/i18n/index.ts` | Default language, page slugs, `pathFor`, `localePaths`, `alternatesFor` |
 | `src/i18n/growth.ts` | Copy for `/lich-am/`, `/gio-hoang-dao/` and `/kinh-dich/`, and the zh/ko names of stems, branches and hour spirits |
 | `src/layouts/Base.astro` | `<head>`, SEO tags, hreflang, JSON-LD, header, footer |
+| `src/i18n/methodology.ts`, `src/pages/[...lang]/phuong-phap.astro` | "Phương pháp & độ chính xác" page (see below) |
 | `src/layouts/LegalPage.astro` | Shell for the privacy, support, delete-account and terms pages |
 | `src/components/Landing.astro` | The landing page sections |
 | `src/components/LandingPage.astro` | Page wrapper that adds the app and FAQ structured data |
@@ -168,6 +169,10 @@ Xác thực bằng Workload Identity Federation, không dùng khoá JSON. Biến
 | `GCP_BLOG_PUSH_SA` | `blog-push@qelunai.iam.gserviceaccount.com` (vai trò Firebase Cloud Messaging API Admin) |
 
 Provider chỉ nhận token của repo `qelunai/qelunai-web` với ref `refs/heads/main`, nên chỉ chạy từ `main` mới gửi được. Thiếu một trong hai biến thì workflow in cảnh báo và kết thúc thành công, không gửi gì. Test của script không cần mạng: `npm run test:notify`.
+
+## Phương pháp & độ chính xác (`/phuong-phap/`)
+
+`/phuong-phap/` (also `/en/phuong-phap/`, `/zh/phuong-phap/`, `/ko/phuong-phap/`, the same slug in every language like the other pages) explains how the lunar calendar, leap months, solar terms, Can Chi and lucky hours are computed, what has been checked, and the limits. Copy lives in `src/i18n/methodology.ts`. Its only source is `METHODOLOGY.md` and `README.md` of the open-source library <https://github.com/qelunai/qelunai-lunar> (MIT): add nothing that is not stated there, and when those files change, update the page. Items the source marks [Chưa kiểm chứng] / [Unverified] are written as "chưa đối chiếu" / "not yet checked" or left out. The Chinese and Korean versions are AI translations of the English copy and have not been reviewed by native speakers.
 
 ## Deploy
 

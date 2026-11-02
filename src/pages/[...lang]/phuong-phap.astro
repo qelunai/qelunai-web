@@ -1,0 +1,38 @@
+---
+import LegalPage from '../../layouts/LegalPage.astro';
+import { localePaths, rich } from '../../i18n';
+import { methodFor } from '../../i18n/methodology';
+
+export const getStaticPaths = localePaths;
+
+const { locale } = Astro.props;
+const t = methodFor(locale.code);
+---
+
+<LegalPage locale={locale} page="method" title={t.title} description={t.description} lead={t.lead}>
+  {
+    t.sections.map((s) => (
+      <section>
+        <h2>{s.title}</h2>
+        {s.body?.map((text) => <p set:html={rich(text)} />)}
+        {s.list && s.ordered && <ol>{s.list.map((text) => <li set:html={rich(text)} />)}</ol>}
+        {s.list && !s.ordered && <ul>{s.list.map((text) => <li set:html={rich(text)} />)}</ul>}
+        {s.table && (
+          <div class="table-wrap">
+            <table class="method-table">
+              <thead>
+                <tr>{s.table.head.map((h) => <th scope="col">{h}</th>)}</tr>
+              </thead>
+              <tbody>
+                {s.table.rows.map((row) => (
+                  <tr>{row.map((cell, i) => (i === 0 ? <th scope="row">{cell}</th> : <td>{cell}</td>))}</tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        )}
+        {s.after?.map((text) => <p set:html={rich(text)} />)}
+      </section>
+    ))
+  }
+</LegalPage>
