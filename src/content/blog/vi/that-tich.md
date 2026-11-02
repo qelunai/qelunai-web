@@ -30,7 +30,7 @@ Tám ngày sau Thất tịch là rằm tháng Bảy, [lễ Vu Lan](/blog/le-vu-l
 
 ## Truyện Ngưu Lang Chức Nữ
 
-Thất tịch gắn với truyện Ngưu Lang Chức Nữ, một truyện có gốc Trung Hoa. Hai người yêu nhau bị chia cách, mỗi năm chỉ được gặp nhau một lần vào ngày này. Người Việt gọi hai nhân vật là ông Ngâu bà Ngâu.
+Lễ Thất tịch có gốc từ Trung Hoa và gắn với truyện Ngưu Lang Chức Nữ. Hai người yêu nhau bị chia cách, mỗi năm chỉ được gặp nhau một lần vào ngày này. Người Việt gọi hai nhân vật là ông Ngâu bà Ngâu.
 
 ## Phong tục thường thấy
 
@@ -45,4 +45,4 @@ Như mùng 5 tháng 5 ([Tết Đoan ngọ](/blog/tet-doan-ngo/)), mùng 9 tháng
 
 ## Dịp lễ trong Qelunai
 
-Lịch tháng trong Qelunai đánh dấu các dịp lễ tết truyền thống, tính theo giờ Việt Nam ngay trên máy. Chọn ngày đó, mục Dịp lễ trong Chi tiết ngày tóm tắt ý nghĩa và phong tục. Bạn có thể bật nhắc trước một ngày, lúc 8 giờ sáng, trong phần cài đặt thông báo (mặc định tắt). Muốn tra nhanh ngày âm của một ngày bất kỳ, hãy dùng trang [Lịch âm](/lich-am/).
+Lịch tháng trong Qelunai cho xem ngày âm và tiết khí của từng ngày, tính theo giờ Việt Nam ngay trên máy. Ở bản cập nhật tới, lịch sẽ đánh dấu sẵn các dịp lễ tết truyền thống, có mục Dịp lễ trong Chi tiết ngày và lời nhắc trước một ngày (mặc định tắt). Muốn tra nhanh ngày âm của một ngày bất kỳ, hãy dùng trang [Lịch âm](/lich-am/).

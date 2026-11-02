@@ -59,4 +59,4 @@ No day is "more correct". If your village or family has its own day, keep to it.
 
 ## Festivals in Qelunai
 
-The month view in Qelunai marks traditional Vietnamese festivals, worked out in Vietnam time right on your phone. Select that day and the Festival section in Day details sums up its meaning and customs. You can turn on a reminder one day before, at 8 a.m., in the notification settings (off by default). To look up the lunar date of any day, use the [Lunar calendar](/en/lich-am/) page.
+The month view in Qelunai shows the lunar date and solar term of every day, worked out in Vietnam time right on your phone. In the next update, the calendar will mark traditional festivals, with a Festival section in Day details and an optional reminder one day before (off by default). To look up the lunar date of any day, use the [Lunar calendar](/en/lich-am/) page.

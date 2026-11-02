@@ -59,4 +59,4 @@ Mâm cỗ Tết, hoa chưng Tết và các loại quả trong mâm ngũ quả kh
 
 ## Dịp lễ trong Qelunai
 
-Lịch tháng trong Qelunai đánh dấu các dịp lễ tết truyền thống, tính theo giờ Việt Nam ngay trên máy. Chọn ngày đó, mục Dịp lễ trong Chi tiết ngày tóm tắt ý nghĩa và phong tục. Bạn có thể bật nhắc trước một ngày, lúc 8 giờ sáng, trong phần cài đặt thông báo (mặc định tắt). Muốn tra nhanh ngày âm của một ngày bất kỳ, hãy dùng trang [Lịch âm](/lich-am/).
+Lịch tháng trong Qelunai cho xem ngày âm và tiết khí của từng ngày, tính theo giờ Việt Nam ngay trên máy. Ở bản cập nhật tới, lịch sẽ đánh dấu sẵn các dịp lễ tết truyền thống, có mục Dịp lễ trong Chi tiết ngày và lời nhắc trước một ngày (mặc định tắt). Muốn tra nhanh ngày âm của một ngày bất kỳ, hãy dùng trang [Lịch âm](/lich-am/).

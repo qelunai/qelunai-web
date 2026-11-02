@@ -30,7 +30,7 @@ Eight days after Thất tịch comes the full moon of the seventh month, [Vu Lan
 
 ## The Cowherd and the Weaver Girl
 
-Thất tịch is linked to the tale of Ngưu Lang and Chức Nữ, the Cowherd and the Weaver Girl, a story of Chinese origin. The two lovers are kept apart and may meet only once a year, on this day. Vietnamese people call the pair ông Ngâu and bà Ngâu.
+Thất tịch came to Vietnam from China and is linked to the tale of Ngưu Lang and Chức Nữ, the Cowherd and the Weaver Girl. The two lovers are kept apart and may meet only once a year, on this day. Vietnamese people call the pair ông Ngâu and bà Ngâu.
 
 ## Common customs
 
@@ -45,4 +45,4 @@ Like the 5th of the fifth month ([Tết Đoan ngọ](/en/blog/tet-doan-ngo/)), t
 
 ## Festivals in Qelunai
 
-The month view in Qelunai marks traditional Vietnamese festivals, worked out in Vietnam time right on your phone. Select that day and the Festival section in Day details sums up its meaning and customs. You can turn on a reminder one day before, at 8 a.m., in the notification settings (off by default). To look up the lunar date of any day, use the [Lunar calendar](/en/lich-am/) page.
+The month view in Qelunai shows the lunar date and solar term of every day, worked out in Vietnam time right on your phone. In the next update, the calendar will mark traditional festivals, with a Festival section in Day details and an optional reminder one day before (off by default). To look up the lunar date of any day, use the [Lunar calendar](/en/lich-am/) page.
