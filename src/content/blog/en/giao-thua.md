@@ -12,7 +12,7 @@ sources:
     url: https://tuoitre.vn/y-nghia-va-nhung-tuc-le-ngay-tet-nguyen-dan-o-viet-nam-298423.htm
   - title: VnExpress, "Những phong tục trong lễ giao thừa" (10/02/2002)
     url: https://vnexpress.net/nhung-phong-tuc-trong-le-giao-thua-2051112.html
-  - title: Thanh Niên, "Tết Ất Tỵ 2025: Giao thừa là gì? Vì sao người Việt coi trọng đêm giao thừa?" (28/01/2025)
+  - title: 'Thanh Niên, "Tết Ất Tỵ 2025: Giao thừa là gì? Vì sao người Việt coi trọng đêm giao thừa?" (28/01/2025)'
     url: https://thanhnien.vn/tet-at-ty-2025-giao-thua-la-gi-vi-sao-nguoi-viet-coi-trong-dem-giao-thua-185250126225431955.htm
   - title: VTV, "Mâm cúng giao thừa cần những gì?" (09/02/2021)
     url: https://vtv.vn/doi-song/mam-cung-giao-thua-can-nhung-gi-20210208110044089.htm

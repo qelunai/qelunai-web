@@ -8,7 +8,7 @@ tags: [festivals, Trùng Thập, lunar calendar]
 appRoute: /calendar
 notify: true
 sources:
-  - title: VietTimes, "Đố bạn: Mỗi năm người Việt có bao nhiêu ngày Tết?" (09/02/2016, theo Tri thức trẻ)
+  - title: 'VietTimes, "Đố bạn: Mỗi năm người Việt có bao nhiêu ngày Tết?" (09/02/2016, theo Tri thức trẻ)'
     url: https://viettimes.vn/do-ban-moi-nam-nguoi-viet-co-bao-nhieu-ngay-tet-post19147.html
   - title: VOV, "Ý nghĩa những ngày Tết tính theo âm lịch" (21/01/2012)
     url: https://vov.vn/van-hoa-giai-tri/y-nghia-nhung-ngay-tet-tinh-theo-am-lich-198117.vov
