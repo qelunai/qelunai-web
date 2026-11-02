@@ -1,0 +1,559 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Qelunai//vietnamese-calendar-data le-tet//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Vietnamese lunar festivals · Qelunai
+X-WR-CALDESC:Vietnamese lunar-calendar festivals listed in the Qelunai app.
+  Computed with the qelunai_lunar library for Vietnam time (UTC+7). For cul
+ tural reference. Method: https://qelunai.com/en/phuong-phap/
+X-WR-TIMEZONE:Asia/Ho_Chi_Minh
+REFRESH-INTERVAL;VALUE=DURATION:P7D
+X-PUBLISHED-TTL:P7D
+BEGIN:VEVENT
+UID:le-tet-ong-cong-ong-tao-20250122-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250122
+DTEND;VALUE=DATE:20250123
+SUMMARY:Kitchen Gods day
+DESCRIPTION:Lunar day 23\, month 12\, year Giáp Thìn.\nComputed with the 
+ qelunai_lunar library for Vietnam time (UTC+7). For cultural reference. Me
+ thod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-giao-thua-20250128-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250128
+DTEND;VALUE=DATE:20250129
+SUMMARY:New Year's Eve
+DESCRIPTION:Lunar day 29\, month 12\, year Giáp Thìn. The eve is the nigh
+ t of this day\, before the first day of Tết.\nComputed with the qelunai_
+ lunar library for Vietnam time (UTC+7). For cultural reference. Method: ht
+ tps://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-nguyen-dan-20250129-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250129
+DTEND;VALUE=DATE:20250130
+SUMMARY:Lunar New Year
+DESCRIPTION:Lunar day 1\, month 1\, year Ất Tỵ.\nComputed with the qelu
+ nai_lunar library for Vietnam time (UTC+7). For cultural reference. Method
+ : https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-nguyen-tieu-20250212-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250212
+DTEND;VALUE=DATE:20250213
+SUMMARY:Lantern Festival
+DESCRIPTION:Lunar day 15\, month 1\, year Ất Tỵ.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-le-vu-lan-20250906-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250906
+DTEND;VALUE=DATE:20250907
+SUMMARY:Vu Lan
+DESCRIPTION:Lunar day 15\, month 7\, year Ất Tỵ.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-trung-thu-20251006-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251006
+DTEND;VALUE=DATE:20251007
+SUMMARY:Mid-Autumn Festival
+DESCRIPTION:Lunar day 15\, month 8\, year Ất Tỵ.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-ha-nguyen-20251204-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251204
+DTEND;VALUE=DATE:20251205
+SUMMARY:Hạ Nguyên Festival
+DESCRIPTION:Lunar day 15\, month 10\, year Ất Tỵ.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-ong-cong-ong-tao-20260210-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+SUMMARY:Kitchen Gods day
+DESCRIPTION:Lunar day 23\, month 12\, year Ất Tỵ.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-giao-thua-20260216-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+SUMMARY:New Year's Eve
+DESCRIPTION:Lunar day 29\, month 12\, year Ất Tỵ. The eve is the night 
+ of this day\, before the first day of Tết.\nComputed with the qelunai_lu
+ nar library for Vietnam time (UTC+7). For cultural reference. Method: http
+ s://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-nguyen-dan-20260217-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+SUMMARY:Lunar New Year
+DESCRIPTION:Lunar day 1\, month 1\, year Bính Ngọ.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-nguyen-tieu-20260303-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:Lantern Festival
+DESCRIPTION:Lunar day 15\, month 1\, year Bính Ngọ.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-le-vu-lan-20260827-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Vu Lan
+DESCRIPTION:Lunar day 15\, month 7\, year Bính Ngọ.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-trung-thu-20260925-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Mid-Autumn Festival
+DESCRIPTION:Lunar day 15\, month 8\, year Bính Ngọ.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-ha-nguyen-20261123-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Hạ Nguyên Festival
+DESCRIPTION:Lunar day 15\, month 10\, year Bính Ngọ.\nComputed with the 
+ qelunai_lunar library for Vietnam time (UTC+7). For cultural reference. Me
+ thod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-ong-cong-ong-tao-20270130-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Kitchen Gods day
+DESCRIPTION:Lunar day 23\, month 12\, year Bính Ngọ.\nComputed with the 
+ qelunai_lunar library for Vietnam time (UTC+7). For cultural reference. Me
+ thod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-giao-thua-20270205-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:New Year's Eve
+DESCRIPTION:Lunar day 29\, month 12\, year Bính Ngọ. The eve is the nigh
+ t of this day\, before the first day of Tết.\nComputed with the qelunai_
+ lunar library for Vietnam time (UTC+7). For cultural reference. Method: ht
+ tps://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-nguyen-dan-20270206-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Lunar New Year
+DESCRIPTION:Lunar day 1\, month 1\, year Đinh Mùi.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-nguyen-tieu-20270220-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Lantern Festival
+DESCRIPTION:Lunar day 15\, month 1\, year Đinh Mùi.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-le-vu-lan-20270816-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:Vu Lan
+DESCRIPTION:Lunar day 15\, month 7\, year Đinh Mùi.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-trung-thu-20270915-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Mid-Autumn Festival
+DESCRIPTION:Lunar day 15\, month 8\, year Đinh Mùi.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-ha-nguyen-20271112-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271112
+DTEND;VALUE=DATE:20271113
+SUMMARY:Hạ Nguyên Festival
+DESCRIPTION:Lunar day 15\, month 10\, year Đinh Mùi.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-ong-cong-ong-tao-20280119-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280119
+DTEND;VALUE=DATE:20280120
+SUMMARY:Kitchen Gods day
+DESCRIPTION:Lunar day 23\, month 12\, year Đinh Mùi.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-giao-thua-20280125-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280125
+DTEND;VALUE=DATE:20280126
+SUMMARY:New Year's Eve
+DESCRIPTION:Lunar day 29\, month 12\, year Đinh Mùi. The eve is the night
+  of this day\, before the first day of Tết.\nComputed with the qelunai_l
+ unar library for Vietnam time (UTC+7). For cultural reference. Method: htt
+ ps://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-nguyen-dan-20280126-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280126
+DTEND;VALUE=DATE:20280127
+SUMMARY:Lunar New Year
+DESCRIPTION:Lunar day 1\, month 1\, year Mậu Thân.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-nguyen-tieu-20280209-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280209
+DTEND;VALUE=DATE:20280210
+SUMMARY:Lantern Festival
+DESCRIPTION:Lunar day 15\, month 1\, year Mậu Thân.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-le-vu-lan-20280903-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280903
+DTEND;VALUE=DATE:20280904
+SUMMARY:Vu Lan
+DESCRIPTION:Lunar day 15\, month 7\, year Mậu Thân.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-trung-thu-20281003-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281003
+DTEND;VALUE=DATE:20281004
+SUMMARY:Mid-Autumn Festival
+DESCRIPTION:Lunar day 15\, month 8\, year Mậu Thân.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-ha-nguyen-20281130-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281130
+DTEND;VALUE=DATE:20281201
+SUMMARY:Hạ Nguyên Festival
+DESCRIPTION:Lunar day 15\, month 10\, year Mậu Thân.\nComputed with the 
+ qelunai_lunar library for Vietnam time (UTC+7). For cultural reference. Me
+ thod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-ong-cong-ong-tao-20290206-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290206
+DTEND;VALUE=DATE:20290207
+SUMMARY:Kitchen Gods day
+DESCRIPTION:Lunar day 23\, month 12\, year Mậu Thân.\nComputed with the 
+ qelunai_lunar library for Vietnam time (UTC+7). For cultural reference. Me
+ thod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-giao-thua-20290212-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290212
+DTEND;VALUE=DATE:20290213
+SUMMARY:New Year's Eve
+DESCRIPTION:Lunar day 29\, month 12\, year Mậu Thân. The eve is the nigh
+ t of this day\, before the first day of Tết.\nComputed with the qelunai_
+ lunar library for Vietnam time (UTC+7). For cultural reference. Method: ht
+ tps://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-nguyen-dan-20290213-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290213
+DTEND;VALUE=DATE:20290214
+SUMMARY:Lunar New Year
+DESCRIPTION:Lunar day 1\, month 1\, year Kỷ Dậu.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-nguyen-tieu-20290227-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290227
+DTEND;VALUE=DATE:20290228
+SUMMARY:Lantern Festival
+DESCRIPTION:Lunar day 15\, month 1\, year Kỷ Dậu.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-le-vu-lan-20290824-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290824
+DTEND;VALUE=DATE:20290825
+SUMMARY:Vu Lan
+DESCRIPTION:Lunar day 15\, month 7\, year Kỷ Dậu.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-trung-thu-20290922-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290922
+DTEND;VALUE=DATE:20290923
+SUMMARY:Mid-Autumn Festival
+DESCRIPTION:Lunar day 15\, month 8\, year Kỷ Dậu.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-ha-nguyen-20291120-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291120
+DTEND;VALUE=DATE:20291121
+SUMMARY:Hạ Nguyên Festival
+DESCRIPTION:Lunar day 15\, month 10\, year Kỷ Dậu.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-ong-cong-ong-tao-20300126-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300126
+DTEND;VALUE=DATE:20300127
+SUMMARY:Kitchen Gods day
+DESCRIPTION:Lunar day 23\, month 12\, year Kỷ Dậu.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-giao-thua-20300201-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300201
+DTEND;VALUE=DATE:20300202
+SUMMARY:New Year's Eve
+DESCRIPTION:Lunar day 29\, month 12\, year Kỷ Dậu. The eve is the night
+  of this day\, before the first day of Tết.\nComputed with the qelunai_l
+ unar library for Vietnam time (UTC+7). For cultural reference. Method: htt
+ ps://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-nguyen-dan-20300202-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300202
+DTEND;VALUE=DATE:20300203
+SUMMARY:Lunar New Year
+DESCRIPTION:Lunar day 1\, month 1\, year Canh Tuất.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-nguyen-tieu-20300216-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300216
+DTEND;VALUE=DATE:20300217
+SUMMARY:Lantern Festival
+DESCRIPTION:Lunar day 15\, month 1\, year Canh Tuất.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-le-vu-lan-20300813-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300813
+DTEND;VALUE=DATE:20300814
+SUMMARY:Vu Lan
+DESCRIPTION:Lunar day 15\, month 7\, year Canh Tuất.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-trung-thu-20300912-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300912
+DTEND;VALUE=DATE:20300913
+SUMMARY:Mid-Autumn Festival
+DESCRIPTION:Lunar day 15\, month 8\, year Canh Tuất.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-ha-nguyen-20301110-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20301110
+DTEND;VALUE=DATE:20301111
+SUMMARY:Hạ Nguyên Festival
+DESCRIPTION:Lunar day 15\, month 10\, year Canh Tuất.\nComputed with the 
+ qelunai_lunar library for Vietnam time (UTC+7). For cultural reference. Me
+ thod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-ong-cong-ong-tao-20310116-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310116
+DTEND;VALUE=DATE:20310117
+SUMMARY:Kitchen Gods day
+DESCRIPTION:Lunar day 23\, month 12\, year Canh Tuất.\nComputed with the 
+ qelunai_lunar library for Vietnam time (UTC+7). For cultural reference. Me
+ thod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-giao-thua-20310122-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310122
+DTEND;VALUE=DATE:20310123
+SUMMARY:New Year's Eve
+DESCRIPTION:Lunar day 29\, month 12\, year Canh Tuất. The eve is the nigh
+ t of this day\, before the first day of Tết.\nComputed with the qelunai_
+ lunar library for Vietnam time (UTC+7). For cultural reference. Method: ht
+ tps://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-nguyen-dan-20310123-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310123
+DTEND;VALUE=DATE:20310124
+SUMMARY:Lunar New Year
+DESCRIPTION:Lunar day 1\, month 1\, year Tân Hợi.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-nguyen-tieu-20310206-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310206
+DTEND;VALUE=DATE:20310207
+SUMMARY:Lantern Festival
+DESCRIPTION:Lunar day 15\, month 1\, year Tân Hợi.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-le-vu-lan-20310901-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310901
+DTEND;VALUE=DATE:20310902
+SUMMARY:Vu Lan
+DESCRIPTION:Lunar day 15\, month 7\, year Tân Hợi.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-trung-thu-20311001-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311001
+DTEND;VALUE=DATE:20311002
+SUMMARY:Mid-Autumn Festival
+DESCRIPTION:Lunar day 15\, month 8\, year Tân Hợi.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-ha-nguyen-20311129-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311129
+DTEND;VALUE=DATE:20311130
+SUMMARY:Hạ Nguyên Festival
+DESCRIPTION:Lunar day 15\, month 10\, year Tân Hợi.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

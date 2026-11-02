@@ -1,0 +1,2042 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Qelunai//vietnamese-calendar-data ram-mung-mot//VI
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rằm và mùng một · Qelunai
+X-WR-CALDESC:Mùng một và ngày rằm mỗi tháng âm lịch Việt Nam
+ \, có ghi tháng nhuận. Tính bằng thư viện qelunai_lunar theo gi
+ ờ Việt Nam (UTC+7). Thông tin mang tính tham khảo văn hoá. Phư
+ ơng pháp: https://qelunai.com/phuong-phap/
+X-WR-TIMEZONE:Asia/Ho_Chi_Minh
+REFRESH-INTERVAL;VALUE=DURATION:P7D
+X-PUBLISHED-TTL:P7D
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20250114-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250114
+DTEND;VALUE=DATE:20250115
+SUMMARY:Rằm tháng 12
+DESCRIPTION:Ngày 15 tháng 12 âm lịch\, năm Giáp Thìn.\nTính bằng
+  thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang 
+ tính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-ph
+ ap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20250129-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250129
+DTEND;VALUE=DATE:20250130
+SUMMARY:Mùng một tháng 1 · Tết Nguyên đán
+DESCRIPTION:Ngày 1 tháng 1 âm lịch\, năm Ất Tỵ.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20250212-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250212
+DTEND;VALUE=DATE:20250213
+SUMMARY:Rằm tháng 1 · Tết Nguyên tiêu
+DESCRIPTION:Ngày 15 tháng 1 âm lịch\, năm Ất Tỵ.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20250228-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250228
+DTEND;VALUE=DATE:20250301
+SUMMARY:Mùng một tháng 2
+DESCRIPTION:Ngày 1 tháng 2 âm lịch\, năm Ất Tỵ.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20250314-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250314
+DTEND;VALUE=DATE:20250315
+SUMMARY:Rằm tháng 2
+DESCRIPTION:Ngày 15 tháng 2 âm lịch\, năm Ất Tỵ.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20250329-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250329
+DTEND;VALUE=DATE:20250330
+SUMMARY:Mùng một tháng 3
+DESCRIPTION:Ngày 1 tháng 3 âm lịch\, năm Ất Tỵ.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20250412-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250412
+DTEND;VALUE=DATE:20250413
+SUMMARY:Rằm tháng 3
+DESCRIPTION:Ngày 15 tháng 3 âm lịch\, năm Ất Tỵ.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20250428-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250429
+SUMMARY:Mùng một tháng 4
+DESCRIPTION:Ngày 1 tháng 4 âm lịch\, năm Ất Tỵ.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20250512-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250513
+SUMMARY:Rằm tháng 4
+DESCRIPTION:Ngày 15 tháng 4 âm lịch\, năm Ất Tỵ.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20250527-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250527
+DTEND;VALUE=DATE:20250528
+SUMMARY:Mùng một tháng 5
+DESCRIPTION:Ngày 1 tháng 5 âm lịch\, năm Ất Tỵ.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20250610-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250610
+DTEND;VALUE=DATE:20250611
+SUMMARY:Rằm tháng 5
+DESCRIPTION:Ngày 15 tháng 5 âm lịch\, năm Ất Tỵ.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20250625-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250625
+DTEND;VALUE=DATE:20250626
+SUMMARY:Mùng một tháng 6
+DESCRIPTION:Ngày 1 tháng 6 âm lịch\, năm Ất Tỵ.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20250709-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250709
+DTEND;VALUE=DATE:20250710
+SUMMARY:Rằm tháng 6
+DESCRIPTION:Ngày 15 tháng 6 âm lịch\, năm Ất Tỵ.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20250725-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250725
+DTEND;VALUE=DATE:20250726
+SUMMARY:Mùng một tháng 6 nhuận
+DESCRIPTION:Ngày 1 tháng 6 nhuận âm lịch\, năm Ất Tỵ.\nTính b
+ ằng thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin 
+ mang tính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuo
+ ng-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20250808-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250808
+DTEND;VALUE=DATE:20250809
+SUMMARY:Rằm tháng 6 nhuận
+DESCRIPTION:Ngày 15 tháng 6 nhuận âm lịch\, năm Ất Tỵ.\nTính b
+ ằng thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin 
+ mang tính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuo
+ ng-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20250823-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250823
+DTEND;VALUE=DATE:20250824
+SUMMARY:Mùng một tháng 7
+DESCRIPTION:Ngày 1 tháng 7 âm lịch\, năm Ất Tỵ.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20250906-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250906
+DTEND;VALUE=DATE:20250907
+SUMMARY:Rằm tháng 7 · Lễ Vu Lan
+DESCRIPTION:Ngày 15 tháng 7 âm lịch\, năm Ất Tỵ.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20250922-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20250923
+SUMMARY:Mùng một tháng 8
+DESCRIPTION:Ngày 1 tháng 8 âm lịch\, năm Ất Tỵ.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20251006-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251006
+DTEND;VALUE=DATE:20251007
+SUMMARY:Rằm tháng 8 · Tết Trung thu
+DESCRIPTION:Ngày 15 tháng 8 âm lịch\, năm Ất Tỵ.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20251021-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251021
+DTEND;VALUE=DATE:20251022
+SUMMARY:Mùng một tháng 9
+DESCRIPTION:Ngày 1 tháng 9 âm lịch\, năm Ất Tỵ.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20251104-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251104
+DTEND;VALUE=DATE:20251105
+SUMMARY:Rằm tháng 9
+DESCRIPTION:Ngày 15 tháng 9 âm lịch\, năm Ất Tỵ.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20251120-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251120
+DTEND;VALUE=DATE:20251121
+SUMMARY:Mùng một tháng 10
+DESCRIPTION:Ngày 1 tháng 10 âm lịch\, năm Ất Tỵ.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20251204-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251204
+DTEND;VALUE=DATE:20251205
+SUMMARY:Rằm tháng 10 · Tết Hạ nguyên
+DESCRIPTION:Ngày 15 tháng 10 âm lịch\, năm Ất Tỵ.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20251220-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20251221
+SUMMARY:Mùng một tháng 11
+DESCRIPTION:Ngày 1 tháng 11 âm lịch\, năm Ất Tỵ.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20260103-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260103
+DTEND;VALUE=DATE:20260104
+SUMMARY:Rằm tháng 11
+DESCRIPTION:Ngày 15 tháng 11 âm lịch\, năm Ất Tỵ.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20260119-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+SUMMARY:Mùng một tháng 12
+DESCRIPTION:Ngày 1 tháng 12 âm lịch\, năm Ất Tỵ.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20260202-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:Rằm tháng 12
+DESCRIPTION:Ngày 15 tháng 12 âm lịch\, năm Ất Tỵ.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20260217-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+SUMMARY:Mùng một tháng 1 · Tết Nguyên đán
+DESCRIPTION:Ngày 1 tháng 1 âm lịch\, năm Bính Ngọ.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20260303-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:Rằm tháng 1 · Tết Nguyên tiêu
+DESCRIPTION:Ngày 15 tháng 1 âm lịch\, năm Bính Ngọ.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20260319-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:Mùng một tháng 2
+DESCRIPTION:Ngày 1 tháng 2 âm lịch\, năm Bính Ngọ.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20260402-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:Rằm tháng 2
+DESCRIPTION:Ngày 15 tháng 2 âm lịch\, năm Bính Ngọ.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20260417-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:Mùng một tháng 3
+DESCRIPTION:Ngày 1 tháng 3 âm lịch\, năm Bính Ngọ.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20260501-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Rằm tháng 3
+DESCRIPTION:Ngày 15 tháng 3 âm lịch\, năm Bính Ngọ.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20260517-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:Mùng một tháng 4
+DESCRIPTION:Ngày 1 tháng 4 âm lịch\, năm Bính Ngọ.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20260531-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Rằm tháng 4
+DESCRIPTION:Ngày 15 tháng 4 âm lịch\, năm Bính Ngọ.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20260615-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Mùng một tháng 5
+DESCRIPTION:Ngày 1 tháng 5 âm lịch\, năm Bính Ngọ.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20260629-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+SUMMARY:Rằm tháng 5
+DESCRIPTION:Ngày 15 tháng 5 âm lịch\, năm Bính Ngọ.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20260714-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:Mùng một tháng 6
+DESCRIPTION:Ngày 1 tháng 6 âm lịch\, năm Bính Ngọ.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20260728-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:Rằm tháng 6
+DESCRIPTION:Ngày 15 tháng 6 âm lịch\, năm Bính Ngọ.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20260813-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:Mùng một tháng 7
+DESCRIPTION:Ngày 1 tháng 7 âm lịch\, năm Bính Ngọ.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20260827-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Rằm tháng 7 · Lễ Vu Lan
+DESCRIPTION:Ngày 15 tháng 7 âm lịch\, năm Bính Ngọ.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20260911-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Mùng một tháng 8
+DESCRIPTION:Ngày 1 tháng 8 âm lịch\, năm Bính Ngọ.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20260925-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Rằm tháng 8 · Tết Trung thu
+DESCRIPTION:Ngày 15 tháng 8 âm lịch\, năm Bính Ngọ.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20261010-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Mùng một tháng 9
+DESCRIPTION:Ngày 1 tháng 9 âm lịch\, năm Bính Ngọ.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20261024-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Rằm tháng 9
+DESCRIPTION:Ngày 15 tháng 9 âm lịch\, năm Bính Ngọ.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20261109-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Mùng một tháng 10
+DESCRIPTION:Ngày 1 tháng 10 âm lịch\, năm Bính Ngọ.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20261123-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Rằm tháng 10 · Tết Hạ nguyên
+DESCRIPTION:Ngày 15 tháng 10 âm lịch\, năm Bính Ngọ.\nTính bằng
+  thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang 
+ tính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-ph
+ ap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20261209-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Mùng một tháng 11
+DESCRIPTION:Ngày 1 tháng 11 âm lịch\, năm Bính Ngọ.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20261223-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Rằm tháng 11
+DESCRIPTION:Ngày 15 tháng 11 âm lịch\, năm Bính Ngọ.\nTính bằng
+  thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang 
+ tính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-ph
+ ap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20270108-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Mùng một tháng 12
+DESCRIPTION:Ngày 1 tháng 12 âm lịch\, năm Bính Ngọ.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20270122-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Rằm tháng 12
+DESCRIPTION:Ngày 15 tháng 12 âm lịch\, năm Bính Ngọ.\nTính bằng
+  thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang 
+ tính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-ph
+ ap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20270206-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Mùng một tháng 1 · Tết Nguyên đán
+DESCRIPTION:Ngày 1 tháng 1 âm lịch\, năm Đinh Mùi.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20270220-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Rằm tháng 1 · Tết Nguyên tiêu
+DESCRIPTION:Ngày 15 tháng 1 âm lịch\, năm Đinh Mùi.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20270308-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:Mùng một tháng 2
+DESCRIPTION:Ngày 1 tháng 2 âm lịch\, năm Đinh Mùi.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20270322-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Rằm tháng 2
+DESCRIPTION:Ngày 15 tháng 2 âm lịch\, năm Đinh Mùi.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20270407-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:Mùng một tháng 3
+DESCRIPTION:Ngày 1 tháng 3 âm lịch\, năm Đinh Mùi.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20270421-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Rằm tháng 3
+DESCRIPTION:Ngày 15 tháng 3 âm lịch\, năm Đinh Mùi.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20270506-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:Mùng một tháng 4
+DESCRIPTION:Ngày 1 tháng 4 âm lịch\, năm Đinh Mùi.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20270520-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:Rằm tháng 4
+DESCRIPTION:Ngày 15 tháng 4 âm lịch\, năm Đinh Mùi.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20270605-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Mùng một tháng 5
+DESCRIPTION:Ngày 1 tháng 5 âm lịch\, năm Đinh Mùi.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20270619-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:Rằm tháng 5
+DESCRIPTION:Ngày 15 tháng 5 âm lịch\, năm Đinh Mùi.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20270704-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:Mùng một tháng 6
+DESCRIPTION:Ngày 1 tháng 6 âm lịch\, năm Đinh Mùi.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20270718-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:Rằm tháng 6
+DESCRIPTION:Ngày 15 tháng 6 âm lịch\, năm Đinh Mùi.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20270802-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:Mùng một tháng 7
+DESCRIPTION:Ngày 1 tháng 7 âm lịch\, năm Đinh Mùi.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20270816-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:Rằm tháng 7 · Lễ Vu Lan
+DESCRIPTION:Ngày 15 tháng 7 âm lịch\, năm Đinh Mùi.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20270901-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:Mùng một tháng 8
+DESCRIPTION:Ngày 1 tháng 8 âm lịch\, năm Đinh Mùi.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20270915-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Rằm tháng 8 · Tết Trung thu
+DESCRIPTION:Ngày 15 tháng 8 âm lịch\, năm Đinh Mùi.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20270930-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+SUMMARY:Mùng một tháng 9
+DESCRIPTION:Ngày 1 tháng 9 âm lịch\, năm Đinh Mùi.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20271014-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271015
+SUMMARY:Rằm tháng 9
+DESCRIPTION:Ngày 15 tháng 9 âm lịch\, năm Đinh Mùi.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20271029-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271030
+SUMMARY:Mùng một tháng 10
+DESCRIPTION:Ngày 1 tháng 10 âm lịch\, năm Đinh Mùi.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20271112-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271112
+DTEND;VALUE=DATE:20271113
+SUMMARY:Rằm tháng 10 · Tết Hạ nguyên
+DESCRIPTION:Ngày 15 tháng 10 âm lịch\, năm Đinh Mùi.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20271128-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271128
+DTEND;VALUE=DATE:20271129
+SUMMARY:Mùng một tháng 11
+DESCRIPTION:Ngày 1 tháng 11 âm lịch\, năm Đinh Mùi.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20271212-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271212
+DTEND;VALUE=DATE:20271213
+SUMMARY:Rằm tháng 11
+DESCRIPTION:Ngày 15 tháng 11 âm lịch\, năm Đinh Mùi.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20271228-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271228
+DTEND;VALUE=DATE:20271229
+SUMMARY:Mùng một tháng 12
+DESCRIPTION:Ngày 1 tháng 12 âm lịch\, năm Đinh Mùi.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20280111-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280111
+DTEND;VALUE=DATE:20280112
+SUMMARY:Rằm tháng 12
+DESCRIPTION:Ngày 15 tháng 12 âm lịch\, năm Đinh Mùi.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20280126-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280126
+DTEND;VALUE=DATE:20280127
+SUMMARY:Mùng một tháng 1 · Tết Nguyên đán
+DESCRIPTION:Ngày 1 tháng 1 âm lịch\, năm Mậu Thân.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20280209-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280209
+DTEND;VALUE=DATE:20280210
+SUMMARY:Rằm tháng 1 · Tết Nguyên tiêu
+DESCRIPTION:Ngày 15 tháng 1 âm lịch\, năm Mậu Thân.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20280225-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280225
+DTEND;VALUE=DATE:20280226
+SUMMARY:Mùng một tháng 2
+DESCRIPTION:Ngày 1 tháng 2 âm lịch\, năm Mậu Thân.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20280310-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280310
+DTEND;VALUE=DATE:20280311
+SUMMARY:Rằm tháng 2
+DESCRIPTION:Ngày 15 tháng 2 âm lịch\, năm Mậu Thân.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20280326-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280326
+DTEND;VALUE=DATE:20280327
+SUMMARY:Mùng một tháng 3
+DESCRIPTION:Ngày 1 tháng 3 âm lịch\, năm Mậu Thân.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20280409-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280409
+DTEND;VALUE=DATE:20280410
+SUMMARY:Rằm tháng 3
+DESCRIPTION:Ngày 15 tháng 3 âm lịch\, năm Mậu Thân.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20280425-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280425
+DTEND;VALUE=DATE:20280426
+SUMMARY:Mùng một tháng 4
+DESCRIPTION:Ngày 1 tháng 4 âm lịch\, năm Mậu Thân.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20280509-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280509
+DTEND;VALUE=DATE:20280510
+SUMMARY:Rằm tháng 4
+DESCRIPTION:Ngày 15 tháng 4 âm lịch\, năm Mậu Thân.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20280524-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280524
+DTEND;VALUE=DATE:20280525
+SUMMARY:Mùng một tháng 5
+DESCRIPTION:Ngày 1 tháng 5 âm lịch\, năm Mậu Thân.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20280607-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280607
+DTEND;VALUE=DATE:20280608
+SUMMARY:Rằm tháng 5
+DESCRIPTION:Ngày 15 tháng 5 âm lịch\, năm Mậu Thân.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20280623-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280623
+DTEND;VALUE=DATE:20280624
+SUMMARY:Mùng một tháng 5 nhuận
+DESCRIPTION:Ngày 1 tháng 5 nhuận âm lịch\, năm Mậu Thân.\nTính 
+ bằng thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin
+  mang tính tham khảo văn hoá. Phương pháp: https://qelunai.com/phu
+ ong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20280707-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280707
+DTEND;VALUE=DATE:20280708
+SUMMARY:Rằm tháng 5 nhuận
+DESCRIPTION:Ngày 15 tháng 5 nhuận âm lịch\, năm Mậu Thân.\nTính
+  bằng thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông ti
+ n mang tính tham khảo văn hoá. Phương pháp: https://qelunai.com/ph
+ uong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20280722-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Mùng một tháng 6
+DESCRIPTION:Ngày 1 tháng 6 âm lịch\, năm Mậu Thân.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20280805-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280805
+DTEND;VALUE=DATE:20280806
+SUMMARY:Rằm tháng 6
+DESCRIPTION:Ngày 15 tháng 6 âm lịch\, năm Mậu Thân.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20280820-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280820
+DTEND;VALUE=DATE:20280821
+SUMMARY:Mùng một tháng 7
+DESCRIPTION:Ngày 1 tháng 7 âm lịch\, năm Mậu Thân.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20280903-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280903
+DTEND;VALUE=DATE:20280904
+SUMMARY:Rằm tháng 7 · Lễ Vu Lan
+DESCRIPTION:Ngày 15 tháng 7 âm lịch\, năm Mậu Thân.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20280919-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280919
+DTEND;VALUE=DATE:20280920
+SUMMARY:Mùng một tháng 8
+DESCRIPTION:Ngày 1 tháng 8 âm lịch\, năm Mậu Thân.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20281003-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281003
+DTEND;VALUE=DATE:20281004
+SUMMARY:Rằm tháng 8 · Tết Trung thu
+DESCRIPTION:Ngày 15 tháng 8 âm lịch\, năm Mậu Thân.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20281018-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281018
+DTEND;VALUE=DATE:20281019
+SUMMARY:Mùng một tháng 9
+DESCRIPTION:Ngày 1 tháng 9 âm lịch\, năm Mậu Thân.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20281101-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281101
+DTEND;VALUE=DATE:20281102
+SUMMARY:Rằm tháng 9
+DESCRIPTION:Ngày 15 tháng 9 âm lịch\, năm Mậu Thân.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20281116-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281116
+DTEND;VALUE=DATE:20281117
+SUMMARY:Mùng một tháng 10
+DESCRIPTION:Ngày 1 tháng 10 âm lịch\, năm Mậu Thân.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20281130-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281130
+DTEND;VALUE=DATE:20281201
+SUMMARY:Rằm tháng 10 · Tết Hạ nguyên
+DESCRIPTION:Ngày 15 tháng 10 âm lịch\, năm Mậu Thân.\nTính bằng
+  thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang 
+ tính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-ph
+ ap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20281216-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281216
+DTEND;VALUE=DATE:20281217
+SUMMARY:Mùng một tháng 11
+DESCRIPTION:Ngày 1 tháng 11 âm lịch\, năm Mậu Thân.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20281230-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281230
+DTEND;VALUE=DATE:20281231
+SUMMARY:Rằm tháng 11
+DESCRIPTION:Ngày 15 tháng 11 âm lịch\, năm Mậu Thân.\nTính bằng
+  thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang 
+ tính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-ph
+ ap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20290115-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290115
+DTEND;VALUE=DATE:20290116
+SUMMARY:Mùng một tháng 12
+DESCRIPTION:Ngày 1 tháng 12 âm lịch\, năm Mậu Thân.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20290129-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290129
+DTEND;VALUE=DATE:20290130
+SUMMARY:Rằm tháng 12
+DESCRIPTION:Ngày 15 tháng 12 âm lịch\, năm Mậu Thân.\nTính bằng
+  thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang 
+ tính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-ph
+ ap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20290213-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290213
+DTEND;VALUE=DATE:20290214
+SUMMARY:Mùng một tháng 1 · Tết Nguyên đán
+DESCRIPTION:Ngày 1 tháng 1 âm lịch\, năm Kỷ Dậu.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20290227-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290227
+DTEND;VALUE=DATE:20290228
+SUMMARY:Rằm tháng 1 · Tết Nguyên tiêu
+DESCRIPTION:Ngày 15 tháng 1 âm lịch\, năm Kỷ Dậu.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20290315-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290315
+DTEND;VALUE=DATE:20290316
+SUMMARY:Mùng một tháng 2
+DESCRIPTION:Ngày 1 tháng 2 âm lịch\, năm Kỷ Dậu.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20290329-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290329
+DTEND;VALUE=DATE:20290330
+SUMMARY:Rằm tháng 2
+DESCRIPTION:Ngày 15 tháng 2 âm lịch\, năm Kỷ Dậu.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20290414-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290414
+DTEND;VALUE=DATE:20290415
+SUMMARY:Mùng một tháng 3
+DESCRIPTION:Ngày 1 tháng 3 âm lịch\, năm Kỷ Dậu.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20290428-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290428
+DTEND;VALUE=DATE:20290429
+SUMMARY:Rằm tháng 3
+DESCRIPTION:Ngày 15 tháng 3 âm lịch\, năm Kỷ Dậu.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20290513-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290513
+DTEND;VALUE=DATE:20290514
+SUMMARY:Mùng một tháng 4
+DESCRIPTION:Ngày 1 tháng 4 âm lịch\, năm Kỷ Dậu.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20290527-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290527
+DTEND;VALUE=DATE:20290528
+SUMMARY:Rằm tháng 4
+DESCRIPTION:Ngày 15 tháng 4 âm lịch\, năm Kỷ Dậu.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20290612-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290612
+DTEND;VALUE=DATE:20290613
+SUMMARY:Mùng một tháng 5
+DESCRIPTION:Ngày 1 tháng 5 âm lịch\, năm Kỷ Dậu.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20290626-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290626
+DTEND;VALUE=DATE:20290627
+SUMMARY:Rằm tháng 5
+DESCRIPTION:Ngày 15 tháng 5 âm lịch\, năm Kỷ Dậu.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20290711-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290711
+DTEND;VALUE=DATE:20290712
+SUMMARY:Mùng một tháng 6
+DESCRIPTION:Ngày 1 tháng 6 âm lịch\, năm Kỷ Dậu.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20290725-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290725
+DTEND;VALUE=DATE:20290726
+SUMMARY:Rằm tháng 6
+DESCRIPTION:Ngày 15 tháng 6 âm lịch\, năm Kỷ Dậu.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20290810-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290810
+DTEND;VALUE=DATE:20290811
+SUMMARY:Mùng một tháng 7
+DESCRIPTION:Ngày 1 tháng 7 âm lịch\, năm Kỷ Dậu.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20290824-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290824
+DTEND;VALUE=DATE:20290825
+SUMMARY:Rằm tháng 7 · Lễ Vu Lan
+DESCRIPTION:Ngày 15 tháng 7 âm lịch\, năm Kỷ Dậu.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20290908-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290908
+DTEND;VALUE=DATE:20290909
+SUMMARY:Mùng một tháng 8
+DESCRIPTION:Ngày 1 tháng 8 âm lịch\, năm Kỷ Dậu.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20290922-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290922
+DTEND;VALUE=DATE:20290923
+SUMMARY:Rằm tháng 8 · Tết Trung thu
+DESCRIPTION:Ngày 15 tháng 8 âm lịch\, năm Kỷ Dậu.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20291008-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291008
+DTEND;VALUE=DATE:20291009
+SUMMARY:Mùng một tháng 9
+DESCRIPTION:Ngày 1 tháng 9 âm lịch\, năm Kỷ Dậu.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20291022-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291022
+DTEND;VALUE=DATE:20291023
+SUMMARY:Rằm tháng 9
+DESCRIPTION:Ngày 15 tháng 9 âm lịch\, năm Kỷ Dậu.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20291106-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291106
+DTEND;VALUE=DATE:20291107
+SUMMARY:Mùng một tháng 10
+DESCRIPTION:Ngày 1 tháng 10 âm lịch\, năm Kỷ Dậu.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20291120-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291120
+DTEND;VALUE=DATE:20291121
+SUMMARY:Rằm tháng 10 · Tết Hạ nguyên
+DESCRIPTION:Ngày 15 tháng 10 âm lịch\, năm Kỷ Dậu.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20291205-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291205
+DTEND;VALUE=DATE:20291206
+SUMMARY:Mùng một tháng 11
+DESCRIPTION:Ngày 1 tháng 11 âm lịch\, năm Kỷ Dậu.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20291219-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291219
+DTEND;VALUE=DATE:20291220
+SUMMARY:Rằm tháng 11
+DESCRIPTION:Ngày 15 tháng 11 âm lịch\, năm Kỷ Dậu.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20300104-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300104
+DTEND;VALUE=DATE:20300105
+SUMMARY:Mùng một tháng 12
+DESCRIPTION:Ngày 1 tháng 12 âm lịch\, năm Kỷ Dậu.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20300118-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300118
+DTEND;VALUE=DATE:20300119
+SUMMARY:Rằm tháng 12
+DESCRIPTION:Ngày 15 tháng 12 âm lịch\, năm Kỷ Dậu.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20300202-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300202
+DTEND;VALUE=DATE:20300203
+SUMMARY:Mùng một tháng 1 · Tết Nguyên đán
+DESCRIPTION:Ngày 1 tháng 1 âm lịch\, năm Canh Tuất.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20300216-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300216
+DTEND;VALUE=DATE:20300217
+SUMMARY:Rằm tháng 1 · Tết Nguyên tiêu
+DESCRIPTION:Ngày 15 tháng 1 âm lịch\, năm Canh Tuất.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20300304-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300304
+DTEND;VALUE=DATE:20300305
+SUMMARY:Mùng một tháng 2
+DESCRIPTION:Ngày 1 tháng 2 âm lịch\, năm Canh Tuất.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20300318-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300318
+DTEND;VALUE=DATE:20300319
+SUMMARY:Rằm tháng 2
+DESCRIPTION:Ngày 15 tháng 2 âm lịch\, năm Canh Tuất.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20300403-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300403
+DTEND;VALUE=DATE:20300404
+SUMMARY:Mùng một tháng 3
+DESCRIPTION:Ngày 1 tháng 3 âm lịch\, năm Canh Tuất.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20300417-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300417
+DTEND;VALUE=DATE:20300418
+SUMMARY:Rằm tháng 3
+DESCRIPTION:Ngày 15 tháng 3 âm lịch\, năm Canh Tuất.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20300502-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300502
+DTEND;VALUE=DATE:20300503
+SUMMARY:Mùng một tháng 4
+DESCRIPTION:Ngày 1 tháng 4 âm lịch\, năm Canh Tuất.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20300516-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300516
+DTEND;VALUE=DATE:20300517
+SUMMARY:Rằm tháng 4
+DESCRIPTION:Ngày 15 tháng 4 âm lịch\, năm Canh Tuất.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20300601-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300601
+DTEND;VALUE=DATE:20300602
+SUMMARY:Mùng một tháng 5
+DESCRIPTION:Ngày 1 tháng 5 âm lịch\, năm Canh Tuất.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20300615-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300615
+DTEND;VALUE=DATE:20300616
+SUMMARY:Rằm tháng 5
+DESCRIPTION:Ngày 15 tháng 5 âm lịch\, năm Canh Tuất.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20300701-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300701
+DTEND;VALUE=DATE:20300702
+SUMMARY:Mùng một tháng 6
+DESCRIPTION:Ngày 1 tháng 6 âm lịch\, năm Canh Tuất.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20300715-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300715
+DTEND;VALUE=DATE:20300716
+SUMMARY:Rằm tháng 6
+DESCRIPTION:Ngày 15 tháng 6 âm lịch\, năm Canh Tuất.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20300730-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300730
+DTEND;VALUE=DATE:20300731
+SUMMARY:Mùng một tháng 7
+DESCRIPTION:Ngày 1 tháng 7 âm lịch\, năm Canh Tuất.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20300813-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300813
+DTEND;VALUE=DATE:20300814
+SUMMARY:Rằm tháng 7 · Lễ Vu Lan
+DESCRIPTION:Ngày 15 tháng 7 âm lịch\, năm Canh Tuất.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20300829-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300829
+DTEND;VALUE=DATE:20300830
+SUMMARY:Mùng một tháng 8
+DESCRIPTION:Ngày 1 tháng 8 âm lịch\, năm Canh Tuất.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20300912-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300912
+DTEND;VALUE=DATE:20300913
+SUMMARY:Rằm tháng 8 · Tết Trung thu
+DESCRIPTION:Ngày 15 tháng 8 âm lịch\, năm Canh Tuất.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20300927-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300927
+DTEND;VALUE=DATE:20300928
+SUMMARY:Mùng một tháng 9
+DESCRIPTION:Ngày 1 tháng 9 âm lịch\, năm Canh Tuất.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20301011-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20301011
+DTEND;VALUE=DATE:20301012
+SUMMARY:Rằm tháng 9
+DESCRIPTION:Ngày 15 tháng 9 âm lịch\, năm Canh Tuất.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20301027-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20301027
+DTEND;VALUE=DATE:20301028
+SUMMARY:Mùng một tháng 10
+DESCRIPTION:Ngày 1 tháng 10 âm lịch\, năm Canh Tuất.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20301110-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20301110
+DTEND;VALUE=DATE:20301111
+SUMMARY:Rằm tháng 10 · Tết Hạ nguyên
+DESCRIPTION:Ngày 15 tháng 10 âm lịch\, năm Canh Tuất.\nTính bằng
+  thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang 
+ tính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-ph
+ ap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20301125-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20301125
+DTEND;VALUE=DATE:20301126
+SUMMARY:Mùng một tháng 11
+DESCRIPTION:Ngày 1 tháng 11 âm lịch\, năm Canh Tuất.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20301209-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20301209
+DTEND;VALUE=DATE:20301210
+SUMMARY:Rằm tháng 11
+DESCRIPTION:Ngày 15 tháng 11 âm lịch\, năm Canh Tuất.\nTính bằng
+  thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang 
+ tính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-ph
+ ap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20301225-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20301225
+DTEND;VALUE=DATE:20301226
+SUMMARY:Mùng một tháng 12
+DESCRIPTION:Ngày 1 tháng 12 âm lịch\, năm Canh Tuất.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20310108-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310108
+DTEND;VALUE=DATE:20310109
+SUMMARY:Rằm tháng 12
+DESCRIPTION:Ngày 15 tháng 12 âm lịch\, năm Canh Tuất.\nTính bằng
+  thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang 
+ tính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-ph
+ ap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20310123-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310123
+DTEND;VALUE=DATE:20310124
+SUMMARY:Mùng một tháng 1 · Tết Nguyên đán
+DESCRIPTION:Ngày 1 tháng 1 âm lịch\, năm Tân Hợi.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20310206-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310206
+DTEND;VALUE=DATE:20310207
+SUMMARY:Rằm tháng 1 · Tết Nguyên tiêu
+DESCRIPTION:Ngày 15 tháng 1 âm lịch\, năm Tân Hợi.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20310221-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310221
+DTEND;VALUE=DATE:20310222
+SUMMARY:Mùng một tháng 2
+DESCRIPTION:Ngày 1 tháng 2 âm lịch\, năm Tân Hợi.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20310307-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310307
+DTEND;VALUE=DATE:20310308
+SUMMARY:Rằm tháng 2
+DESCRIPTION:Ngày 15 tháng 2 âm lịch\, năm Tân Hợi.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20310323-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310323
+DTEND;VALUE=DATE:20310324
+SUMMARY:Mùng một tháng 3
+DESCRIPTION:Ngày 1 tháng 3 âm lịch\, năm Tân Hợi.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20310406-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310406
+DTEND;VALUE=DATE:20310407
+SUMMARY:Rằm tháng 3
+DESCRIPTION:Ngày 15 tháng 3 âm lịch\, năm Tân Hợi.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20310421-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310421
+DTEND;VALUE=DATE:20310422
+SUMMARY:Mùng một tháng 3 nhuận
+DESCRIPTION:Ngày 1 tháng 3 nhuận âm lịch\, năm Tân Hợi.\nTính b
+ ằng thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin 
+ mang tính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuo
+ ng-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20310505-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310505
+DTEND;VALUE=DATE:20310506
+SUMMARY:Rằm tháng 3 nhuận
+DESCRIPTION:Ngày 15 tháng 3 nhuận âm lịch\, năm Tân Hợi.\nTính 
+ bằng thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin
+  mang tính tham khảo văn hoá. Phương pháp: https://qelunai.com/phu
+ ong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20310521-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310521
+DTEND;VALUE=DATE:20310522
+SUMMARY:Mùng một tháng 4
+DESCRIPTION:Ngày 1 tháng 4 âm lịch\, năm Tân Hợi.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20310604-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310604
+DTEND;VALUE=DATE:20310605
+SUMMARY:Rằm tháng 4
+DESCRIPTION:Ngày 15 tháng 4 âm lịch\, năm Tân Hợi.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20310620-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310620
+DTEND;VALUE=DATE:20310621
+SUMMARY:Mùng một tháng 5
+DESCRIPTION:Ngày 1 tháng 5 âm lịch\, năm Tân Hợi.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20310704-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310704
+DTEND;VALUE=DATE:20310705
+SUMMARY:Rằm tháng 5
+DESCRIPTION:Ngày 15 tháng 5 âm lịch\, năm Tân Hợi.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20310719-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310719
+DTEND;VALUE=DATE:20310720
+SUMMARY:Mùng một tháng 6
+DESCRIPTION:Ngày 1 tháng 6 âm lịch\, năm Tân Hợi.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20310802-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310802
+DTEND;VALUE=DATE:20310803
+SUMMARY:Rằm tháng 6
+DESCRIPTION:Ngày 15 tháng 6 âm lịch\, năm Tân Hợi.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20310818-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310818
+DTEND;VALUE=DATE:20310819
+SUMMARY:Mùng một tháng 7
+DESCRIPTION:Ngày 1 tháng 7 âm lịch\, năm Tân Hợi.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20310901-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310901
+DTEND;VALUE=DATE:20310902
+SUMMARY:Rằm tháng 7 · Lễ Vu Lan
+DESCRIPTION:Ngày 15 tháng 7 âm lịch\, năm Tân Hợi.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20310917-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310917
+DTEND;VALUE=DATE:20310918
+SUMMARY:Mùng một tháng 8
+DESCRIPTION:Ngày 1 tháng 8 âm lịch\, năm Tân Hợi.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20311001-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311001
+DTEND;VALUE=DATE:20311002
+SUMMARY:Rằm tháng 8 · Tết Trung thu
+DESCRIPTION:Ngày 15 tháng 8 âm lịch\, năm Tân Hợi.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20311016-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311016
+DTEND;VALUE=DATE:20311017
+SUMMARY:Mùng một tháng 9
+DESCRIPTION:Ngày 1 tháng 9 âm lịch\, năm Tân Hợi.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20311030-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311030
+DTEND;VALUE=DATE:20311031
+SUMMARY:Rằm tháng 9
+DESCRIPTION:Ngày 15 tháng 9 âm lịch\, năm Tân Hợi.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20311115-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311115
+DTEND;VALUE=DATE:20311116
+SUMMARY:Mùng một tháng 10
+DESCRIPTION:Ngày 1 tháng 10 âm lịch\, năm Tân Hợi.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20311129-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311129
+DTEND;VALUE=DATE:20311130
+SUMMARY:Rằm tháng 10 · Tết Hạ nguyên
+DESCRIPTION:Ngày 15 tháng 10 âm lịch\, năm Tân Hợi.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20311214-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311214
+DTEND;VALUE=DATE:20311215
+SUMMARY:Mùng một tháng 11
+DESCRIPTION:Ngày 1 tháng 11 âm lịch\, năm Tân Hợi.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20311228-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311228
+DTEND;VALUE=DATE:20311229
+SUMMARY:Rằm tháng 11
+DESCRIPTION:Ngày 15 tháng 11 âm lịch\, năm Tân Hợi.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

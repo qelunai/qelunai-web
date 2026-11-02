@@ -1,0 +1,2030 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Qelunai//vietnamese-calendar-data tiet-khi//VI
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:24 tiết khí · Qelunai
+X-WR-CALDESC:Ngày giao 24 tiết khí theo giờ Việt Nam. Tính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+X-WR-TIMEZONE:Asia/Ho_Chi_Minh
+REFRESH-INTERVAL;VALUE=DURATION:P7D
+X-PUBLISHED-TTL:P7D
+BEGIN:VEVENT
+UID:tiet-khi-tiet-19-20250105-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250105
+DTEND;VALUE=DATE:20250106
+SUMMARY:Tiết Tiểu hàn
+DESCRIPTION:Mặt Trời tới kinh độ 285°\, khoảng 09:23 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-20-20250120-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250120
+DTEND;VALUE=DATE:20250121
+SUMMARY:Tiết Đại hàn
+DESCRIPTION:Mặt Trời tới kinh độ 300°\, khoảng 02:46 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-21-20250203-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250204
+SUMMARY:Tiết Lập xuân
+DESCRIPTION:Mặt Trời tới kinh độ 315°\, khoảng 21:00 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-22-20250218-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250218
+DTEND;VALUE=DATE:20250219
+SUMMARY:Tiết Vũ thủy
+DESCRIPTION:Mặt Trời tới kinh độ 330°\, khoảng 16:50 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-23-20250305-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250305
+DTEND;VALUE=DATE:20250306
+SUMMARY:Tiết Kinh trập
+DESCRIPTION:Mặt Trời tới kinh độ 345°\, khoảng 14:55 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-00-20250320-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250320
+DTEND;VALUE=DATE:20250321
+SUMMARY:Tiết Xuân phân
+DESCRIPTION:Mặt Trời tới kinh độ 0°\, khoảng 15:43 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-01-20250404-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250404
+DTEND;VALUE=DATE:20250405
+SUMMARY:Tiết Thanh minh
+DESCRIPTION:Mặt Trời tới kinh độ 15°\, khoảng 19:34 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-02-20250420-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250420
+DTEND;VALUE=DATE:20250421
+SUMMARY:Tiết Cốc vũ
+DESCRIPTION:Mặt Trời tới kinh độ 30°\, khoảng 02:35 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-03-20250505-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250506
+SUMMARY:Tiết Lập hạ
+DESCRIPTION:Mặt Trời tới kinh độ 45°\, khoảng 12:42 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-04-20250521-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250521
+DTEND;VALUE=DATE:20250522
+SUMMARY:Tiết Tiểu mãn
+DESCRIPTION:Mặt Trời tới kinh độ 60°\, khoảng 01:35 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-05-20250605-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250605
+DTEND;VALUE=DATE:20250606
+SUMMARY:Tiết Mang chủng
+DESCRIPTION:Mặt Trời tới kinh độ 75°\, khoảng 16:44 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-06-20250621-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250621
+DTEND;VALUE=DATE:20250622
+SUMMARY:Tiết Hạ chí
+DESCRIPTION:Mặt Trời tới kinh độ 90°\, khoảng 09:27 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-07-20250707-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250708
+SUMMARY:Tiết Tiểu thử
+DESCRIPTION:Mặt Trời tới kinh độ 105°\, khoảng 02:56 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-08-20250722-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250722
+DTEND;VALUE=DATE:20250723
+SUMMARY:Tiết Đại thử
+DESCRIPTION:Mặt Trời tới kinh độ 120°\, khoảng 20:20 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-09-20250807-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250807
+DTEND;VALUE=DATE:20250808
+SUMMARY:Tiết Lập thu
+DESCRIPTION:Mặt Trời tới kinh độ 135°\, khoảng 12:47 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-10-20250823-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250823
+DTEND;VALUE=DATE:20250824
+SUMMARY:Tiết Xử thử
+DESCRIPTION:Mặt Trời tới kinh độ 150°\, khoảng 03:29 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-11-20250907-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250907
+DTEND;VALUE=DATE:20250908
+SUMMARY:Tiết Bạch lộ
+DESCRIPTION:Mặt Trời tới kinh độ 165°\, khoảng 15:48 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-12-20250923-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250923
+DTEND;VALUE=DATE:20250924
+SUMMARY:Tiết Thu phân
+DESCRIPTION:Mặt Trời tới kinh độ 180°\, khoảng 01:16 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-13-20251008-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251008
+DTEND;VALUE=DATE:20251009
+SUMMARY:Tiết Hàn lộ
+DESCRIPTION:Mặt Trời tới kinh độ 195°\, khoảng 07:36 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-14-20251023-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251023
+DTEND;VALUE=DATE:20251024
+SUMMARY:Tiết Sương giáng
+DESCRIPTION:Mặt Trời tới kinh độ 210°\, khoảng 10:47 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-15-20251107-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251107
+DTEND;VALUE=DATE:20251108
+SUMMARY:Tiết Lập đông
+DESCRIPTION:Mặt Trời tới kinh độ 225°\, khoảng 10:57 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-16-20251122-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251122
+DTEND;VALUE=DATE:20251123
+SUMMARY:Tiết Tiểu tuyết
+DESCRIPTION:Mặt Trời tới kinh độ 240°\, khoảng 08:30 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-17-20251207-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251207
+DTEND;VALUE=DATE:20251208
+SUMMARY:Tiết Đại tuyết
+DESCRIPTION:Mặt Trời tới kinh độ 255°\, khoảng 03:56 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-18-20251221-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251221
+DTEND;VALUE=DATE:20251222
+SUMMARY:Tiết Đông chí
+DESCRIPTION:Mặt Trời tới kinh độ 270°\, khoảng 21:55 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-19-20260105-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260106
+SUMMARY:Tiết Tiểu hàn
+DESCRIPTION:Mặt Trời tới kinh độ 285°\, khoảng 15:13 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-20-20260120-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+SUMMARY:Tiết Đại hàn
+DESCRIPTION:Mặt Trời tới kinh độ 300°\, khoảng 08:35 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-21-20260204-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+SUMMARY:Tiết Lập xuân
+DESCRIPTION:Mặt Trời tới kinh độ 315°\, khoảng 02:50 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-22-20260218-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+SUMMARY:Tiết Vũ thủy
+DESCRIPTION:Mặt Trời tới kinh độ 330°\, khoảng 22:40 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-23-20260305-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260306
+SUMMARY:Tiết Kinh trập
+DESCRIPTION:Mặt Trời tới kinh độ 345°\, khoảng 20:44 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-00-20260320-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:Tiết Xuân phân
+DESCRIPTION:Mặt Trời tới kinh độ 0°\, khoảng 21:32 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-01-20260405-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:Tiết Thanh minh
+DESCRIPTION:Mặt Trời tới kinh độ 15°\, khoảng 01:22 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-02-20260420-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Tiết Cốc vũ
+DESCRIPTION:Mặt Trời tới kinh độ 30°\, khoảng 08:24 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-03-20260505-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+SUMMARY:Tiết Lập hạ
+DESCRIPTION:Mặt Trời tới kinh độ 45°\, khoảng 18:30 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-04-20260521-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+SUMMARY:Tiết Tiểu mãn
+DESCRIPTION:Mặt Trời tới kinh độ 60°\, khoảng 07:23 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-05-20260605-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Tiết Mang chủng
+DESCRIPTION:Mặt Trời tới kinh độ 75°\, khoảng 22:32 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-06-20260621-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:Tiết Hạ chí
+DESCRIPTION:Mặt Trời tới kinh độ 90°\, khoảng 15:15 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-07-20260707-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:Tiết Tiểu thử
+DESCRIPTION:Mặt Trời tới kinh độ 105°\, khoảng 08:44 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-08-20260723-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:Tiết Đại thử
+DESCRIPTION:Mặt Trời tới kinh độ 120°\, khoảng 02:08 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-09-20260807-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:Tiết Lập thu
+DESCRIPTION:Mặt Trời tới kinh độ 135°\, khoảng 18:35 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-10-20260823-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:Tiết Xử thử
+DESCRIPTION:Mặt Trời tới kinh độ 150°\, khoảng 09:17 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-11-20260907-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Tiết Bạch lộ
+DESCRIPTION:Mặt Trời tới kinh độ 165°\, khoảng 21:37 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-12-20260923-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Tiết Thu phân
+DESCRIPTION:Mặt Trời tới kinh độ 180°\, khoảng 07:05 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-13-20261008-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Tiết Hàn lộ
+DESCRIPTION:Mặt Trời tới kinh độ 195°\, khoảng 13:25 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-14-20261023-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Tiết Sương giáng
+DESCRIPTION:Mặt Trời tới kinh độ 210°\, khoảng 16:36 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-15-20261107-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Tiết Lập đông
+DESCRIPTION:Mặt Trời tới kinh độ 225°\, khoảng 16:46 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-16-20261122-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Tiết Tiểu tuyết
+DESCRIPTION:Mặt Trời tới kinh độ 240°\, khoảng 14:19 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-17-20261207-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Tiết Đại tuyết
+DESCRIPTION:Mặt Trời tới kinh độ 255°\, khoảng 09:45 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-18-20261222-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Tiết Đông chí
+DESCRIPTION:Mặt Trời tới kinh độ 270°\, khoảng 03:45 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-19-20270105-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:Tiết Tiểu hàn
+DESCRIPTION:Mặt Trời tới kinh độ 285°\, khoảng 21:02 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-20-20270120-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:Tiết Đại hàn
+DESCRIPTION:Mặt Trời tới kinh độ 300°\, khoảng 14:25 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-21-20270204-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:Tiết Lập xuân
+DESCRIPTION:Mặt Trời tới kinh độ 315°\, khoảng 08:39 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-22-20270219-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:Tiết Vũ thủy
+DESCRIPTION:Mặt Trời tới kinh độ 330°\, khoảng 04:29 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-23-20270306-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Tiết Kinh trập
+DESCRIPTION:Mặt Trời tới kinh độ 345°\, khoảng 02:33 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-00-20270321-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Tiết Xuân phân
+DESCRIPTION:Mặt Trời tới kinh độ 0°\, khoảng 03:21 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-01-20270405-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:Tiết Thanh minh
+DESCRIPTION:Mặt Trời tới kinh độ 15°\, khoảng 07:11 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-02-20270420-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:Tiết Cốc vũ
+DESCRIPTION:Mặt Trời tới kinh độ 30°\, khoảng 14:12 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-03-20270506-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:Tiết Lập hạ
+DESCRIPTION:Mặt Trời tới kinh độ 45°\, khoảng 00:19 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-04-20270521-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:Tiết Tiểu mãn
+DESCRIPTION:Mặt Trời tới kinh độ 60°\, khoảng 13:11 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-05-20270606-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Tiết Mang chủng
+DESCRIPTION:Mặt Trời tới kinh độ 75°\, khoảng 04:20 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-06-20270621-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:Tiết Hạ chí
+DESCRIPTION:Mặt Trời tới kinh độ 90°\, khoảng 21:03 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-07-20270707-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:Tiết Tiểu thử
+DESCRIPTION:Mặt Trời tới kinh độ 105°\, khoảng 14:32 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-08-20270723-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:Tiết Đại thử
+DESCRIPTION:Mặt Trời tới kinh độ 120°\, khoảng 07:56 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-09-20270808-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:Tiết Lập thu
+DESCRIPTION:Mặt Trời tới kinh độ 135°\, khoảng 00:23 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-10-20270823-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270823
+DTEND;VALUE=DATE:20270824
+SUMMARY:Tiết Xử thử
+DESCRIPTION:Mặt Trời tới kinh độ 150°\, khoảng 15:05 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-11-20270908-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:Tiết Bạch lộ
+DESCRIPTION:Mặt Trời tới kinh độ 165°\, khoảng 03:25 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-12-20270923-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:Tiết Thu phân
+DESCRIPTION:Mặt Trời tới kinh độ 180°\, khoảng 12:53 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-13-20271008-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271009
+SUMMARY:Tiết Hàn lộ
+DESCRIPTION:Mặt Trời tới kinh độ 195°\, khoảng 19:14 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-14-20271023-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271024
+SUMMARY:Tiết Sương giáng
+DESCRIPTION:Mặt Trời tới kinh độ 210°\, khoảng 22:25 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-15-20271107-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271108
+SUMMARY:Tiết Lập đông
+DESCRIPTION:Mặt Trời tới kinh độ 225°\, khoảng 22:35 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-16-20271122-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271122
+DTEND;VALUE=DATE:20271123
+SUMMARY:Tiết Tiểu tuyết
+DESCRIPTION:Mặt Trời tới kinh độ 240°\, khoảng 20:08 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-17-20271207-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271207
+DTEND;VALUE=DATE:20271208
+SUMMARY:Tiết Đại tuyết
+DESCRIPTION:Mặt Trời tới kinh độ 255°\, khoảng 15:35 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-18-20271222-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271222
+DTEND;VALUE=DATE:20271223
+SUMMARY:Tiết Đông chí
+DESCRIPTION:Mặt Trời tới kinh độ 270°\, khoảng 09:34 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-19-20280106-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280106
+DTEND;VALUE=DATE:20280107
+SUMMARY:Tiết Tiểu hàn
+DESCRIPTION:Mặt Trời tới kinh độ 285°\, khoảng 02:52 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-20-20280120-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280120
+DTEND;VALUE=DATE:20280121
+SUMMARY:Tiết Đại hàn
+DESCRIPTION:Mặt Trời tới kinh độ 300°\, khoảng 20:14 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-21-20280204-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280204
+DTEND;VALUE=DATE:20280205
+SUMMARY:Tiết Lập xuân
+DESCRIPTION:Mặt Trời tới kinh độ 315°\, khoảng 14:29 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-22-20280219-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280219
+DTEND;VALUE=DATE:20280220
+SUMMARY:Tiết Vũ thủy
+DESCRIPTION:Mặt Trời tới kinh độ 330°\, khoảng 10:19 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-23-20280305-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280305
+DTEND;VALUE=DATE:20280306
+SUMMARY:Tiết Kinh trập
+DESCRIPTION:Mặt Trời tới kinh độ 345°\, khoảng 08:22 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-00-20280320-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280320
+DTEND;VALUE=DATE:20280321
+SUMMARY:Tiết Xuân phân
+DESCRIPTION:Mặt Trời tới kinh độ 0°\, khoảng 09:10 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-01-20280404-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280404
+DTEND;VALUE=DATE:20280405
+SUMMARY:Tiết Thanh minh
+DESCRIPTION:Mặt Trời tới kinh độ 15°\, khoảng 13:00 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-02-20280419-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280419
+DTEND;VALUE=DATE:20280420
+SUMMARY:Tiết Cốc vũ
+DESCRIPTION:Mặt Trời tới kinh độ 30°\, khoảng 20:01 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-03-20280505-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280505
+DTEND;VALUE=DATE:20280506
+SUMMARY:Tiết Lập hạ
+DESCRIPTION:Mặt Trời tới kinh độ 45°\, khoảng 06:07 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-04-20280520-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280520
+DTEND;VALUE=DATE:20280521
+SUMMARY:Tiết Tiểu mãn
+DESCRIPTION:Mặt Trời tới kinh độ 60°\, khoảng 19:00 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-05-20280605-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280605
+DTEND;VALUE=DATE:20280606
+SUMMARY:Tiết Mang chủng
+DESCRIPTION:Mặt Trời tới kinh độ 75°\, khoảng 10:08 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-06-20280621-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280621
+DTEND;VALUE=DATE:20280622
+SUMMARY:Tiết Hạ chí
+DESCRIPTION:Mặt Trời tới kinh độ 90°\, khoảng 02:51 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-07-20280706-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280706
+DTEND;VALUE=DATE:20280707
+SUMMARY:Tiết Tiểu thử
+DESCRIPTION:Mặt Trời tới kinh độ 105°\, khoảng 20:20 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-08-20280722-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Tiết Đại thử
+DESCRIPTION:Mặt Trời tới kinh độ 120°\, khoảng 13:44 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-09-20280807-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280807
+DTEND;VALUE=DATE:20280808
+SUMMARY:Tiết Lập thu
+DESCRIPTION:Mặt Trời tới kinh độ 135°\, khoảng 06:11 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-10-20280822-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280822
+DTEND;VALUE=DATE:20280823
+SUMMARY:Tiết Xử thử
+DESCRIPTION:Mặt Trời tới kinh độ 150°\, khoảng 20:53 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-11-20280907-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280907
+DTEND;VALUE=DATE:20280908
+SUMMARY:Tiết Bạch lộ
+DESCRIPTION:Mặt Trời tới kinh độ 165°\, khoảng 09:13 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-12-20280922-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280922
+DTEND;VALUE=DATE:20280923
+SUMMARY:Tiết Thu phân
+DESCRIPTION:Mặt Trời tới kinh độ 180°\, khoảng 18:42 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-13-20281008-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281008
+DTEND;VALUE=DATE:20281009
+SUMMARY:Tiết Hàn lộ
+DESCRIPTION:Mặt Trời tới kinh độ 195°\, khoảng 01:03 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-14-20281023-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281023
+DTEND;VALUE=DATE:20281024
+SUMMARY:Tiết Sương giáng
+DESCRIPTION:Mặt Trời tới kinh độ 210°\, khoảng 04:14 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-15-20281107-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281107
+DTEND;VALUE=DATE:20281108
+SUMMARY:Tiết Lập đông
+DESCRIPTION:Mặt Trời tới kinh độ 225°\, khoảng 04:25 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-16-20281122-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281122
+DTEND;VALUE=DATE:20281123
+SUMMARY:Tiết Tiểu tuyết
+DESCRIPTION:Mặt Trời tới kinh độ 240°\, khoảng 01:57 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-17-20281206-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281206
+DTEND;VALUE=DATE:20281207
+SUMMARY:Tiết Đại tuyết
+DESCRIPTION:Mặt Trời tới kinh độ 255°\, khoảng 21:24 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-18-20281221-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281221
+DTEND;VALUE=DATE:20281222
+SUMMARY:Tiết Đông chí
+DESCRIPTION:Mặt Trời tới kinh độ 270°\, khoảng 15:24 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-19-20290105-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290105
+DTEND;VALUE=DATE:20290106
+SUMMARY:Tiết Tiểu hàn
+DESCRIPTION:Mặt Trời tới kinh độ 285°\, khoảng 08:41 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-20-20290120-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290120
+DTEND;VALUE=DATE:20290121
+SUMMARY:Tiết Đại hàn
+DESCRIPTION:Mặt Trời tới kinh độ 300°\, khoảng 02:04 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-21-20290203-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290203
+DTEND;VALUE=DATE:20290204
+SUMMARY:Tiết Lập xuân
+DESCRIPTION:Mặt Trời tới kinh độ 315°\, khoảng 20:18 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-22-20290218-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290218
+DTEND;VALUE=DATE:20290219
+SUMMARY:Tiết Vũ thủy
+DESCRIPTION:Mặt Trời tới kinh độ 330°\, khoảng 16:08 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-23-20290305-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290305
+DTEND;VALUE=DATE:20290306
+SUMMARY:Tiết Kinh trập
+DESCRIPTION:Mặt Trời tới kinh độ 345°\, khoảng 14:12 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-00-20290320-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290320
+DTEND;VALUE=DATE:20290321
+SUMMARY:Tiết Xuân phân
+DESCRIPTION:Mặt Trời tới kinh độ 0°\, khoảng 14:59 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-01-20290404-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290404
+DTEND;VALUE=DATE:20290405
+SUMMARY:Tiết Thanh minh
+DESCRIPTION:Mặt Trời tới kinh độ 15°\, khoảng 18:49 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-02-20290420-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290420
+DTEND;VALUE=DATE:20290421
+SUMMARY:Tiết Cốc vũ
+DESCRIPTION:Mặt Trời tới kinh độ 30°\, khoảng 01:50 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-03-20290505-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290505
+DTEND;VALUE=DATE:20290506
+SUMMARY:Tiết Lập hạ
+DESCRIPTION:Mặt Trời tới kinh độ 45°\, khoảng 11:55 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-04-20290521-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290521
+DTEND;VALUE=DATE:20290522
+SUMMARY:Tiết Tiểu mãn
+DESCRIPTION:Mặt Trời tới kinh độ 60°\, khoảng 00:48 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-05-20290605-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290605
+DTEND;VALUE=DATE:20290606
+SUMMARY:Tiết Mang chủng
+DESCRIPTION:Mặt Trời tới kinh độ 75°\, khoảng 15:56 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-06-20290621-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290621
+DTEND;VALUE=DATE:20290622
+SUMMARY:Tiết Hạ chí
+DESCRIPTION:Mặt Trời tới kinh độ 90°\, khoảng 08:39 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-07-20290707-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290707
+DTEND;VALUE=DATE:20290708
+SUMMARY:Tiết Tiểu thử
+DESCRIPTION:Mặt Trời tới kinh độ 105°\, khoảng 02:08 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-08-20290722-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290722
+DTEND;VALUE=DATE:20290723
+SUMMARY:Tiết Đại thử
+DESCRIPTION:Mặt Trời tới kinh độ 120°\, khoảng 19:32 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-09-20290807-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290807
+DTEND;VALUE=DATE:20290808
+SUMMARY:Tiết Lập thu
+DESCRIPTION:Mặt Trời tới kinh độ 135°\, khoảng 11:59 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-10-20290823-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290823
+DTEND;VALUE=DATE:20290824
+SUMMARY:Tiết Xử thử
+DESCRIPTION:Mặt Trời tới kinh độ 150°\, khoảng 02:42 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-11-20290907-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290907
+DTEND;VALUE=DATE:20290908
+SUMMARY:Tiết Bạch lộ
+DESCRIPTION:Mặt Trời tới kinh độ 165°\, khoảng 15:01 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-12-20290923-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290923
+DTEND;VALUE=DATE:20290924
+SUMMARY:Tiết Thu phân
+DESCRIPTION:Mặt Trời tới kinh độ 180°\, khoảng 00:30 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-13-20291008-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291008
+DTEND;VALUE=DATE:20291009
+SUMMARY:Tiết Hàn lộ
+DESCRIPTION:Mặt Trời tới kinh độ 195°\, khoảng 06:51 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-14-20291023-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291023
+DTEND;VALUE=DATE:20291024
+SUMMARY:Tiết Sương giáng
+DESCRIPTION:Mặt Trời tới kinh độ 210°\, khoảng 10:03 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-15-20291107-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291107
+DTEND;VALUE=DATE:20291108
+SUMMARY:Tiết Lập đông
+DESCRIPTION:Mặt Trời tới kinh độ 225°\, khoảng 10:14 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-16-20291122-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291122
+DTEND;VALUE=DATE:20291123
+SUMMARY:Tiết Tiểu tuyết
+DESCRIPTION:Mặt Trời tới kinh độ 240°\, khoảng 07:47 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-17-20291207-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291207
+DTEND;VALUE=DATE:20291208
+SUMMARY:Tiết Đại tuyết
+DESCRIPTION:Mặt Trời tới kinh độ 255°\, khoảng 03:14 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-18-20291221-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291221
+DTEND;VALUE=DATE:20291222
+SUMMARY:Tiết Đông chí
+DESCRIPTION:Mặt Trời tới kinh độ 270°\, khoảng 21:13 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-19-20300105-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300105
+DTEND;VALUE=DATE:20300106
+SUMMARY:Tiết Tiểu hàn
+DESCRIPTION:Mặt Trời tới kinh độ 285°\, khoảng 14:31 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-20-20300120-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300120
+DTEND;VALUE=DATE:20300121
+SUMMARY:Tiết Đại hàn
+DESCRIPTION:Mặt Trời tới kinh độ 300°\, khoảng 07:53 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-21-20300204-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300204
+DTEND;VALUE=DATE:20300205
+SUMMARY:Tiết Lập xuân
+DESCRIPTION:Mặt Trời tới kinh độ 315°\, khoảng 02:08 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-22-20300218-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300218
+DTEND;VALUE=DATE:20300219
+SUMMARY:Tiết Vũ thủy
+DESCRIPTION:Mặt Trời tới kinh độ 330°\, khoảng 21:57 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-23-20300305-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300305
+DTEND;VALUE=DATE:20300306
+SUMMARY:Tiết Kinh trập
+DESCRIPTION:Mặt Trời tới kinh độ 345°\, khoảng 20:01 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-00-20300320-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300320
+DTEND;VALUE=DATE:20300321
+SUMMARY:Tiết Xuân phân
+DESCRIPTION:Mặt Trời tới kinh độ 0°\, khoảng 20:48 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-01-20300405-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300405
+DTEND;VALUE=DATE:20300406
+SUMMARY:Tiết Thanh minh
+DESCRIPTION:Mặt Trời tới kinh độ 15°\, khoảng 00:38 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-02-20300420-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300420
+DTEND;VALUE=DATE:20300421
+SUMMARY:Tiết Cốc vũ
+DESCRIPTION:Mặt Trời tới kinh độ 30°\, khoảng 07:38 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-03-20300505-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300505
+DTEND;VALUE=DATE:20300506
+SUMMARY:Tiết Lập hạ
+DESCRIPTION:Mặt Trời tới kinh độ 45°\, khoảng 17:44 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-04-20300521-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300521
+DTEND;VALUE=DATE:20300522
+SUMMARY:Tiết Tiểu mãn
+DESCRIPTION:Mặt Trời tới kinh độ 60°\, khoảng 06:36 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-05-20300605-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300605
+DTEND;VALUE=DATE:20300606
+SUMMARY:Tiết Mang chủng
+DESCRIPTION:Mặt Trời tới kinh độ 75°\, khoảng 21:44 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-06-20300621-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300621
+DTEND;VALUE=DATE:20300622
+SUMMARY:Tiết Hạ chí
+DESCRIPTION:Mặt Trời tới kinh độ 90°\, khoảng 14:27 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-07-20300707-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300707
+DTEND;VALUE=DATE:20300708
+SUMMARY:Tiết Tiểu thử
+DESCRIPTION:Mặt Trời tới kinh độ 105°\, khoảng 07:56 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-08-20300723-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300723
+DTEND;VALUE=DATE:20300724
+SUMMARY:Tiết Đại thử
+DESCRIPTION:Mặt Trời tới kinh độ 120°\, khoảng 01:20 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-09-20300807-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300807
+DTEND;VALUE=DATE:20300808
+SUMMARY:Tiết Lập thu
+DESCRIPTION:Mặt Trời tới kinh độ 135°\, khoảng 17:47 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-10-20300823-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300823
+DTEND;VALUE=DATE:20300824
+SUMMARY:Tiết Xử thử
+DESCRIPTION:Mặt Trời tới kinh độ 150°\, khoảng 08:30 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-11-20300907-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300907
+DTEND;VALUE=DATE:20300908
+SUMMARY:Tiết Bạch lộ
+DESCRIPTION:Mặt Trời tới kinh độ 165°\, khoảng 20:50 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-12-20300923-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300923
+DTEND;VALUE=DATE:20300924
+SUMMARY:Tiết Thu phân
+DESCRIPTION:Mặt Trời tới kinh độ 180°\, khoảng 06:19 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-13-20301008-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20301008
+DTEND;VALUE=DATE:20301009
+SUMMARY:Tiết Hàn lộ
+DESCRIPTION:Mặt Trời tới kinh độ 195°\, khoảng 12:40 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-14-20301023-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20301023
+DTEND;VALUE=DATE:20301024
+SUMMARY:Tiết Sương giáng
+DESCRIPTION:Mặt Trời tới kinh độ 210°\, khoảng 15:51 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-15-20301107-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20301107
+DTEND;VALUE=DATE:20301108
+SUMMARY:Tiết Lập đông
+DESCRIPTION:Mặt Trời tới kinh độ 225°\, khoảng 16:03 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-16-20301122-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20301122
+DTEND;VALUE=DATE:20301123
+SUMMARY:Tiết Tiểu tuyết
+DESCRIPTION:Mặt Trời tới kinh độ 240°\, khoảng 13:36 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-17-20301207-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20301207
+DTEND;VALUE=DATE:20301208
+SUMMARY:Tiết Đại tuyết
+DESCRIPTION:Mặt Trời tới kinh độ 255°\, khoảng 09:03 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-18-20301222-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20301222
+DTEND;VALUE=DATE:20301223
+SUMMARY:Tiết Đông chí
+DESCRIPTION:Mặt Trời tới kinh độ 270°\, khoảng 03:03 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-19-20310105-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310105
+DTEND;VALUE=DATE:20310106
+SUMMARY:Tiết Tiểu hàn
+DESCRIPTION:Mặt Trời tới kinh độ 285°\, khoảng 20:21 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-20-20310120-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310120
+DTEND;VALUE=DATE:20310121
+SUMMARY:Tiết Đại hàn
+DESCRIPTION:Mặt Trời tới kinh độ 300°\, khoảng 13:43 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-21-20310204-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310204
+DTEND;VALUE=DATE:20310205
+SUMMARY:Tiết Lập xuân
+DESCRIPTION:Mặt Trời tới kinh độ 315°\, khoảng 07:57 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-22-20310219-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310219
+DTEND;VALUE=DATE:20310220
+SUMMARY:Tiết Vũ thủy
+DESCRIPTION:Mặt Trời tới kinh độ 330°\, khoảng 03:47 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-23-20310306-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310306
+DTEND;VALUE=DATE:20310307
+SUMMARY:Tiết Kinh trập
+DESCRIPTION:Mặt Trời tới kinh độ 345°\, khoảng 01:50 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-00-20310321-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310321
+DTEND;VALUE=DATE:20310322
+SUMMARY:Tiết Xuân phân
+DESCRIPTION:Mặt Trời tới kinh độ 0°\, khoảng 02:37 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-01-20310405-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310405
+DTEND;VALUE=DATE:20310406
+SUMMARY:Tiết Thanh minh
+DESCRIPTION:Mặt Trời tới kinh độ 15°\, khoảng 06:26 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-02-20310420-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310420
+DTEND;VALUE=DATE:20310421
+SUMMARY:Tiết Cốc vũ
+DESCRIPTION:Mặt Trời tới kinh độ 30°\, khoảng 13:27 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-03-20310505-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310505
+DTEND;VALUE=DATE:20310506
+SUMMARY:Tiết Lập hạ
+DESCRIPTION:Mặt Trời tới kinh độ 45°\, khoảng 23:32 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-04-20310521-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310521
+DTEND;VALUE=DATE:20310522
+SUMMARY:Tiết Tiểu mãn
+DESCRIPTION:Mặt Trời tới kinh độ 60°\, khoảng 12:24 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-05-20310606-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310606
+DTEND;VALUE=DATE:20310607
+SUMMARY:Tiết Mang chủng
+DESCRIPTION:Mặt Trời tới kinh độ 75°\, khoảng 03:32 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-06-20310621-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310621
+DTEND;VALUE=DATE:20310622
+SUMMARY:Tiết Hạ chí
+DESCRIPTION:Mặt Trời tới kinh độ 90°\, khoảng 20:15 (UTC+7\, ư
+ ớc tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt Nam
+  (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: htt
+ ps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-07-20310707-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310707
+DTEND;VALUE=DATE:20310708
+SUMMARY:Tiết Tiểu thử
+DESCRIPTION:Mặt Trời tới kinh độ 105°\, khoảng 13:44 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-08-20310723-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310723
+DTEND;VALUE=DATE:20310724
+SUMMARY:Tiết Đại thử
+DESCRIPTION:Mặt Trời tới kinh độ 120°\, khoảng 07:08 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-09-20310807-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310807
+DTEND;VALUE=DATE:20310808
+SUMMARY:Tiết Lập thu
+DESCRIPTION:Mặt Trời tới kinh độ 135°\, khoảng 23:35 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-10-20310823-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310823
+DTEND;VALUE=DATE:20310824
+SUMMARY:Tiết Xử thử
+DESCRIPTION:Mặt Trời tới kinh độ 150°\, khoảng 14:18 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-11-20310908-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310908
+DTEND;VALUE=DATE:20310909
+SUMMARY:Tiết Bạch lộ
+DESCRIPTION:Mặt Trời tới kinh độ 165°\, khoảng 02:38 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-12-20310923-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310923
+DTEND;VALUE=DATE:20310924
+SUMMARY:Tiết Thu phân
+DESCRIPTION:Mặt Trời tới kinh độ 180°\, khoảng 12:07 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-13-20311008-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311008
+DTEND;VALUE=DATE:20311009
+SUMMARY:Tiết Hàn lộ
+DESCRIPTION:Mặt Trời tới kinh độ 195°\, khoảng 18:29 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-14-20311023-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311023
+DTEND;VALUE=DATE:20311024
+SUMMARY:Tiết Sương giáng
+DESCRIPTION:Mặt Trời tới kinh độ 210°\, khoảng 21:40 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-15-20311107-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311107
+DTEND;VALUE=DATE:20311108
+SUMMARY:Tiết Lập đông
+DESCRIPTION:Mặt Trời tới kinh độ 225°\, khoảng 21:52 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-16-20311122-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311122
+DTEND;VALUE=DATE:20311123
+SUMMARY:Tiết Tiểu tuyết
+DESCRIPTION:Mặt Trời tới kinh độ 240°\, khoảng 19:25 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-17-20311207-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311207
+DTEND;VALUE=DATE:20311208
+SUMMARY:Tiết Đại tuyết
+DESCRIPTION:Mặt Trời tới kinh độ 255°\, khoảng 14:52 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-18-20311222-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311222
+DTEND;VALUE=DATE:20311223
+SUMMARY:Tiết Đông chí
+DESCRIPTION:Mặt Trời tới kinh độ 270°\, khoảng 08:52 (UTC+7\, 
+ ước tính).\nTính bằng thư viện qelunai_lunar theo giờ Việt N
+ am (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: h
+ ttps://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

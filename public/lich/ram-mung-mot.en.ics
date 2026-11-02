@@ -1,0 +1,1916 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Qelunai//vietnamese-calendar-data ram-mung-mot//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New and full moon days · Qelunai
+X-WR-CALDESC:The 1st and 15th of each Vietnamese lunar month\, leap months 
+ marked. Computed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+X-WR-TIMEZONE:Asia/Ho_Chi_Minh
+REFRESH-INTERVAL;VALUE=DURATION:P7D
+X-PUBLISHED-TTL:P7D
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20250114-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250114
+DTEND;VALUE=DATE:20250115
+SUMMARY:Full moon\, month 12
+DESCRIPTION:Lunar day 15\, month 12\, year Giáp Thìn.\nComputed with the 
+ qelunai_lunar library for Vietnam time (UTC+7). For cultural reference. Me
+ thod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20250129-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250129
+DTEND;VALUE=DATE:20250130
+SUMMARY:New moon\, month 1 · Lunar New Year
+DESCRIPTION:Lunar day 1\, month 1\, year Ất Tỵ.\nComputed with the qelu
+ nai_lunar library for Vietnam time (UTC+7). For cultural reference. Method
+ : https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20250212-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250212
+DTEND;VALUE=DATE:20250213
+SUMMARY:Full moon\, month 1 · Lantern Festival
+DESCRIPTION:Lunar day 15\, month 1\, year Ất Tỵ.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20250228-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250228
+DTEND;VALUE=DATE:20250301
+SUMMARY:New moon\, month 2
+DESCRIPTION:Lunar day 1\, month 2\, year Ất Tỵ.\nComputed with the qelu
+ nai_lunar library for Vietnam time (UTC+7). For cultural reference. Method
+ : https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20250314-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250314
+DTEND;VALUE=DATE:20250315
+SUMMARY:Full moon\, month 2
+DESCRIPTION:Lunar day 15\, month 2\, year Ất Tỵ.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20250329-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250329
+DTEND;VALUE=DATE:20250330
+SUMMARY:New moon\, month 3
+DESCRIPTION:Lunar day 1\, month 3\, year Ất Tỵ.\nComputed with the qelu
+ nai_lunar library for Vietnam time (UTC+7). For cultural reference. Method
+ : https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20250412-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250412
+DTEND;VALUE=DATE:20250413
+SUMMARY:Full moon\, month 3
+DESCRIPTION:Lunar day 15\, month 3\, year Ất Tỵ.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20250428-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250429
+SUMMARY:New moon\, month 4
+DESCRIPTION:Lunar day 1\, month 4\, year Ất Tỵ.\nComputed with the qelu
+ nai_lunar library for Vietnam time (UTC+7). For cultural reference. Method
+ : https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20250512-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250513
+SUMMARY:Full moon\, month 4
+DESCRIPTION:Lunar day 15\, month 4\, year Ất Tỵ.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20250527-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250527
+DTEND;VALUE=DATE:20250528
+SUMMARY:New moon\, month 5
+DESCRIPTION:Lunar day 1\, month 5\, year Ất Tỵ.\nComputed with the qelu
+ nai_lunar library for Vietnam time (UTC+7). For cultural reference. Method
+ : https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20250610-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250610
+DTEND;VALUE=DATE:20250611
+SUMMARY:Full moon\, month 5
+DESCRIPTION:Lunar day 15\, month 5\, year Ất Tỵ.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20250625-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250625
+DTEND;VALUE=DATE:20250626
+SUMMARY:New moon\, month 6
+DESCRIPTION:Lunar day 1\, month 6\, year Ất Tỵ.\nComputed with the qelu
+ nai_lunar library for Vietnam time (UTC+7). For cultural reference. Method
+ : https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20250709-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250709
+DTEND;VALUE=DATE:20250710
+SUMMARY:Full moon\, month 6
+DESCRIPTION:Lunar day 15\, month 6\, year Ất Tỵ.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20250725-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250725
+DTEND;VALUE=DATE:20250726
+SUMMARY:New moon\, month 6 (leap)
+DESCRIPTION:Lunar day 1\, month 6 (leap)\, year Ất Tỵ.\nComputed with t
+ he qelunai_lunar library for Vietnam time (UTC+7). For cultural reference.
+  Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20250808-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250808
+DTEND;VALUE=DATE:20250809
+SUMMARY:Full moon\, month 6 (leap)
+DESCRIPTION:Lunar day 15\, month 6 (leap)\, year Ất Tỵ.\nComputed with 
+ the qelunai_lunar library for Vietnam time (UTC+7). For cultural reference
+ . Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20250823-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250823
+DTEND;VALUE=DATE:20250824
+SUMMARY:New moon\, month 7
+DESCRIPTION:Lunar day 1\, month 7\, year Ất Tỵ.\nComputed with the qelu
+ nai_lunar library for Vietnam time (UTC+7). For cultural reference. Method
+ : https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20250906-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250906
+DTEND;VALUE=DATE:20250907
+SUMMARY:Full moon\, month 7 · Vu Lan
+DESCRIPTION:Lunar day 15\, month 7\, year Ất Tỵ.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20250922-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20250923
+SUMMARY:New moon\, month 8
+DESCRIPTION:Lunar day 1\, month 8\, year Ất Tỵ.\nComputed with the qelu
+ nai_lunar library for Vietnam time (UTC+7). For cultural reference. Method
+ : https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20251006-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251006
+DTEND;VALUE=DATE:20251007
+SUMMARY:Full moon\, month 8 · Mid-Autumn Festival
+DESCRIPTION:Lunar day 15\, month 8\, year Ất Tỵ.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20251021-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251021
+DTEND;VALUE=DATE:20251022
+SUMMARY:New moon\, month 9
+DESCRIPTION:Lunar day 1\, month 9\, year Ất Tỵ.\nComputed with the qelu
+ nai_lunar library for Vietnam time (UTC+7). For cultural reference. Method
+ : https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20251104-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251104
+DTEND;VALUE=DATE:20251105
+SUMMARY:Full moon\, month 9
+DESCRIPTION:Lunar day 15\, month 9\, year Ất Tỵ.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20251120-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251120
+DTEND;VALUE=DATE:20251121
+SUMMARY:New moon\, month 10
+DESCRIPTION:Lunar day 1\, month 10\, year Ất Tỵ.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20251204-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251204
+DTEND;VALUE=DATE:20251205
+SUMMARY:Full moon\, month 10 · Hạ Nguyên Festival
+DESCRIPTION:Lunar day 15\, month 10\, year Ất Tỵ.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20251220-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20251221
+SUMMARY:New moon\, month 11
+DESCRIPTION:Lunar day 1\, month 11\, year Ất Tỵ.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20260103-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260103
+DTEND;VALUE=DATE:20260104
+SUMMARY:Full moon\, month 11
+DESCRIPTION:Lunar day 15\, month 11\, year Ất Tỵ.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20260119-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+SUMMARY:New moon\, month 12
+DESCRIPTION:Lunar day 1\, month 12\, year Ất Tỵ.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20260202-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:Full moon\, month 12
+DESCRIPTION:Lunar day 15\, month 12\, year Ất Tỵ.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20260217-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+SUMMARY:New moon\, month 1 · Lunar New Year
+DESCRIPTION:Lunar day 1\, month 1\, year Bính Ngọ.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20260303-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:Full moon\, month 1 · Lantern Festival
+DESCRIPTION:Lunar day 15\, month 1\, year Bính Ngọ.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20260319-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:New moon\, month 2
+DESCRIPTION:Lunar day 1\, month 2\, year Bính Ngọ.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20260402-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:Full moon\, month 2
+DESCRIPTION:Lunar day 15\, month 2\, year Bính Ngọ.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20260417-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:New moon\, month 3
+DESCRIPTION:Lunar day 1\, month 3\, year Bính Ngọ.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20260501-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Full moon\, month 3
+DESCRIPTION:Lunar day 15\, month 3\, year Bính Ngọ.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20260517-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:New moon\, month 4
+DESCRIPTION:Lunar day 1\, month 4\, year Bính Ngọ.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20260531-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Full moon\, month 4
+DESCRIPTION:Lunar day 15\, month 4\, year Bính Ngọ.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20260615-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:New moon\, month 5
+DESCRIPTION:Lunar day 1\, month 5\, year Bính Ngọ.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20260629-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+SUMMARY:Full moon\, month 5
+DESCRIPTION:Lunar day 15\, month 5\, year Bính Ngọ.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20260714-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:New moon\, month 6
+DESCRIPTION:Lunar day 1\, month 6\, year Bính Ngọ.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20260728-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:Full moon\, month 6
+DESCRIPTION:Lunar day 15\, month 6\, year Bính Ngọ.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20260813-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:New moon\, month 7
+DESCRIPTION:Lunar day 1\, month 7\, year Bính Ngọ.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20260827-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Full moon\, month 7 · Vu Lan
+DESCRIPTION:Lunar day 15\, month 7\, year Bính Ngọ.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20260911-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:New moon\, month 8
+DESCRIPTION:Lunar day 1\, month 8\, year Bính Ngọ.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20260925-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Full moon\, month 8 · Mid-Autumn Festival
+DESCRIPTION:Lunar day 15\, month 8\, year Bính Ngọ.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20261010-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:New moon\, month 9
+DESCRIPTION:Lunar day 1\, month 9\, year Bính Ngọ.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20261024-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Full moon\, month 9
+DESCRIPTION:Lunar day 15\, month 9\, year Bính Ngọ.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20261109-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:New moon\, month 10
+DESCRIPTION:Lunar day 1\, month 10\, year Bính Ngọ.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20261123-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Full moon\, month 10 · Hạ Nguyên Festival
+DESCRIPTION:Lunar day 15\, month 10\, year Bính Ngọ.\nComputed with the 
+ qelunai_lunar library for Vietnam time (UTC+7). For cultural reference. Me
+ thod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20261209-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:New moon\, month 11
+DESCRIPTION:Lunar day 1\, month 11\, year Bính Ngọ.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20261223-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Full moon\, month 11
+DESCRIPTION:Lunar day 15\, month 11\, year Bính Ngọ.\nComputed with the 
+ qelunai_lunar library for Vietnam time (UTC+7). For cultural reference. Me
+ thod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20270108-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:New moon\, month 12
+DESCRIPTION:Lunar day 1\, month 12\, year Bính Ngọ.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20270122-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Full moon\, month 12
+DESCRIPTION:Lunar day 15\, month 12\, year Bính Ngọ.\nComputed with the 
+ qelunai_lunar library for Vietnam time (UTC+7). For cultural reference. Me
+ thod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20270206-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:New moon\, month 1 · Lunar New Year
+DESCRIPTION:Lunar day 1\, month 1\, year Đinh Mùi.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20270220-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Full moon\, month 1 · Lantern Festival
+DESCRIPTION:Lunar day 15\, month 1\, year Đinh Mùi.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20270308-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:New moon\, month 2
+DESCRIPTION:Lunar day 1\, month 2\, year Đinh Mùi.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20270322-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Full moon\, month 2
+DESCRIPTION:Lunar day 15\, month 2\, year Đinh Mùi.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20270407-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:New moon\, month 3
+DESCRIPTION:Lunar day 1\, month 3\, year Đinh Mùi.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20270421-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Full moon\, month 3
+DESCRIPTION:Lunar day 15\, month 3\, year Đinh Mùi.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20270506-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:New moon\, month 4
+DESCRIPTION:Lunar day 1\, month 4\, year Đinh Mùi.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20270520-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:Full moon\, month 4
+DESCRIPTION:Lunar day 15\, month 4\, year Đinh Mùi.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20270605-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:New moon\, month 5
+DESCRIPTION:Lunar day 1\, month 5\, year Đinh Mùi.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20270619-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:Full moon\, month 5
+DESCRIPTION:Lunar day 15\, month 5\, year Đinh Mùi.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20270704-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:New moon\, month 6
+DESCRIPTION:Lunar day 1\, month 6\, year Đinh Mùi.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20270718-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:Full moon\, month 6
+DESCRIPTION:Lunar day 15\, month 6\, year Đinh Mùi.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20270802-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:New moon\, month 7
+DESCRIPTION:Lunar day 1\, month 7\, year Đinh Mùi.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20270816-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:Full moon\, month 7 · Vu Lan
+DESCRIPTION:Lunar day 15\, month 7\, year Đinh Mùi.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20270901-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:New moon\, month 8
+DESCRIPTION:Lunar day 1\, month 8\, year Đinh Mùi.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20270915-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Full moon\, month 8 · Mid-Autumn Festival
+DESCRIPTION:Lunar day 15\, month 8\, year Đinh Mùi.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20270930-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+SUMMARY:New moon\, month 9
+DESCRIPTION:Lunar day 1\, month 9\, year Đinh Mùi.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20271014-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271015
+SUMMARY:Full moon\, month 9
+DESCRIPTION:Lunar day 15\, month 9\, year Đinh Mùi.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20271029-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271030
+SUMMARY:New moon\, month 10
+DESCRIPTION:Lunar day 1\, month 10\, year Đinh Mùi.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20271112-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271112
+DTEND;VALUE=DATE:20271113
+SUMMARY:Full moon\, month 10 · Hạ Nguyên Festival
+DESCRIPTION:Lunar day 15\, month 10\, year Đinh Mùi.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20271128-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271128
+DTEND;VALUE=DATE:20271129
+SUMMARY:New moon\, month 11
+DESCRIPTION:Lunar day 1\, month 11\, year Đinh Mùi.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20271212-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271212
+DTEND;VALUE=DATE:20271213
+SUMMARY:Full moon\, month 11
+DESCRIPTION:Lunar day 15\, month 11\, year Đinh Mùi.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20271228-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271228
+DTEND;VALUE=DATE:20271229
+SUMMARY:New moon\, month 12
+DESCRIPTION:Lunar day 1\, month 12\, year Đinh Mùi.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20280111-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280111
+DTEND;VALUE=DATE:20280112
+SUMMARY:Full moon\, month 12
+DESCRIPTION:Lunar day 15\, month 12\, year Đinh Mùi.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20280126-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280126
+DTEND;VALUE=DATE:20280127
+SUMMARY:New moon\, month 1 · Lunar New Year
+DESCRIPTION:Lunar day 1\, month 1\, year Mậu Thân.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20280209-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280209
+DTEND;VALUE=DATE:20280210
+SUMMARY:Full moon\, month 1 · Lantern Festival
+DESCRIPTION:Lunar day 15\, month 1\, year Mậu Thân.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20280225-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280225
+DTEND;VALUE=DATE:20280226
+SUMMARY:New moon\, month 2
+DESCRIPTION:Lunar day 1\, month 2\, year Mậu Thân.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20280310-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280310
+DTEND;VALUE=DATE:20280311
+SUMMARY:Full moon\, month 2
+DESCRIPTION:Lunar day 15\, month 2\, year Mậu Thân.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20280326-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280326
+DTEND;VALUE=DATE:20280327
+SUMMARY:New moon\, month 3
+DESCRIPTION:Lunar day 1\, month 3\, year Mậu Thân.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20280409-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280409
+DTEND;VALUE=DATE:20280410
+SUMMARY:Full moon\, month 3
+DESCRIPTION:Lunar day 15\, month 3\, year Mậu Thân.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20280425-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280425
+DTEND;VALUE=DATE:20280426
+SUMMARY:New moon\, month 4
+DESCRIPTION:Lunar day 1\, month 4\, year Mậu Thân.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20280509-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280509
+DTEND;VALUE=DATE:20280510
+SUMMARY:Full moon\, month 4
+DESCRIPTION:Lunar day 15\, month 4\, year Mậu Thân.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20280524-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280524
+DTEND;VALUE=DATE:20280525
+SUMMARY:New moon\, month 5
+DESCRIPTION:Lunar day 1\, month 5\, year Mậu Thân.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20280607-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280607
+DTEND;VALUE=DATE:20280608
+SUMMARY:Full moon\, month 5
+DESCRIPTION:Lunar day 15\, month 5\, year Mậu Thân.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20280623-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280623
+DTEND;VALUE=DATE:20280624
+SUMMARY:New moon\, month 5 (leap)
+DESCRIPTION:Lunar day 1\, month 5 (leap)\, year Mậu Thân.\nComputed with
+  the qelunai_lunar library for Vietnam time (UTC+7). For cultural referenc
+ e. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20280707-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280707
+DTEND;VALUE=DATE:20280708
+SUMMARY:Full moon\, month 5 (leap)
+DESCRIPTION:Lunar day 15\, month 5 (leap)\, year Mậu Thân.\nComputed wit
+ h the qelunai_lunar library for Vietnam time (UTC+7). For cultural referen
+ ce. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20280722-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:New moon\, month 6
+DESCRIPTION:Lunar day 1\, month 6\, year Mậu Thân.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20280805-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280805
+DTEND;VALUE=DATE:20280806
+SUMMARY:Full moon\, month 6
+DESCRIPTION:Lunar day 15\, month 6\, year Mậu Thân.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20280820-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280820
+DTEND;VALUE=DATE:20280821
+SUMMARY:New moon\, month 7
+DESCRIPTION:Lunar day 1\, month 7\, year Mậu Thân.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20280903-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280903
+DTEND;VALUE=DATE:20280904
+SUMMARY:Full moon\, month 7 · Vu Lan
+DESCRIPTION:Lunar day 15\, month 7\, year Mậu Thân.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20280919-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280919
+DTEND;VALUE=DATE:20280920
+SUMMARY:New moon\, month 8
+DESCRIPTION:Lunar day 1\, month 8\, year Mậu Thân.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20281003-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281003
+DTEND;VALUE=DATE:20281004
+SUMMARY:Full moon\, month 8 · Mid-Autumn Festival
+DESCRIPTION:Lunar day 15\, month 8\, year Mậu Thân.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20281018-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281018
+DTEND;VALUE=DATE:20281019
+SUMMARY:New moon\, month 9
+DESCRIPTION:Lunar day 1\, month 9\, year Mậu Thân.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20281101-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281101
+DTEND;VALUE=DATE:20281102
+SUMMARY:Full moon\, month 9
+DESCRIPTION:Lunar day 15\, month 9\, year Mậu Thân.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20281116-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281116
+DTEND;VALUE=DATE:20281117
+SUMMARY:New moon\, month 10
+DESCRIPTION:Lunar day 1\, month 10\, year Mậu Thân.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20281130-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281130
+DTEND;VALUE=DATE:20281201
+SUMMARY:Full moon\, month 10 · Hạ Nguyên Festival
+DESCRIPTION:Lunar day 15\, month 10\, year Mậu Thân.\nComputed with the 
+ qelunai_lunar library for Vietnam time (UTC+7). For cultural reference. Me
+ thod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20281216-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281216
+DTEND;VALUE=DATE:20281217
+SUMMARY:New moon\, month 11
+DESCRIPTION:Lunar day 1\, month 11\, year Mậu Thân.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20281230-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281230
+DTEND;VALUE=DATE:20281231
+SUMMARY:Full moon\, month 11
+DESCRIPTION:Lunar day 15\, month 11\, year Mậu Thân.\nComputed with the 
+ qelunai_lunar library for Vietnam time (UTC+7). For cultural reference. Me
+ thod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20290115-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290115
+DTEND;VALUE=DATE:20290116
+SUMMARY:New moon\, month 12
+DESCRIPTION:Lunar day 1\, month 12\, year Mậu Thân.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20290129-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290129
+DTEND;VALUE=DATE:20290130
+SUMMARY:Full moon\, month 12
+DESCRIPTION:Lunar day 15\, month 12\, year Mậu Thân.\nComputed with the 
+ qelunai_lunar library for Vietnam time (UTC+7). For cultural reference. Me
+ thod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20290213-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290213
+DTEND;VALUE=DATE:20290214
+SUMMARY:New moon\, month 1 · Lunar New Year
+DESCRIPTION:Lunar day 1\, month 1\, year Kỷ Dậu.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20290227-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290227
+DTEND;VALUE=DATE:20290228
+SUMMARY:Full moon\, month 1 · Lantern Festival
+DESCRIPTION:Lunar day 15\, month 1\, year Kỷ Dậu.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20290315-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290315
+DTEND;VALUE=DATE:20290316
+SUMMARY:New moon\, month 2
+DESCRIPTION:Lunar day 1\, month 2\, year Kỷ Dậu.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20290329-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290329
+DTEND;VALUE=DATE:20290330
+SUMMARY:Full moon\, month 2
+DESCRIPTION:Lunar day 15\, month 2\, year Kỷ Dậu.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20290414-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290414
+DTEND;VALUE=DATE:20290415
+SUMMARY:New moon\, month 3
+DESCRIPTION:Lunar day 1\, month 3\, year Kỷ Dậu.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20290428-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290428
+DTEND;VALUE=DATE:20290429
+SUMMARY:Full moon\, month 3
+DESCRIPTION:Lunar day 15\, month 3\, year Kỷ Dậu.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20290513-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290513
+DTEND;VALUE=DATE:20290514
+SUMMARY:New moon\, month 4
+DESCRIPTION:Lunar day 1\, month 4\, year Kỷ Dậu.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20290527-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290527
+DTEND;VALUE=DATE:20290528
+SUMMARY:Full moon\, month 4
+DESCRIPTION:Lunar day 15\, month 4\, year Kỷ Dậu.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20290612-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290612
+DTEND;VALUE=DATE:20290613
+SUMMARY:New moon\, month 5
+DESCRIPTION:Lunar day 1\, month 5\, year Kỷ Dậu.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20290626-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290626
+DTEND;VALUE=DATE:20290627
+SUMMARY:Full moon\, month 5
+DESCRIPTION:Lunar day 15\, month 5\, year Kỷ Dậu.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20290711-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290711
+DTEND;VALUE=DATE:20290712
+SUMMARY:New moon\, month 6
+DESCRIPTION:Lunar day 1\, month 6\, year Kỷ Dậu.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20290725-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290725
+DTEND;VALUE=DATE:20290726
+SUMMARY:Full moon\, month 6
+DESCRIPTION:Lunar day 15\, month 6\, year Kỷ Dậu.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20290810-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290810
+DTEND;VALUE=DATE:20290811
+SUMMARY:New moon\, month 7
+DESCRIPTION:Lunar day 1\, month 7\, year Kỷ Dậu.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20290824-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290824
+DTEND;VALUE=DATE:20290825
+SUMMARY:Full moon\, month 7 · Vu Lan
+DESCRIPTION:Lunar day 15\, month 7\, year Kỷ Dậu.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20290908-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290908
+DTEND;VALUE=DATE:20290909
+SUMMARY:New moon\, month 8
+DESCRIPTION:Lunar day 1\, month 8\, year Kỷ Dậu.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20290922-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290922
+DTEND;VALUE=DATE:20290923
+SUMMARY:Full moon\, month 8 · Mid-Autumn Festival
+DESCRIPTION:Lunar day 15\, month 8\, year Kỷ Dậu.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20291008-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291008
+DTEND;VALUE=DATE:20291009
+SUMMARY:New moon\, month 9
+DESCRIPTION:Lunar day 1\, month 9\, year Kỷ Dậu.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20291022-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291022
+DTEND;VALUE=DATE:20291023
+SUMMARY:Full moon\, month 9
+DESCRIPTION:Lunar day 15\, month 9\, year Kỷ Dậu.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20291106-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291106
+DTEND;VALUE=DATE:20291107
+SUMMARY:New moon\, month 10
+DESCRIPTION:Lunar day 1\, month 10\, year Kỷ Dậu.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20291120-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291120
+DTEND;VALUE=DATE:20291121
+SUMMARY:Full moon\, month 10 · Hạ Nguyên Festival
+DESCRIPTION:Lunar day 15\, month 10\, year Kỷ Dậu.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20291205-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291205
+DTEND;VALUE=DATE:20291206
+SUMMARY:New moon\, month 11
+DESCRIPTION:Lunar day 1\, month 11\, year Kỷ Dậu.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20291219-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291219
+DTEND;VALUE=DATE:20291220
+SUMMARY:Full moon\, month 11
+DESCRIPTION:Lunar day 15\, month 11\, year Kỷ Dậu.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20300104-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300104
+DTEND;VALUE=DATE:20300105
+SUMMARY:New moon\, month 12
+DESCRIPTION:Lunar day 1\, month 12\, year Kỷ Dậu.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20300118-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300118
+DTEND;VALUE=DATE:20300119
+SUMMARY:Full moon\, month 12
+DESCRIPTION:Lunar day 15\, month 12\, year Kỷ Dậu.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20300202-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300202
+DTEND;VALUE=DATE:20300203
+SUMMARY:New moon\, month 1 · Lunar New Year
+DESCRIPTION:Lunar day 1\, month 1\, year Canh Tuất.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20300216-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300216
+DTEND;VALUE=DATE:20300217
+SUMMARY:Full moon\, month 1 · Lantern Festival
+DESCRIPTION:Lunar day 15\, month 1\, year Canh Tuất.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20300304-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300304
+DTEND;VALUE=DATE:20300305
+SUMMARY:New moon\, month 2
+DESCRIPTION:Lunar day 1\, month 2\, year Canh Tuất.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20300318-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300318
+DTEND;VALUE=DATE:20300319
+SUMMARY:Full moon\, month 2
+DESCRIPTION:Lunar day 15\, month 2\, year Canh Tuất.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20300403-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300403
+DTEND;VALUE=DATE:20300404
+SUMMARY:New moon\, month 3
+DESCRIPTION:Lunar day 1\, month 3\, year Canh Tuất.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20300417-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300417
+DTEND;VALUE=DATE:20300418
+SUMMARY:Full moon\, month 3
+DESCRIPTION:Lunar day 15\, month 3\, year Canh Tuất.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20300502-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300502
+DTEND;VALUE=DATE:20300503
+SUMMARY:New moon\, month 4
+DESCRIPTION:Lunar day 1\, month 4\, year Canh Tuất.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20300516-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300516
+DTEND;VALUE=DATE:20300517
+SUMMARY:Full moon\, month 4
+DESCRIPTION:Lunar day 15\, month 4\, year Canh Tuất.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20300601-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300601
+DTEND;VALUE=DATE:20300602
+SUMMARY:New moon\, month 5
+DESCRIPTION:Lunar day 1\, month 5\, year Canh Tuất.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20300615-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300615
+DTEND;VALUE=DATE:20300616
+SUMMARY:Full moon\, month 5
+DESCRIPTION:Lunar day 15\, month 5\, year Canh Tuất.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20300701-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300701
+DTEND;VALUE=DATE:20300702
+SUMMARY:New moon\, month 6
+DESCRIPTION:Lunar day 1\, month 6\, year Canh Tuất.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20300715-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300715
+DTEND;VALUE=DATE:20300716
+SUMMARY:Full moon\, month 6
+DESCRIPTION:Lunar day 15\, month 6\, year Canh Tuất.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20300730-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300730
+DTEND;VALUE=DATE:20300731
+SUMMARY:New moon\, month 7
+DESCRIPTION:Lunar day 1\, month 7\, year Canh Tuất.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20300813-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300813
+DTEND;VALUE=DATE:20300814
+SUMMARY:Full moon\, month 7 · Vu Lan
+DESCRIPTION:Lunar day 15\, month 7\, year Canh Tuất.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20300829-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300829
+DTEND;VALUE=DATE:20300830
+SUMMARY:New moon\, month 8
+DESCRIPTION:Lunar day 1\, month 8\, year Canh Tuất.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20300912-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300912
+DTEND;VALUE=DATE:20300913
+SUMMARY:Full moon\, month 8 · Mid-Autumn Festival
+DESCRIPTION:Lunar day 15\, month 8\, year Canh Tuất.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20300927-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300927
+DTEND;VALUE=DATE:20300928
+SUMMARY:New moon\, month 9
+DESCRIPTION:Lunar day 1\, month 9\, year Canh Tuất.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20301011-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20301011
+DTEND;VALUE=DATE:20301012
+SUMMARY:Full moon\, month 9
+DESCRIPTION:Lunar day 15\, month 9\, year Canh Tuất.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20301027-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20301027
+DTEND;VALUE=DATE:20301028
+SUMMARY:New moon\, month 10
+DESCRIPTION:Lunar day 1\, month 10\, year Canh Tuất.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20301110-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20301110
+DTEND;VALUE=DATE:20301111
+SUMMARY:Full moon\, month 10 · Hạ Nguyên Festival
+DESCRIPTION:Lunar day 15\, month 10\, year Canh Tuất.\nComputed with the 
+ qelunai_lunar library for Vietnam time (UTC+7). For cultural reference. Me
+ thod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20301125-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20301125
+DTEND;VALUE=DATE:20301126
+SUMMARY:New moon\, month 11
+DESCRIPTION:Lunar day 1\, month 11\, year Canh Tuất.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20301209-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20301209
+DTEND;VALUE=DATE:20301210
+SUMMARY:Full moon\, month 11
+DESCRIPTION:Lunar day 15\, month 11\, year Canh Tuất.\nComputed with the 
+ qelunai_lunar library for Vietnam time (UTC+7). For cultural reference. Me
+ thod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20301225-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20301225
+DTEND;VALUE=DATE:20301226
+SUMMARY:New moon\, month 12
+DESCRIPTION:Lunar day 1\, month 12\, year Canh Tuất.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20310108-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310108
+DTEND;VALUE=DATE:20310109
+SUMMARY:Full moon\, month 12
+DESCRIPTION:Lunar day 15\, month 12\, year Canh Tuất.\nComputed with the 
+ qelunai_lunar library for Vietnam time (UTC+7). For cultural reference. Me
+ thod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20310123-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310123
+DTEND;VALUE=DATE:20310124
+SUMMARY:New moon\, month 1 · Lunar New Year
+DESCRIPTION:Lunar day 1\, month 1\, year Tân Hợi.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20310206-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310206
+DTEND;VALUE=DATE:20310207
+SUMMARY:Full moon\, month 1 · Lantern Festival
+DESCRIPTION:Lunar day 15\, month 1\, year Tân Hợi.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20310221-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310221
+DTEND;VALUE=DATE:20310222
+SUMMARY:New moon\, month 2
+DESCRIPTION:Lunar day 1\, month 2\, year Tân Hợi.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20310307-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310307
+DTEND;VALUE=DATE:20310308
+SUMMARY:Full moon\, month 2
+DESCRIPTION:Lunar day 15\, month 2\, year Tân Hợi.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20310323-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310323
+DTEND;VALUE=DATE:20310324
+SUMMARY:New moon\, month 3
+DESCRIPTION:Lunar day 1\, month 3\, year Tân Hợi.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20310406-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310406
+DTEND;VALUE=DATE:20310407
+SUMMARY:Full moon\, month 3
+DESCRIPTION:Lunar day 15\, month 3\, year Tân Hợi.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20310421-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310421
+DTEND;VALUE=DATE:20310422
+SUMMARY:New moon\, month 3 (leap)
+DESCRIPTION:Lunar day 1\, month 3 (leap)\, year Tân Hợi.\nComputed with 
+ the qelunai_lunar library for Vietnam time (UTC+7). For cultural reference
+ . Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20310505-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310505
+DTEND;VALUE=DATE:20310506
+SUMMARY:Full moon\, month 3 (leap)
+DESCRIPTION:Lunar day 15\, month 3 (leap)\, year Tân Hợi.\nComputed with
+  the qelunai_lunar library for Vietnam time (UTC+7). For cultural referenc
+ e. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20310521-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310521
+DTEND;VALUE=DATE:20310522
+SUMMARY:New moon\, month 4
+DESCRIPTION:Lunar day 1\, month 4\, year Tân Hợi.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20310604-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310604
+DTEND;VALUE=DATE:20310605
+SUMMARY:Full moon\, month 4
+DESCRIPTION:Lunar day 15\, month 4\, year Tân Hợi.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20310620-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310620
+DTEND;VALUE=DATE:20310621
+SUMMARY:New moon\, month 5
+DESCRIPTION:Lunar day 1\, month 5\, year Tân Hợi.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20310704-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310704
+DTEND;VALUE=DATE:20310705
+SUMMARY:Full moon\, month 5
+DESCRIPTION:Lunar day 15\, month 5\, year Tân Hợi.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20310719-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310719
+DTEND;VALUE=DATE:20310720
+SUMMARY:New moon\, month 6
+DESCRIPTION:Lunar day 1\, month 6\, year Tân Hợi.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20310802-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310802
+DTEND;VALUE=DATE:20310803
+SUMMARY:Full moon\, month 6
+DESCRIPTION:Lunar day 15\, month 6\, year Tân Hợi.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20310818-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310818
+DTEND;VALUE=DATE:20310819
+SUMMARY:New moon\, month 7
+DESCRIPTION:Lunar day 1\, month 7\, year Tân Hợi.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20310901-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310901
+DTEND;VALUE=DATE:20310902
+SUMMARY:Full moon\, month 7 · Vu Lan
+DESCRIPTION:Lunar day 15\, month 7\, year Tân Hợi.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20310917-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310917
+DTEND;VALUE=DATE:20310918
+SUMMARY:New moon\, month 8
+DESCRIPTION:Lunar day 1\, month 8\, year Tân Hợi.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20311001-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311001
+DTEND;VALUE=DATE:20311002
+SUMMARY:Full moon\, month 8 · Mid-Autumn Festival
+DESCRIPTION:Lunar day 15\, month 8\, year Tân Hợi.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20311016-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311016
+DTEND;VALUE=DATE:20311017
+SUMMARY:New moon\, month 9
+DESCRIPTION:Lunar day 1\, month 9\, year Tân Hợi.\nComputed with the qel
+ unai_lunar library for Vietnam time (UTC+7). For cultural reference. Metho
+ d: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20311030-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311030
+DTEND;VALUE=DATE:20311031
+SUMMARY:Full moon\, month 9
+DESCRIPTION:Lunar day 15\, month 9\, year Tân Hợi.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20311115-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311115
+DTEND;VALUE=DATE:20311116
+SUMMARY:New moon\, month 10
+DESCRIPTION:Lunar day 1\, month 10\, year Tân Hợi.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20311129-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311129
+DTEND;VALUE=DATE:20311130
+SUMMARY:Full moon\, month 10 · Hạ Nguyên Festival
+DESCRIPTION:Lunar day 15\, month 10\, year Tân Hợi.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-mung-mot-20311214-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311214
+DTEND;VALUE=DATE:20311215
+SUMMARY:New moon\, month 11
+DESCRIPTION:Lunar day 1\, month 11\, year Tân Hợi.\nComputed with the qe
+ lunai_lunar library for Vietnam time (UTC+7). For cultural reference. Meth
+ od: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ram-mung-mot-ram-20311228-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311228
+DTEND;VALUE=DATE:20311229
+SUMMARY:Full moon\, month 11
+DESCRIPTION:Lunar day 15\, month 11\, year Tân Hợi.\nComputed with the q
+ elunai_lunar library for Vietnam time (UTC+7). For cultural reference. Met
+ hod: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
