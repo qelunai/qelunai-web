@@ -1,0 +1,595 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Qelunai//vietnamese-calendar-data le-tet//VI
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lễ Tết âm lịch · Qelunai
+X-WR-CALDESC:Các ngày lễ Tết âm lịch Việt Nam có trong ứng d
+ ụng Qelunai. Tính bằng thư viện qelunai_lunar theo giờ Việt Na
+ m (UTC+7). Thông tin mang tính tham khảo văn hoá. Phương pháp: ht
+ tps://qelunai.com/phuong-phap/
+X-WR-TIMEZONE:Asia/Ho_Chi_Minh
+REFRESH-INTERVAL;VALUE=DURATION:P7D
+X-PUBLISHED-TTL:P7D
+BEGIN:VEVENT
+UID:le-tet-ong-cong-ong-tao-20250122-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250122
+DTEND;VALUE=DATE:20250123
+SUMMARY:Ông Công ông Táo
+DESCRIPTION:Ngày 23 tháng 12 âm lịch\, năm Giáp Thìn.\nTính bằng
+  thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang 
+ tính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-ph
+ ap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-giao-thua-20250128-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250128
+DTEND;VALUE=DATE:20250129
+SUMMARY:Giao thừa
+DESCRIPTION:Ngày 29 tháng 12 âm lịch\, năm Giáp Thìn. Đêm giao th
+ ừa là đêm của ngày này\, trước mùng 1 Tết.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-nguyen-dan-20250129-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250129
+DTEND;VALUE=DATE:20250130
+SUMMARY:Tết Nguyên đán
+DESCRIPTION:Ngày 1 tháng 1 âm lịch\, năm Ất Tỵ.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-nguyen-tieu-20250212-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250212
+DTEND;VALUE=DATE:20250213
+SUMMARY:Tết Nguyên tiêu
+DESCRIPTION:Ngày 15 tháng 1 âm lịch\, năm Ất Tỵ.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-le-vu-lan-20250906-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250906
+DTEND;VALUE=DATE:20250907
+SUMMARY:Lễ Vu Lan
+DESCRIPTION:Ngày 15 tháng 7 âm lịch\, năm Ất Tỵ.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-trung-thu-20251006-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251006
+DTEND;VALUE=DATE:20251007
+SUMMARY:Tết Trung thu
+DESCRIPTION:Ngày 15 tháng 8 âm lịch\, năm Ất Tỵ.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-ha-nguyen-20251204-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251204
+DTEND;VALUE=DATE:20251205
+SUMMARY:Tết Hạ nguyên
+DESCRIPTION:Ngày 15 tháng 10 âm lịch\, năm Ất Tỵ.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-ong-cong-ong-tao-20260210-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+SUMMARY:Ông Công ông Táo
+DESCRIPTION:Ngày 23 tháng 12 âm lịch\, năm Ất Tỵ.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-giao-thua-20260216-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+SUMMARY:Giao thừa
+DESCRIPTION:Ngày 29 tháng 12 âm lịch\, năm Ất Tỵ. Đêm giao th
+ ừa là đêm của ngày này\, trước mùng 1 Tết.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-nguyen-dan-20260217-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+SUMMARY:Tết Nguyên đán
+DESCRIPTION:Ngày 1 tháng 1 âm lịch\, năm Bính Ngọ.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-nguyen-tieu-20260303-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:Tết Nguyên tiêu
+DESCRIPTION:Ngày 15 tháng 1 âm lịch\, năm Bính Ngọ.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-le-vu-lan-20260827-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Lễ Vu Lan
+DESCRIPTION:Ngày 15 tháng 7 âm lịch\, năm Bính Ngọ.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-trung-thu-20260925-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Tết Trung thu
+DESCRIPTION:Ngày 15 tháng 8 âm lịch\, năm Bính Ngọ.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-ha-nguyen-20261123-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Tết Hạ nguyên
+DESCRIPTION:Ngày 15 tháng 10 âm lịch\, năm Bính Ngọ.\nTính bằng
+  thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang 
+ tính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-ph
+ ap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-ong-cong-ong-tao-20270130-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Ông Công ông Táo
+DESCRIPTION:Ngày 23 tháng 12 âm lịch\, năm Bính Ngọ.\nTính bằng
+  thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang 
+ tính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-ph
+ ap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-giao-thua-20270205-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Giao thừa
+DESCRIPTION:Ngày 29 tháng 12 âm lịch\, năm Bính Ngọ. Đêm giao th
+ ừa là đêm của ngày này\, trước mùng 1 Tết.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-nguyen-dan-20270206-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Tết Nguyên đán
+DESCRIPTION:Ngày 1 tháng 1 âm lịch\, năm Đinh Mùi.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-nguyen-tieu-20270220-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Tết Nguyên tiêu
+DESCRIPTION:Ngày 15 tháng 1 âm lịch\, năm Đinh Mùi.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-le-vu-lan-20270816-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:Lễ Vu Lan
+DESCRIPTION:Ngày 15 tháng 7 âm lịch\, năm Đinh Mùi.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-trung-thu-20270915-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Tết Trung thu
+DESCRIPTION:Ngày 15 tháng 8 âm lịch\, năm Đinh Mùi.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-ha-nguyen-20271112-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271112
+DTEND;VALUE=DATE:20271113
+SUMMARY:Tết Hạ nguyên
+DESCRIPTION:Ngày 15 tháng 10 âm lịch\, năm Đinh Mùi.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-ong-cong-ong-tao-20280119-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280119
+DTEND;VALUE=DATE:20280120
+SUMMARY:Ông Công ông Táo
+DESCRIPTION:Ngày 23 tháng 12 âm lịch\, năm Đinh Mùi.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-giao-thua-20280125-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280125
+DTEND;VALUE=DATE:20280126
+SUMMARY:Giao thừa
+DESCRIPTION:Ngày 29 tháng 12 âm lịch\, năm Đinh Mùi. Đêm giao th
+ ừa là đêm của ngày này\, trước mùng 1 Tết.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-nguyen-dan-20280126-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280126
+DTEND;VALUE=DATE:20280127
+SUMMARY:Tết Nguyên đán
+DESCRIPTION:Ngày 1 tháng 1 âm lịch\, năm Mậu Thân.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-nguyen-tieu-20280209-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280209
+DTEND;VALUE=DATE:20280210
+SUMMARY:Tết Nguyên tiêu
+DESCRIPTION:Ngày 15 tháng 1 âm lịch\, năm Mậu Thân.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-le-vu-lan-20280903-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280903
+DTEND;VALUE=DATE:20280904
+SUMMARY:Lễ Vu Lan
+DESCRIPTION:Ngày 15 tháng 7 âm lịch\, năm Mậu Thân.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-trung-thu-20281003-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281003
+DTEND;VALUE=DATE:20281004
+SUMMARY:Tết Trung thu
+DESCRIPTION:Ngày 15 tháng 8 âm lịch\, năm Mậu Thân.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-ha-nguyen-20281130-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281130
+DTEND;VALUE=DATE:20281201
+SUMMARY:Tết Hạ nguyên
+DESCRIPTION:Ngày 15 tháng 10 âm lịch\, năm Mậu Thân.\nTính bằng
+  thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang 
+ tính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-ph
+ ap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-ong-cong-ong-tao-20290206-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290206
+DTEND;VALUE=DATE:20290207
+SUMMARY:Ông Công ông Táo
+DESCRIPTION:Ngày 23 tháng 12 âm lịch\, năm Mậu Thân.\nTính bằng
+  thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang 
+ tính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-ph
+ ap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-giao-thua-20290212-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290212
+DTEND;VALUE=DATE:20290213
+SUMMARY:Giao thừa
+DESCRIPTION:Ngày 29 tháng 12 âm lịch\, năm Mậu Thân. Đêm giao th
+ ừa là đêm của ngày này\, trước mùng 1 Tết.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-nguyen-dan-20290213-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290213
+DTEND;VALUE=DATE:20290214
+SUMMARY:Tết Nguyên đán
+DESCRIPTION:Ngày 1 tháng 1 âm lịch\, năm Kỷ Dậu.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-nguyen-tieu-20290227-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290227
+DTEND;VALUE=DATE:20290228
+SUMMARY:Tết Nguyên tiêu
+DESCRIPTION:Ngày 15 tháng 1 âm lịch\, năm Kỷ Dậu.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-le-vu-lan-20290824-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290824
+DTEND;VALUE=DATE:20290825
+SUMMARY:Lễ Vu Lan
+DESCRIPTION:Ngày 15 tháng 7 âm lịch\, năm Kỷ Dậu.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-trung-thu-20290922-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290922
+DTEND;VALUE=DATE:20290923
+SUMMARY:Tết Trung thu
+DESCRIPTION:Ngày 15 tháng 8 âm lịch\, năm Kỷ Dậu.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-ha-nguyen-20291120-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291120
+DTEND;VALUE=DATE:20291121
+SUMMARY:Tết Hạ nguyên
+DESCRIPTION:Ngày 15 tháng 10 âm lịch\, năm Kỷ Dậu.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-ong-cong-ong-tao-20300126-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300126
+DTEND;VALUE=DATE:20300127
+SUMMARY:Ông Công ông Táo
+DESCRIPTION:Ngày 23 tháng 12 âm lịch\, năm Kỷ Dậu.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-giao-thua-20300201-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300201
+DTEND;VALUE=DATE:20300202
+SUMMARY:Giao thừa
+DESCRIPTION:Ngày 29 tháng 12 âm lịch\, năm Kỷ Dậu. Đêm giao th
+ ừa là đêm của ngày này\, trước mùng 1 Tết.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-nguyen-dan-20300202-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300202
+DTEND;VALUE=DATE:20300203
+SUMMARY:Tết Nguyên đán
+DESCRIPTION:Ngày 1 tháng 1 âm lịch\, năm Canh Tuất.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-nguyen-tieu-20300216-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300216
+DTEND;VALUE=DATE:20300217
+SUMMARY:Tết Nguyên tiêu
+DESCRIPTION:Ngày 15 tháng 1 âm lịch\, năm Canh Tuất.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-le-vu-lan-20300813-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300813
+DTEND;VALUE=DATE:20300814
+SUMMARY:Lễ Vu Lan
+DESCRIPTION:Ngày 15 tháng 7 âm lịch\, năm Canh Tuất.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-trung-thu-20300912-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300912
+DTEND;VALUE=DATE:20300913
+SUMMARY:Tết Trung thu
+DESCRIPTION:Ngày 15 tháng 8 âm lịch\, năm Canh Tuất.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-ha-nguyen-20301110-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20301110
+DTEND;VALUE=DATE:20301111
+SUMMARY:Tết Hạ nguyên
+DESCRIPTION:Ngày 15 tháng 10 âm lịch\, năm Canh Tuất.\nTính bằng
+  thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang 
+ tính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-ph
+ ap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-ong-cong-ong-tao-20310116-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310116
+DTEND;VALUE=DATE:20310117
+SUMMARY:Ông Công ông Táo
+DESCRIPTION:Ngày 23 tháng 12 âm lịch\, năm Canh Tuất.\nTính bằng
+  thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang 
+ tính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-ph
+ ap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-giao-thua-20310122-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310122
+DTEND;VALUE=DATE:20310123
+SUMMARY:Giao thừa
+DESCRIPTION:Ngày 29 tháng 12 âm lịch\, năm Canh Tuất. Đêm giao th
+ ừa là đêm của ngày này\, trước mùng 1 Tết.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-nguyen-dan-20310123-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310123
+DTEND;VALUE=DATE:20310124
+SUMMARY:Tết Nguyên đán
+DESCRIPTION:Ngày 1 tháng 1 âm lịch\, năm Tân Hợi.\nTính bằng th
+ ư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang tí
+ nh tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-nguyen-tieu-20310206-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310206
+DTEND;VALUE=DATE:20310207
+SUMMARY:Tết Nguyên tiêu
+DESCRIPTION:Ngày 15 tháng 1 âm lịch\, năm Tân Hợi.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-le-vu-lan-20310901-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310901
+DTEND;VALUE=DATE:20310902
+SUMMARY:Lễ Vu Lan
+DESCRIPTION:Ngày 15 tháng 7 âm lịch\, năm Tân Hợi.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-trung-thu-20311001-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311001
+DTEND;VALUE=DATE:20311002
+SUMMARY:Tết Trung thu
+DESCRIPTION:Ngày 15 tháng 8 âm lịch\, năm Tân Hợi.\nTính bằng t
+ hư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:le-tet-tet-ha-nguyen-20311129-vi@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311129
+DTEND;VALUE=DATE:20311130
+SUMMARY:Tết Hạ nguyên
+DESCRIPTION:Ngày 15 tháng 10 âm lịch\, năm Tân Hợi.\nTính bằng 
+ thư viện qelunai_lunar theo giờ Việt Nam (UTC+7). Thông tin mang t
+ ính tham khảo văn hoá. Phương pháp: https://qelunai.com/phuong-pha
+ p/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -10,7 +10,7 @@ const site = 'https://qelunai.com/';
 
 /** URL prefix and `<html lang>` (also the hreflang code) of each language. */
 const langs = { vi: ['', 'vi'], en: ['en/', 'en'], zh: ['zh/', 'zh-Hans'], ko: ['ko/', 'ko'] };
-const indexable = ['', 'privacy/', 'support/', 'delete-account/', 'terms/', 'lich-am/', 'gio-hoang-dao/', 'kinh-dich/', 'testers/', 'blog/', 'phuong-phap/', 'tu-dien/'];
+const indexable = ['', 'privacy/', 'support/', 'delete-account/', 'terms/', 'lich-am/', 'gio-hoang-dao/', 'kinh-dich/', 'testers/', 'blog/', 'phuong-phap/', 'tu-dien/', 'lich-dang-ky/'];
 const noindex = ['tai/'];
 
 /** Published posts per language, from the built JSON feeds: slug → URL path. */
@@ -186,5 +186,36 @@ test('every internal link and asset points at a built file', () => {
       ...[...html.matchAll(/\ssrcset="([^"]*)"/g)].flatMap((m) => m[1].split(',').map((s) => s.trim().split(/\s+/)[0])),
     ];
     for (const ref of refs.filter((r) => r.startsWith('/'))) assert.ok(exists(ref), `${file} links to ${ref}`);
+  }
+});
+
+test('every .ics link on /lich-dang-ky/ points at a calendar file in dist/lich/', () => {
+  const calendars = ['le-tet', 'ram-mung-mot', 'tiet-khi'];
+  const forms = [
+    [/^\/lich\/([^/]+\.ics)$/, 'download'],
+    [/^webcal:\/\/qelunai\.com\/lich\/([^/]+\.ics)$/, 'apple'],
+    [/^https:\/\/calendar\.google\.com\/calendar\/r\?cid=webcal:\/\/qelunai\.com\/lich\/([^/]+\.ics)$/, 'google'],
+  ];
+  for (const [code, [prefix]] of Object.entries(langs)) {
+    const path = `${prefix}lich-dang-ky/index.html`;
+    const hrefs = [...read(path).matchAll(/\shref="([^"]*\.ics)"/g)].map((m) => unescape(m[1]));
+    const fileLang = code === 'vi' ? 'vi' : 'en';
+    const want = calendars.flatMap((c) => forms.map(([, kind]) => `${kind} ${c}.${fileLang}.ics`)).sort();
+    const got = hrefs
+      .map((href) => {
+        const form = forms.find(([re]) => re.test(href));
+        assert.ok(form, `${path}: unexpected .ics link ${href}`);
+        const file = href.match(form[0])[1];
+        assert.ok(existsSync(new URL(`lich/${file}`, dist)), `${path}: ${href} has no dist/lich/${file}`);
+        return `${form[1]} ${file}`;
+      })
+      .sort();
+    assert.deepEqual(got, want, path);
+  }
+  for (const c of calendars) {
+    for (const l of ['vi', 'en']) {
+      const ics = read(`lich/${c}.${l}.ics`);
+      assert.ok(ics.startsWith('BEGIN:VCALENDAR\r\n') && ics.endsWith('END:VCALENDAR\r\n'), `lich/${c}.${l}.ics`);
+    }
   }
 });

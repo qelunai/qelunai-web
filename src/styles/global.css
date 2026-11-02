@@ -1635,3 +1635,11 @@ li {
 .blog-cta p {
   color: var(--text-muted);
 }
+
+/* Calendar subscription page: buttons wrap on narrow screens. */
+.ics-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px 16px;
+}

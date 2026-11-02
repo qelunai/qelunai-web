@@ -4,6 +4,7 @@ import StoreButtons from './StoreButtons.astro';
 import { email, pathFor, type Locale } from '../i18n';
 import { methodFor } from '../i18n/methodology';
 import { glossaryFor } from '../i18n/glossary';
+import { subscribeFor } from '../i18n/subscribe';
 
 interface Props {
   locale: Locale;
@@ -36,6 +37,7 @@ const year = new Date().getFullYear();
           <li><a href={pathFor(locale,'iching')}>{locale.tools.footerIching}</a></li>
           <li><a href={pathFor(locale, 'method')}>{methodFor(locale.code).footer}</a></li>
           <li><a href={pathFor(locale, 'glossary')}>{glossaryFor(locale.code).footer}</a></li>
+          <li><a href={pathFor(locale, 'subscribe')}>{subscribeFor(locale.code).footer}</a></li>
           <li><a href={pathFor(locale, 'blog')}>{locale.nav.blog}</a></li>
         </ul>
       </div>

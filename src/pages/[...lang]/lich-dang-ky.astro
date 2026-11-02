@@ -1,0 +1,64 @@
+---
+import { readFileSync } from 'node:fs';
+import { join } from 'node:path';
+import LegalPage from '../../layouts/LegalPage.astro';
+import { localePaths, pathFor, rich } from '../../i18n';
+import { calendarIds, googleUrl, icsLangFor, icsPath, subscribeFor, webcalUrl } from '../../i18n/subscribe';
+
+export const getStaticPaths = localePaths;
+
+const { locale } = Astro.props;
+const t = subscribeFor(locale.code);
+const lang = icsLangFor(locale.code);
+
+// Years covered, read from the files themselves so the page follows each yearly update.
+const years = calendarIds.flatMap((id) =>
+  [...readFileSync(join(process.cwd(), 'public', icsPath(id, lang)), 'utf8').matchAll(/^DTSTART;VALUE=DATE:(\d{4})/gm)].map((m) =>
+    Number(m[1]),
+  ),
+);
+const range = t.range.replace('{first}', String(Math.min(...years))).replace('{last}', String(Math.max(...years)));
+const escapeHtml = (s: string) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+const [methodBefore, methodAfter] = t.method.split('{method}');
+---
+
+<LegalPage locale={locale} page="subscribe" title={t.title} description={t.description} lead={t.lead}>
+  <section>
+    <p>{range}</p>
+    {t.languageNote && <p class="note">{t.languageNote}</p>}
+  </section>
+  {
+    calendarIds.map((id) => (
+      <section class="ics-calendar">
+        <h2>{t.calendars[id].name}</h2>
+        <p>{t.calendars[id].summary}</p>
+        <p class="ics-actions">
+          <a class="btn btn-gold" href={googleUrl(id, lang)} rel="noopener">
+            {t.google}
+          </a>
+          <a class="btn btn-gold" href={webcalUrl(id, lang)}>
+            {t.apple}
+          </a>
+          <a href={`/${icsPath(id, lang)}`} download>
+            {t.download}
+          </a>
+        </p>
+      </section>
+    ))
+  }
+  <section>
+    <h2>{t.howTitle}</h2>
+    <ul>
+      {t.how.map((text) => <li set:html={rich(text)} />)}
+    </ul>
+  </section>
+  <section>
+    <h2>{t.methodTitle}</h2>
+    <p>
+      <Fragment set:html={escapeHtml(methodBefore)} /><a href={pathFor(locale, 'method')}>{t.methodLink}</a><Fragment
+        set:html={escapeHtml(methodAfter)}
+      />
+    </p>
+    <p class="note">{t.cultural}</p>
+  </section>
+</LegalPage>

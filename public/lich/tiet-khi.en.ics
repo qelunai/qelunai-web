@@ -1,0 +1,1861 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Qelunai//vietnamese-calendar-data tiet-khi//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:24 solar terms · Qelunai
+X-WR-CALDESC:Start dates of the 24 solar terms (tiết khí) in Vietnam tim
+ e. Computed with the qelunai_lunar library for Vietnam time (UTC+7). For c
+ ultural reference. Method: https://qelunai.com/en/phuong-phap/
+X-WR-TIMEZONE:Asia/Ho_Chi_Minh
+REFRESH-INTERVAL;VALUE=DURATION:P7D
+X-PUBLISHED-TTL:P7D
+BEGIN:VEVENT
+UID:tiet-khi-tiet-19-20250105-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250105
+DTEND;VALUE=DATE:20250106
+SUMMARY:Solar term Tiểu hàn (Minor Cold)
+DESCRIPTION:The Sun reaches longitude 285°\, around 09:23 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-20-20250120-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250120
+DTEND;VALUE=DATE:20250121
+SUMMARY:Solar term Đại hàn (Major Cold)
+DESCRIPTION:The Sun reaches longitude 300°\, around 02:46 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-21-20250203-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250204
+SUMMARY:Solar term Lập xuân (Start of Spring)
+DESCRIPTION:The Sun reaches longitude 315°\, around 21:00 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-22-20250218-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250218
+DTEND;VALUE=DATE:20250219
+SUMMARY:Solar term Vũ thủy (Rain Water)
+DESCRIPTION:The Sun reaches longitude 330°\, around 16:50 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-23-20250305-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250305
+DTEND;VALUE=DATE:20250306
+SUMMARY:Solar term Kinh trập (Awakening of Insects)
+DESCRIPTION:The Sun reaches longitude 345°\, around 14:55 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-00-20250320-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250320
+DTEND;VALUE=DATE:20250321
+SUMMARY:Solar term Xuân phân (Spring Equinox)
+DESCRIPTION:The Sun reaches longitude 0°\, around 15:43 (UTC+7\, approxima
+ te).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). Fo
+ r cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-01-20250404-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250404
+DTEND;VALUE=DATE:20250405
+SUMMARY:Solar term Thanh minh (Clear and Bright)
+DESCRIPTION:The Sun reaches longitude 15°\, around 19:34 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-02-20250420-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250420
+DTEND;VALUE=DATE:20250421
+SUMMARY:Solar term Cốc vũ (Grain Rain)
+DESCRIPTION:The Sun reaches longitude 30°\, around 02:35 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-03-20250505-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250506
+SUMMARY:Solar term Lập hạ (Start of Summer)
+DESCRIPTION:The Sun reaches longitude 45°\, around 12:42 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-04-20250521-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250521
+DTEND;VALUE=DATE:20250522
+SUMMARY:Solar term Tiểu mãn (Grain Buds)
+DESCRIPTION:The Sun reaches longitude 60°\, around 01:35 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-05-20250605-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250605
+DTEND;VALUE=DATE:20250606
+SUMMARY:Solar term Mang chủng (Grain in Ear)
+DESCRIPTION:The Sun reaches longitude 75°\, around 16:44 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-06-20250621-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250621
+DTEND;VALUE=DATE:20250622
+SUMMARY:Solar term Hạ chí (Summer Solstice)
+DESCRIPTION:The Sun reaches longitude 90°\, around 09:27 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-07-20250707-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250708
+SUMMARY:Solar term Tiểu thử (Minor Heat)
+DESCRIPTION:The Sun reaches longitude 105°\, around 02:56 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-08-20250722-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250722
+DTEND;VALUE=DATE:20250723
+SUMMARY:Solar term Đại thử (Major Heat)
+DESCRIPTION:The Sun reaches longitude 120°\, around 20:20 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-09-20250807-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250807
+DTEND;VALUE=DATE:20250808
+SUMMARY:Solar term Lập thu (Start of Autumn)
+DESCRIPTION:The Sun reaches longitude 135°\, around 12:47 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-10-20250823-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250823
+DTEND;VALUE=DATE:20250824
+SUMMARY:Solar term Xử thử (End of Heat)
+DESCRIPTION:The Sun reaches longitude 150°\, around 03:29 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-11-20250907-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250907
+DTEND;VALUE=DATE:20250908
+SUMMARY:Solar term Bạch lộ (White Dew)
+DESCRIPTION:The Sun reaches longitude 165°\, around 15:48 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-12-20250923-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20250923
+DTEND;VALUE=DATE:20250924
+SUMMARY:Solar term Thu phân (Autumn Equinox)
+DESCRIPTION:The Sun reaches longitude 180°\, around 01:16 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-13-20251008-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251008
+DTEND;VALUE=DATE:20251009
+SUMMARY:Solar term Hàn lộ (Cold Dew)
+DESCRIPTION:The Sun reaches longitude 195°\, around 07:36 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-14-20251023-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251023
+DTEND;VALUE=DATE:20251024
+SUMMARY:Solar term Sương giáng (Frost's Descent)
+DESCRIPTION:The Sun reaches longitude 210°\, around 10:47 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-15-20251107-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251107
+DTEND;VALUE=DATE:20251108
+SUMMARY:Solar term Lập đông (Start of Winter)
+DESCRIPTION:The Sun reaches longitude 225°\, around 10:57 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-16-20251122-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251122
+DTEND;VALUE=DATE:20251123
+SUMMARY:Solar term Tiểu tuyết (Minor Snow)
+DESCRIPTION:The Sun reaches longitude 240°\, around 08:30 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-17-20251207-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251207
+DTEND;VALUE=DATE:20251208
+SUMMARY:Solar term Đại tuyết (Major Snow)
+DESCRIPTION:The Sun reaches longitude 255°\, around 03:56 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-18-20251221-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20251221
+DTEND;VALUE=DATE:20251222
+SUMMARY:Solar term Đông chí (Winter Solstice)
+DESCRIPTION:The Sun reaches longitude 270°\, around 21:55 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-19-20260105-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260106
+SUMMARY:Solar term Tiểu hàn (Minor Cold)
+DESCRIPTION:The Sun reaches longitude 285°\, around 15:13 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-20-20260120-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+SUMMARY:Solar term Đại hàn (Major Cold)
+DESCRIPTION:The Sun reaches longitude 300°\, around 08:35 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-21-20260204-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+SUMMARY:Solar term Lập xuân (Start of Spring)
+DESCRIPTION:The Sun reaches longitude 315°\, around 02:50 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-22-20260218-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+SUMMARY:Solar term Vũ thủy (Rain Water)
+DESCRIPTION:The Sun reaches longitude 330°\, around 22:40 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-23-20260305-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260306
+SUMMARY:Solar term Kinh trập (Awakening of Insects)
+DESCRIPTION:The Sun reaches longitude 345°\, around 20:44 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-00-20260320-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:Solar term Xuân phân (Spring Equinox)
+DESCRIPTION:The Sun reaches longitude 0°\, around 21:32 (UTC+7\, approxima
+ te).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). Fo
+ r cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-01-20260405-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:Solar term Thanh minh (Clear and Bright)
+DESCRIPTION:The Sun reaches longitude 15°\, around 01:22 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-02-20260420-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Solar term Cốc vũ (Grain Rain)
+DESCRIPTION:The Sun reaches longitude 30°\, around 08:24 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-03-20260505-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+SUMMARY:Solar term Lập hạ (Start of Summer)
+DESCRIPTION:The Sun reaches longitude 45°\, around 18:30 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-04-20260521-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+SUMMARY:Solar term Tiểu mãn (Grain Buds)
+DESCRIPTION:The Sun reaches longitude 60°\, around 07:23 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-05-20260605-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Solar term Mang chủng (Grain in Ear)
+DESCRIPTION:The Sun reaches longitude 75°\, around 22:32 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-06-20260621-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:Solar term Hạ chí (Summer Solstice)
+DESCRIPTION:The Sun reaches longitude 90°\, around 15:15 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-07-20260707-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:Solar term Tiểu thử (Minor Heat)
+DESCRIPTION:The Sun reaches longitude 105°\, around 08:44 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-08-20260723-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:Solar term Đại thử (Major Heat)
+DESCRIPTION:The Sun reaches longitude 120°\, around 02:08 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-09-20260807-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:Solar term Lập thu (Start of Autumn)
+DESCRIPTION:The Sun reaches longitude 135°\, around 18:35 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-10-20260823-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:Solar term Xử thử (End of Heat)
+DESCRIPTION:The Sun reaches longitude 150°\, around 09:17 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-11-20260907-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Solar term Bạch lộ (White Dew)
+DESCRIPTION:The Sun reaches longitude 165°\, around 21:37 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-12-20260923-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Solar term Thu phân (Autumn Equinox)
+DESCRIPTION:The Sun reaches longitude 180°\, around 07:05 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-13-20261008-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Solar term Hàn lộ (Cold Dew)
+DESCRIPTION:The Sun reaches longitude 195°\, around 13:25 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-14-20261023-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Solar term Sương giáng (Frost's Descent)
+DESCRIPTION:The Sun reaches longitude 210°\, around 16:36 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-15-20261107-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Solar term Lập đông (Start of Winter)
+DESCRIPTION:The Sun reaches longitude 225°\, around 16:46 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-16-20261122-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Solar term Tiểu tuyết (Minor Snow)
+DESCRIPTION:The Sun reaches longitude 240°\, around 14:19 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-17-20261207-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Solar term Đại tuyết (Major Snow)
+DESCRIPTION:The Sun reaches longitude 255°\, around 09:45 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-18-20261222-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Solar term Đông chí (Winter Solstice)
+DESCRIPTION:The Sun reaches longitude 270°\, around 03:45 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-19-20270105-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:Solar term Tiểu hàn (Minor Cold)
+DESCRIPTION:The Sun reaches longitude 285°\, around 21:02 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-20-20270120-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:Solar term Đại hàn (Major Cold)
+DESCRIPTION:The Sun reaches longitude 300°\, around 14:25 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-21-20270204-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:Solar term Lập xuân (Start of Spring)
+DESCRIPTION:The Sun reaches longitude 315°\, around 08:39 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-22-20270219-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:Solar term Vũ thủy (Rain Water)
+DESCRIPTION:The Sun reaches longitude 330°\, around 04:29 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-23-20270306-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Solar term Kinh trập (Awakening of Insects)
+DESCRIPTION:The Sun reaches longitude 345°\, around 02:33 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-00-20270321-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:Solar term Xuân phân (Spring Equinox)
+DESCRIPTION:The Sun reaches longitude 0°\, around 03:21 (UTC+7\, approxima
+ te).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). Fo
+ r cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-01-20270405-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:Solar term Thanh minh (Clear and Bright)
+DESCRIPTION:The Sun reaches longitude 15°\, around 07:11 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-02-20270420-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:Solar term Cốc vũ (Grain Rain)
+DESCRIPTION:The Sun reaches longitude 30°\, around 14:12 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-03-20270506-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:Solar term Lập hạ (Start of Summer)
+DESCRIPTION:The Sun reaches longitude 45°\, around 00:19 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-04-20270521-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:Solar term Tiểu mãn (Grain Buds)
+DESCRIPTION:The Sun reaches longitude 60°\, around 13:11 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-05-20270606-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Solar term Mang chủng (Grain in Ear)
+DESCRIPTION:The Sun reaches longitude 75°\, around 04:20 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-06-20270621-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:Solar term Hạ chí (Summer Solstice)
+DESCRIPTION:The Sun reaches longitude 90°\, around 21:03 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-07-20270707-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:Solar term Tiểu thử (Minor Heat)
+DESCRIPTION:The Sun reaches longitude 105°\, around 14:32 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-08-20270723-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:Solar term Đại thử (Major Heat)
+DESCRIPTION:The Sun reaches longitude 120°\, around 07:56 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-09-20270808-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:Solar term Lập thu (Start of Autumn)
+DESCRIPTION:The Sun reaches longitude 135°\, around 00:23 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-10-20270823-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270823
+DTEND;VALUE=DATE:20270824
+SUMMARY:Solar term Xử thử (End of Heat)
+DESCRIPTION:The Sun reaches longitude 150°\, around 15:05 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-11-20270908-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:Solar term Bạch lộ (White Dew)
+DESCRIPTION:The Sun reaches longitude 165°\, around 03:25 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-12-20270923-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:Solar term Thu phân (Autumn Equinox)
+DESCRIPTION:The Sun reaches longitude 180°\, around 12:53 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-13-20271008-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271009
+SUMMARY:Solar term Hàn lộ (Cold Dew)
+DESCRIPTION:The Sun reaches longitude 195°\, around 19:14 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-14-20271023-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271024
+SUMMARY:Solar term Sương giáng (Frost's Descent)
+DESCRIPTION:The Sun reaches longitude 210°\, around 22:25 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-15-20271107-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271108
+SUMMARY:Solar term Lập đông (Start of Winter)
+DESCRIPTION:The Sun reaches longitude 225°\, around 22:35 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-16-20271122-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271122
+DTEND;VALUE=DATE:20271123
+SUMMARY:Solar term Tiểu tuyết (Minor Snow)
+DESCRIPTION:The Sun reaches longitude 240°\, around 20:08 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-17-20271207-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271207
+DTEND;VALUE=DATE:20271208
+SUMMARY:Solar term Đại tuyết (Major Snow)
+DESCRIPTION:The Sun reaches longitude 255°\, around 15:35 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-18-20271222-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271222
+DTEND;VALUE=DATE:20271223
+SUMMARY:Solar term Đông chí (Winter Solstice)
+DESCRIPTION:The Sun reaches longitude 270°\, around 09:34 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-19-20280106-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280106
+DTEND;VALUE=DATE:20280107
+SUMMARY:Solar term Tiểu hàn (Minor Cold)
+DESCRIPTION:The Sun reaches longitude 285°\, around 02:52 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-20-20280120-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280120
+DTEND;VALUE=DATE:20280121
+SUMMARY:Solar term Đại hàn (Major Cold)
+DESCRIPTION:The Sun reaches longitude 300°\, around 20:14 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-21-20280204-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280204
+DTEND;VALUE=DATE:20280205
+SUMMARY:Solar term Lập xuân (Start of Spring)
+DESCRIPTION:The Sun reaches longitude 315°\, around 14:29 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-22-20280219-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280219
+DTEND;VALUE=DATE:20280220
+SUMMARY:Solar term Vũ thủy (Rain Water)
+DESCRIPTION:The Sun reaches longitude 330°\, around 10:19 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-23-20280305-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280305
+DTEND;VALUE=DATE:20280306
+SUMMARY:Solar term Kinh trập (Awakening of Insects)
+DESCRIPTION:The Sun reaches longitude 345°\, around 08:22 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-00-20280320-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280320
+DTEND;VALUE=DATE:20280321
+SUMMARY:Solar term Xuân phân (Spring Equinox)
+DESCRIPTION:The Sun reaches longitude 0°\, around 09:10 (UTC+7\, approxima
+ te).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). Fo
+ r cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-01-20280404-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280404
+DTEND;VALUE=DATE:20280405
+SUMMARY:Solar term Thanh minh (Clear and Bright)
+DESCRIPTION:The Sun reaches longitude 15°\, around 13:00 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-02-20280419-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280419
+DTEND;VALUE=DATE:20280420
+SUMMARY:Solar term Cốc vũ (Grain Rain)
+DESCRIPTION:The Sun reaches longitude 30°\, around 20:01 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-03-20280505-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280505
+DTEND;VALUE=DATE:20280506
+SUMMARY:Solar term Lập hạ (Start of Summer)
+DESCRIPTION:The Sun reaches longitude 45°\, around 06:07 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-04-20280520-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280520
+DTEND;VALUE=DATE:20280521
+SUMMARY:Solar term Tiểu mãn (Grain Buds)
+DESCRIPTION:The Sun reaches longitude 60°\, around 19:00 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-05-20280605-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280605
+DTEND;VALUE=DATE:20280606
+SUMMARY:Solar term Mang chủng (Grain in Ear)
+DESCRIPTION:The Sun reaches longitude 75°\, around 10:08 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-06-20280621-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280621
+DTEND;VALUE=DATE:20280622
+SUMMARY:Solar term Hạ chí (Summer Solstice)
+DESCRIPTION:The Sun reaches longitude 90°\, around 02:51 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-07-20280706-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280706
+DTEND;VALUE=DATE:20280707
+SUMMARY:Solar term Tiểu thử (Minor Heat)
+DESCRIPTION:The Sun reaches longitude 105°\, around 20:20 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-08-20280722-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:Solar term Đại thử (Major Heat)
+DESCRIPTION:The Sun reaches longitude 120°\, around 13:44 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-09-20280807-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280807
+DTEND;VALUE=DATE:20280808
+SUMMARY:Solar term Lập thu (Start of Autumn)
+DESCRIPTION:The Sun reaches longitude 135°\, around 06:11 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-10-20280822-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280822
+DTEND;VALUE=DATE:20280823
+SUMMARY:Solar term Xử thử (End of Heat)
+DESCRIPTION:The Sun reaches longitude 150°\, around 20:53 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-11-20280907-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280907
+DTEND;VALUE=DATE:20280908
+SUMMARY:Solar term Bạch lộ (White Dew)
+DESCRIPTION:The Sun reaches longitude 165°\, around 09:13 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-12-20280922-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280922
+DTEND;VALUE=DATE:20280923
+SUMMARY:Solar term Thu phân (Autumn Equinox)
+DESCRIPTION:The Sun reaches longitude 180°\, around 18:42 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-13-20281008-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281008
+DTEND;VALUE=DATE:20281009
+SUMMARY:Solar term Hàn lộ (Cold Dew)
+DESCRIPTION:The Sun reaches longitude 195°\, around 01:03 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-14-20281023-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281023
+DTEND;VALUE=DATE:20281024
+SUMMARY:Solar term Sương giáng (Frost's Descent)
+DESCRIPTION:The Sun reaches longitude 210°\, around 04:14 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-15-20281107-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281107
+DTEND;VALUE=DATE:20281108
+SUMMARY:Solar term Lập đông (Start of Winter)
+DESCRIPTION:The Sun reaches longitude 225°\, around 04:25 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-16-20281122-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281122
+DTEND;VALUE=DATE:20281123
+SUMMARY:Solar term Tiểu tuyết (Minor Snow)
+DESCRIPTION:The Sun reaches longitude 240°\, around 01:57 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-17-20281206-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281206
+DTEND;VALUE=DATE:20281207
+SUMMARY:Solar term Đại tuyết (Major Snow)
+DESCRIPTION:The Sun reaches longitude 255°\, around 21:24 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-18-20281221-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281221
+DTEND;VALUE=DATE:20281222
+SUMMARY:Solar term Đông chí (Winter Solstice)
+DESCRIPTION:The Sun reaches longitude 270°\, around 15:24 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-19-20290105-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290105
+DTEND;VALUE=DATE:20290106
+SUMMARY:Solar term Tiểu hàn (Minor Cold)
+DESCRIPTION:The Sun reaches longitude 285°\, around 08:41 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-20-20290120-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290120
+DTEND;VALUE=DATE:20290121
+SUMMARY:Solar term Đại hàn (Major Cold)
+DESCRIPTION:The Sun reaches longitude 300°\, around 02:04 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-21-20290203-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290203
+DTEND;VALUE=DATE:20290204
+SUMMARY:Solar term Lập xuân (Start of Spring)
+DESCRIPTION:The Sun reaches longitude 315°\, around 20:18 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-22-20290218-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290218
+DTEND;VALUE=DATE:20290219
+SUMMARY:Solar term Vũ thủy (Rain Water)
+DESCRIPTION:The Sun reaches longitude 330°\, around 16:08 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-23-20290305-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290305
+DTEND;VALUE=DATE:20290306
+SUMMARY:Solar term Kinh trập (Awakening of Insects)
+DESCRIPTION:The Sun reaches longitude 345°\, around 14:12 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-00-20290320-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290320
+DTEND;VALUE=DATE:20290321
+SUMMARY:Solar term Xuân phân (Spring Equinox)
+DESCRIPTION:The Sun reaches longitude 0°\, around 14:59 (UTC+7\, approxima
+ te).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). Fo
+ r cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-01-20290404-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290404
+DTEND;VALUE=DATE:20290405
+SUMMARY:Solar term Thanh minh (Clear and Bright)
+DESCRIPTION:The Sun reaches longitude 15°\, around 18:49 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-02-20290420-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290420
+DTEND;VALUE=DATE:20290421
+SUMMARY:Solar term Cốc vũ (Grain Rain)
+DESCRIPTION:The Sun reaches longitude 30°\, around 01:50 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-03-20290505-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290505
+DTEND;VALUE=DATE:20290506
+SUMMARY:Solar term Lập hạ (Start of Summer)
+DESCRIPTION:The Sun reaches longitude 45°\, around 11:55 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-04-20290521-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290521
+DTEND;VALUE=DATE:20290522
+SUMMARY:Solar term Tiểu mãn (Grain Buds)
+DESCRIPTION:The Sun reaches longitude 60°\, around 00:48 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-05-20290605-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290605
+DTEND;VALUE=DATE:20290606
+SUMMARY:Solar term Mang chủng (Grain in Ear)
+DESCRIPTION:The Sun reaches longitude 75°\, around 15:56 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-06-20290621-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290621
+DTEND;VALUE=DATE:20290622
+SUMMARY:Solar term Hạ chí (Summer Solstice)
+DESCRIPTION:The Sun reaches longitude 90°\, around 08:39 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-07-20290707-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290707
+DTEND;VALUE=DATE:20290708
+SUMMARY:Solar term Tiểu thử (Minor Heat)
+DESCRIPTION:The Sun reaches longitude 105°\, around 02:08 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-08-20290722-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290722
+DTEND;VALUE=DATE:20290723
+SUMMARY:Solar term Đại thử (Major Heat)
+DESCRIPTION:The Sun reaches longitude 120°\, around 19:32 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-09-20290807-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290807
+DTEND;VALUE=DATE:20290808
+SUMMARY:Solar term Lập thu (Start of Autumn)
+DESCRIPTION:The Sun reaches longitude 135°\, around 11:59 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-10-20290823-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290823
+DTEND;VALUE=DATE:20290824
+SUMMARY:Solar term Xử thử (End of Heat)
+DESCRIPTION:The Sun reaches longitude 150°\, around 02:42 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-11-20290907-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290907
+DTEND;VALUE=DATE:20290908
+SUMMARY:Solar term Bạch lộ (White Dew)
+DESCRIPTION:The Sun reaches longitude 165°\, around 15:01 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-12-20290923-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290923
+DTEND;VALUE=DATE:20290924
+SUMMARY:Solar term Thu phân (Autumn Equinox)
+DESCRIPTION:The Sun reaches longitude 180°\, around 00:30 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-13-20291008-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291008
+DTEND;VALUE=DATE:20291009
+SUMMARY:Solar term Hàn lộ (Cold Dew)
+DESCRIPTION:The Sun reaches longitude 195°\, around 06:51 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-14-20291023-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291023
+DTEND;VALUE=DATE:20291024
+SUMMARY:Solar term Sương giáng (Frost's Descent)
+DESCRIPTION:The Sun reaches longitude 210°\, around 10:03 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-15-20291107-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291107
+DTEND;VALUE=DATE:20291108
+SUMMARY:Solar term Lập đông (Start of Winter)
+DESCRIPTION:The Sun reaches longitude 225°\, around 10:14 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-16-20291122-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291122
+DTEND;VALUE=DATE:20291123
+SUMMARY:Solar term Tiểu tuyết (Minor Snow)
+DESCRIPTION:The Sun reaches longitude 240°\, around 07:47 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-17-20291207-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291207
+DTEND;VALUE=DATE:20291208
+SUMMARY:Solar term Đại tuyết (Major Snow)
+DESCRIPTION:The Sun reaches longitude 255°\, around 03:14 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-18-20291221-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291221
+DTEND;VALUE=DATE:20291222
+SUMMARY:Solar term Đông chí (Winter Solstice)
+DESCRIPTION:The Sun reaches longitude 270°\, around 21:13 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-19-20300105-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300105
+DTEND;VALUE=DATE:20300106
+SUMMARY:Solar term Tiểu hàn (Minor Cold)
+DESCRIPTION:The Sun reaches longitude 285°\, around 14:31 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-20-20300120-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300120
+DTEND;VALUE=DATE:20300121
+SUMMARY:Solar term Đại hàn (Major Cold)
+DESCRIPTION:The Sun reaches longitude 300°\, around 07:53 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-21-20300204-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300204
+DTEND;VALUE=DATE:20300205
+SUMMARY:Solar term Lập xuân (Start of Spring)
+DESCRIPTION:The Sun reaches longitude 315°\, around 02:08 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-22-20300218-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300218
+DTEND;VALUE=DATE:20300219
+SUMMARY:Solar term Vũ thủy (Rain Water)
+DESCRIPTION:The Sun reaches longitude 330°\, around 21:57 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-23-20300305-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300305
+DTEND;VALUE=DATE:20300306
+SUMMARY:Solar term Kinh trập (Awakening of Insects)
+DESCRIPTION:The Sun reaches longitude 345°\, around 20:01 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-00-20300320-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300320
+DTEND;VALUE=DATE:20300321
+SUMMARY:Solar term Xuân phân (Spring Equinox)
+DESCRIPTION:The Sun reaches longitude 0°\, around 20:48 (UTC+7\, approxima
+ te).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). Fo
+ r cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-01-20300405-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300405
+DTEND;VALUE=DATE:20300406
+SUMMARY:Solar term Thanh minh (Clear and Bright)
+DESCRIPTION:The Sun reaches longitude 15°\, around 00:38 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-02-20300420-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300420
+DTEND;VALUE=DATE:20300421
+SUMMARY:Solar term Cốc vũ (Grain Rain)
+DESCRIPTION:The Sun reaches longitude 30°\, around 07:38 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-03-20300505-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300505
+DTEND;VALUE=DATE:20300506
+SUMMARY:Solar term Lập hạ (Start of Summer)
+DESCRIPTION:The Sun reaches longitude 45°\, around 17:44 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-04-20300521-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300521
+DTEND;VALUE=DATE:20300522
+SUMMARY:Solar term Tiểu mãn (Grain Buds)
+DESCRIPTION:The Sun reaches longitude 60°\, around 06:36 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-05-20300605-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300605
+DTEND;VALUE=DATE:20300606
+SUMMARY:Solar term Mang chủng (Grain in Ear)
+DESCRIPTION:The Sun reaches longitude 75°\, around 21:44 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-06-20300621-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300621
+DTEND;VALUE=DATE:20300622
+SUMMARY:Solar term Hạ chí (Summer Solstice)
+DESCRIPTION:The Sun reaches longitude 90°\, around 14:27 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-07-20300707-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300707
+DTEND;VALUE=DATE:20300708
+SUMMARY:Solar term Tiểu thử (Minor Heat)
+DESCRIPTION:The Sun reaches longitude 105°\, around 07:56 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-08-20300723-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300723
+DTEND;VALUE=DATE:20300724
+SUMMARY:Solar term Đại thử (Major Heat)
+DESCRIPTION:The Sun reaches longitude 120°\, around 01:20 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-09-20300807-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300807
+DTEND;VALUE=DATE:20300808
+SUMMARY:Solar term Lập thu (Start of Autumn)
+DESCRIPTION:The Sun reaches longitude 135°\, around 17:47 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-10-20300823-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300823
+DTEND;VALUE=DATE:20300824
+SUMMARY:Solar term Xử thử (End of Heat)
+DESCRIPTION:The Sun reaches longitude 150°\, around 08:30 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-11-20300907-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300907
+DTEND;VALUE=DATE:20300908
+SUMMARY:Solar term Bạch lộ (White Dew)
+DESCRIPTION:The Sun reaches longitude 165°\, around 20:50 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-12-20300923-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300923
+DTEND;VALUE=DATE:20300924
+SUMMARY:Solar term Thu phân (Autumn Equinox)
+DESCRIPTION:The Sun reaches longitude 180°\, around 06:19 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-13-20301008-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20301008
+DTEND;VALUE=DATE:20301009
+SUMMARY:Solar term Hàn lộ (Cold Dew)
+DESCRIPTION:The Sun reaches longitude 195°\, around 12:40 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-14-20301023-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20301023
+DTEND;VALUE=DATE:20301024
+SUMMARY:Solar term Sương giáng (Frost's Descent)
+DESCRIPTION:The Sun reaches longitude 210°\, around 15:51 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-15-20301107-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20301107
+DTEND;VALUE=DATE:20301108
+SUMMARY:Solar term Lập đông (Start of Winter)
+DESCRIPTION:The Sun reaches longitude 225°\, around 16:03 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-16-20301122-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20301122
+DTEND;VALUE=DATE:20301123
+SUMMARY:Solar term Tiểu tuyết (Minor Snow)
+DESCRIPTION:The Sun reaches longitude 240°\, around 13:36 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-17-20301207-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20301207
+DTEND;VALUE=DATE:20301208
+SUMMARY:Solar term Đại tuyết (Major Snow)
+DESCRIPTION:The Sun reaches longitude 255°\, around 09:03 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-18-20301222-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20301222
+DTEND;VALUE=DATE:20301223
+SUMMARY:Solar term Đông chí (Winter Solstice)
+DESCRIPTION:The Sun reaches longitude 270°\, around 03:03 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-19-20310105-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310105
+DTEND;VALUE=DATE:20310106
+SUMMARY:Solar term Tiểu hàn (Minor Cold)
+DESCRIPTION:The Sun reaches longitude 285°\, around 20:21 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-20-20310120-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310120
+DTEND;VALUE=DATE:20310121
+SUMMARY:Solar term Đại hàn (Major Cold)
+DESCRIPTION:The Sun reaches longitude 300°\, around 13:43 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-21-20310204-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310204
+DTEND;VALUE=DATE:20310205
+SUMMARY:Solar term Lập xuân (Start of Spring)
+DESCRIPTION:The Sun reaches longitude 315°\, around 07:57 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-22-20310219-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310219
+DTEND;VALUE=DATE:20310220
+SUMMARY:Solar term Vũ thủy (Rain Water)
+DESCRIPTION:The Sun reaches longitude 330°\, around 03:47 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-23-20310306-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310306
+DTEND;VALUE=DATE:20310307
+SUMMARY:Solar term Kinh trập (Awakening of Insects)
+DESCRIPTION:The Sun reaches longitude 345°\, around 01:50 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-00-20310321-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310321
+DTEND;VALUE=DATE:20310322
+SUMMARY:Solar term Xuân phân (Spring Equinox)
+DESCRIPTION:The Sun reaches longitude 0°\, around 02:37 (UTC+7\, approxima
+ te).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). Fo
+ r cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-01-20310405-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310405
+DTEND;VALUE=DATE:20310406
+SUMMARY:Solar term Thanh minh (Clear and Bright)
+DESCRIPTION:The Sun reaches longitude 15°\, around 06:26 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-02-20310420-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310420
+DTEND;VALUE=DATE:20310421
+SUMMARY:Solar term Cốc vũ (Grain Rain)
+DESCRIPTION:The Sun reaches longitude 30°\, around 13:27 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-03-20310505-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310505
+DTEND;VALUE=DATE:20310506
+SUMMARY:Solar term Lập hạ (Start of Summer)
+DESCRIPTION:The Sun reaches longitude 45°\, around 23:32 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-04-20310521-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310521
+DTEND;VALUE=DATE:20310522
+SUMMARY:Solar term Tiểu mãn (Grain Buds)
+DESCRIPTION:The Sun reaches longitude 60°\, around 12:24 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-05-20310606-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310606
+DTEND;VALUE=DATE:20310607
+SUMMARY:Solar term Mang chủng (Grain in Ear)
+DESCRIPTION:The Sun reaches longitude 75°\, around 03:32 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-06-20310621-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310621
+DTEND;VALUE=DATE:20310622
+SUMMARY:Solar term Hạ chí (Summer Solstice)
+DESCRIPTION:The Sun reaches longitude 90°\, around 20:15 (UTC+7\, approxim
+ ate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). F
+ or cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-07-20310707-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310707
+DTEND;VALUE=DATE:20310708
+SUMMARY:Solar term Tiểu thử (Minor Heat)
+DESCRIPTION:The Sun reaches longitude 105°\, around 13:44 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-08-20310723-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310723
+DTEND;VALUE=DATE:20310724
+SUMMARY:Solar term Đại thử (Major Heat)
+DESCRIPTION:The Sun reaches longitude 120°\, around 07:08 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-09-20310807-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310807
+DTEND;VALUE=DATE:20310808
+SUMMARY:Solar term Lập thu (Start of Autumn)
+DESCRIPTION:The Sun reaches longitude 135°\, around 23:35 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-10-20310823-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310823
+DTEND;VALUE=DATE:20310824
+SUMMARY:Solar term Xử thử (End of Heat)
+DESCRIPTION:The Sun reaches longitude 150°\, around 14:18 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-11-20310908-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310908
+DTEND;VALUE=DATE:20310909
+SUMMARY:Solar term Bạch lộ (White Dew)
+DESCRIPTION:The Sun reaches longitude 165°\, around 02:38 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-12-20310923-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310923
+DTEND;VALUE=DATE:20310924
+SUMMARY:Solar term Thu phân (Autumn Equinox)
+DESCRIPTION:The Sun reaches longitude 180°\, around 12:07 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-13-20311008-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311008
+DTEND;VALUE=DATE:20311009
+SUMMARY:Solar term Hàn lộ (Cold Dew)
+DESCRIPTION:The Sun reaches longitude 195°\, around 18:29 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-14-20311023-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311023
+DTEND;VALUE=DATE:20311024
+SUMMARY:Solar term Sương giáng (Frost's Descent)
+DESCRIPTION:The Sun reaches longitude 210°\, around 21:40 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-15-20311107-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311107
+DTEND;VALUE=DATE:20311108
+SUMMARY:Solar term Lập đông (Start of Winter)
+DESCRIPTION:The Sun reaches longitude 225°\, around 21:52 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-16-20311122-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311122
+DTEND;VALUE=DATE:20311123
+SUMMARY:Solar term Tiểu tuyết (Minor Snow)
+DESCRIPTION:The Sun reaches longitude 240°\, around 19:25 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-17-20311207-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311207
+DTEND;VALUE=DATE:20311208
+SUMMARY:Solar term Đại tuyết (Major Snow)
+DESCRIPTION:The Sun reaches longitude 255°\, around 14:52 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tiet-khi-tiet-18-20311222-en@qelunai.com
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20311222
+DTEND;VALUE=DATE:20311223
+SUMMARY:Solar term Đông chí (Winter Solstice)
+DESCRIPTION:The Sun reaches longitude 270°\, around 08:52 (UTC+7\, approxi
+ mate).\nComputed with the qelunai_lunar library for Vietnam time (UTC+7). 
+ For cultural reference. Method: https://qelunai.com/en/phuong-phap/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -29,6 +29,7 @@ export const pageSlugs: Record<PageId, string> = {
   blog: 'blog/',
   method: 'phuong-phap/',
   glossary: 'tu-dien/',
+  subscribe: 'lich-dang-ky/',
 };
 
 export const pages = Object.keys(pageSlugs) as PageId[];

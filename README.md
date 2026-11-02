@@ -27,6 +27,7 @@ Node 22 or newer.
 | `src/layouts/Base.astro` | `<head>`, SEO tags, hreflang, JSON-LD, header, footer |
 | `src/i18n/methodology.ts`, `src/pages/[...lang]/phuong-phap.astro` | "Phương pháp & độ chính xác" page (see below) |
 | `src/data/glossary.json`, `src/i18n/glossary.ts`, `src/pages/[...lang]/tu-dien.astro` | Vietnamese culture glossary page `/tu-dien/`; the JSON is copied from https://github.com/qelunai/vietnamese-culture-glossary (CC BY 4.0), tests: `test/glossary.test.mjs` |
+| `src/i18n/subscribe.ts`, `src/pages/[...lang]/lich-dang-ky.astro`, `public/lich/*.ics` | Calendar subscription page and its `.ics` files (see "Cập nhật lịch .ics hằng năm") |
 | `src/layouts/LegalPage.astro` | Shell for the privacy, support, delete-account and terms pages |
 | `src/components/Landing.astro` | The landing page sections |
 | `src/components/LandingPage.astro` | Page wrapper that adds the app and FAQ structured data |
@@ -174,6 +175,23 @@ Provider chỉ nhận token của repo `qelunai/qelunai-web` với ref `refs/hea
 ## Phương pháp & độ chính xác (`/phuong-phap/`)
 
 `/phuong-phap/` (also `/en/phuong-phap/`, `/zh/phuong-phap/`, `/ko/phuong-phap/`, the same slug in every language like the other pages) explains how the lunar calendar, leap months, solar terms, Can Chi and lucky hours are computed, what has been checked, and the limits. Copy lives in `src/i18n/methodology.ts`. Its only source is `METHODOLOGY.md` and `README.md` of the open-source library <https://github.com/qelunai/qelunai-lunar> (MIT): add nothing that is not stated there, and when those files change, update the page. Items the source marks [Chưa kiểm chứng] / [Unverified] are written as "chưa đối chiếu" / "not yet checked" or left out. The Chinese and Korean versions are AI translations of the English copy and have not been reviewed by native speakers.
+
+## Cập nhật lịch .ics hằng năm (`/lich-dang-ky/`)
+
+`/lich-dang-ky/` (also `/en/`, `/zh/`, `/ko/`) offers three subscribable calendars: `le-tet`, `ram-mung-mot`, `tiet-khi`. Files live in `public/lich/<calendar>.<vi|en>.ics`; the Vietnamese page links the `vi` files, the other languages the `en` files (the zh/ko pages say so). Copy is in `src/i18n/subscribe.ts` (zh and ko are AI translations of the English copy). The year range shown on the page is read from the files at build time. Keep the file names stable: subscribers' calendar apps keep fetching the same URLs.
+
+The files are generated, not edited by hand. Source: the data repo `vietnamese-calendar-data` (`bin/ics.dart`, computed with `qelunai_lunar`, UTC+7). Each January:
+
+```sh
+cd ../vietnamese-calendar-data
+dart run bin/ics.dart --year 2027      # events 2026–2032; DTSTAMP and UIDs stay stable
+dart test
+# commit there, then:
+cp data/ics/*.ics ../qelunai-web/public/lich/
+cd ../qelunai-web && npm run check     # the site test checks every .ics link on the page against dist/lich/
+```
+
+[Chưa kiểm chứng] GitHub Pages serves `.ics` files as `text/calendar`. Not checked against the live site; the host config was not changed for this.
 
 ## Deploy
 
