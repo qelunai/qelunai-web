@@ -4,6 +4,8 @@ Showcase and store-support site for the Qelunai app (Vietnamese lunar calendar, 
 
 Static [Astro](https://astro.build) site, deployed to GitHub Pages by `.github/workflows/deploy.yml` on every push to `main`.
 
+Repo: https://github.com/qelunai/qelunai-web (org `qelunai`, chuyển từ `tdduydev/qelunai-web` ngày 2026-11-02). Tên miền qelunai.com được xác minh cho GitHub Pages ở org `qelunai` (bản ghi TXT `_github-pages-challenge-qelunai.qelunai.com` trên Cloudflare); bản ghi CNAME `qelunai.com` trỏ `qelunai.github.io` (proxied).
+
 ## Develop
 
 ```sh
@@ -165,7 +167,7 @@ Xác thực bằng Workload Identity Federation, không dùng khoá JSON. Biến
 | `GCP_WIF_PROVIDER` | `projects/253342915563/locations/global/workloadIdentityPools/github/providers/qelunai-web` |
 | `GCP_BLOG_PUSH_SA` | `blog-push@qelunai.iam.gserviceaccount.com` (vai trò Firebase Cloud Messaging API Admin) |
 
-Provider chỉ nhận token của repo `tdduydev/qelunai-web` với ref `refs/heads/main`, nên chỉ chạy từ `main` mới gửi được. Thiếu một trong hai biến thì workflow in cảnh báo và kết thúc thành công, không gửi gì. Test của script không cần mạng: `npm run test:notify`.
+Provider chỉ nhận token của repo `qelunai/qelunai-web` với ref `refs/heads/main`, nên chỉ chạy từ `main` mới gửi được. Thiếu một trong hai biến thì workflow in cảnh báo và kết thúc thành công, không gửi gì. Test của script không cần mạng: `npm run test:notify`.
 
 ## Deploy
 
