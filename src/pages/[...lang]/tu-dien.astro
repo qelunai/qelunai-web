@@ -1,0 +1,125 @@
+---
+import LegalPage from '../../layouts/LegalPage.astro';
+import { localePaths, rich } from '../../i18n';
+import { fold, glossary, glossaryFor, type GlossaryEntry } from '../../i18n/glossary';
+
+export const getStaticPaths = localePaths;
+
+const { locale } = Astro.props;
+const code = locale.code as 'vi' | 'en' | 'zh' | 'ko';
+const t = glossaryFor(code);
+const own = code === 'zh' || code === 'ko' ? code : undefined;
+const nameOf = (c: { vi: string; en: string; zh: string; ko: string }) => c[code] ?? c.en;
+const definitionOf = (e: GlossaryEntry) => (code === 'vi' ? e.definition_vi : e.definition_en);
+const definitionLang = code === 'vi' ? 'vi' : 'en';
+const byId = new Map(glossary.entries.map((e) => [e.id, e]));
+const groups = glossary.categories
+  .map((c) => ({ ...c, entries: glossary.entries.filter((e) => e.category === c.id) }))
+  .filter((g) => g.entries.length > 0);
+const searchText = (e: GlossaryEntry) =>
+  fold([e.vi, e.han, e.en, e.zh, e.ko, definitionOf(e)].filter(Boolean).join(' '));
+const counts = { one: t.countOne, many: t.countMany, none: t.countNone };
+---
+
+<LegalPage locale={locale} page="glossary" title={t.title} description={t.description} lead={t.lead[0]} notice={t.reviewNotice}>
+  <nav class="toc" slot="aside" aria-labelledby="gl-toc">
+    <h2 id="gl-toc">{t.contents}</h2>
+    <ol>
+      {groups.map((g) => <li data-gl-toc={g.id}><a href={`#nhom-${g.id}`}>{nameOf(g)}</a></li>)}
+    </ol>
+  </nav>
+  <div class="glossary">
+    {t.lead.slice(1).map((text) => <p set:html={rich(text)} />)}
+    <div class="gl-search">
+      <label for="gl-q" data-gl-ui hidden>{t.searchLabel}</label>
+      <input id="gl-q" type="search" autocomplete="off" spellcheck="false" placeholder={t.searchPlaceholder} data-gl-ui hidden />
+      <p class="gl-count" aria-live="polite" data-gl-count={JSON.stringify(counts)} data-gl-ui hidden></p>
+    </div>
+    {
+      groups.map((g) => (
+        <section class="gl-group" id={`nhom-${g.id}`} data-gl-group={g.id}>
+          <h2>{nameOf(g)}</h2>
+          {g.entries.map((e) => (
+            <article class="gl-entry" id={e.id} data-entry={e.id} data-search={searchText(e)}>
+              <h3>
+                <span lang="vi">{e.vi}</span>
+                <a class="gl-anchor" href={`#${e.id}`} aria-label={t.anchorLabel}>¶</a>
+              </h3>
+              <dl class="gl-terms">
+                {e.han && (
+                  <div>
+                    <dt>{t.han}</dt>
+                    <dd lang="vi-Hani">{e.han}</dd>
+                  </div>
+                )}
+                {own && e[own] && (
+                  <div>
+                    <dt>{t.native}</dt>
+                    <dd lang={locale.htmlLang}>{e[own]}</dd>
+                  </div>
+                )}
+                {e.en && (
+                  <div>
+                    <dt>{t.english}</dt>
+                    <dd lang="en">{e.en}</dd>
+                  </div>
+                )}
+              </dl>
+              <p class="gl-def" lang={definitionLang}>{definitionOf(e)}</p>
+              {e.related.some((r) => byId.has(r)) && (
+                <p class="gl-related">
+                  <span>{t.related}:</span>{' '}
+                  {e.related
+                    .filter((r) => byId.has(r))
+                    .map((r, i) => (
+                      <>
+                        {i > 0 && ', '}
+                        <a href={`#${r}`} lang="vi">{byId.get(r)!.vi}</a>
+                      </>
+                    ))}
+                </p>
+              )}
+            </article>
+          ))}
+        </section>
+      ))
+    }
+    <section class="gl-contribute">
+      <h2>{t.contributeTitle}</h2>
+      {t.contribute.map((text) => <p set:html={rich(text)} />)}
+    </section>
+  </div>
+</LegalPage>
+
+<script is:inline>
+  (() => {
+    const q = document.getElementById('gl-q');
+    if (!q) return;
+    const out = document.querySelector('[data-gl-count]');
+    const counts = JSON.parse(out.dataset.glCount);
+    const entries = [...document.querySelectorAll('[data-entry]')];
+    const groups = [...document.querySelectorAll('[data-gl-group]')];
+    const fold = (s) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/đ/g, 'd').normalize('NFC');
+    document.querySelectorAll('[data-gl-ui]').forEach((el) => (el.hidden = false));
+    out.hidden = true;
+    const run = () => {
+      const words = fold(q.value).split(/\s+/).filter(Boolean);
+      let shown = 0;
+      for (const e of entries) {
+        const hit = words.every((w) => e.dataset.search.includes(w));
+        e.hidden = !hit;
+        if (hit) shown++;
+      }
+      for (const g of groups) {
+        const empty = !g.querySelector('[data-entry]:not([hidden])');
+        g.hidden = empty;
+        const toc = document.querySelector(`[data-gl-toc="${g.dataset.glGroup}"]`);
+        if (toc) toc.hidden = empty;
+      }
+      out.hidden = words.length === 0;
+      out.textContent = shown === 0 ? counts.none : (shown === 1 ? counts.one : counts.many).replace('{n}', shown);
+    };
+    q.addEventListener('input', run);
+    if (q.value) run();
+  })();
+</script>

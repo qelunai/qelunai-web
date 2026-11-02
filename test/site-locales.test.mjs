@@ -10,7 +10,7 @@ const site = 'https://qelunai.com/';
 
 /** URL prefix and `<html lang>` (also the hreflang code) of each language. */
 const langs = { vi: ['', 'vi'], en: ['en/', 'en'], zh: ['zh/', 'zh-Hans'], ko: ['ko/', 'ko'] };
-const indexable = ['', 'privacy/', 'support/', 'delete-account/', 'terms/', 'lich-am/', 'gio-hoang-dao/', 'kinh-dich/', 'testers/', 'blog/', 'phuong-phap/'];
+const indexable = ['', 'privacy/', 'support/', 'delete-account/', 'terms/', 'lich-am/', 'gio-hoang-dao/', 'kinh-dich/', 'testers/', 'blog/', 'phuong-phap/', 'tu-dien/'];
 const noindex = ['tai/'];
 
 /** Published posts per language, from the built JSON feeds: slug → URL path. */
@@ -33,7 +33,7 @@ const unescape = (s) =>
  * What a reader sees: text nodes plus the title, meta description and social
  * text, alt, title and aria-label. Scripts, styles and data attributes are
  * left out, and so are the language menu links, which name each language in
- * its own tongue, and cited titles marked with their own `lang`.
+ * its own tongue, cited titles and other text marked with their own `lang`.
  */
 function visibleText(html) {
   const meta = [...html.matchAll(/<meta (?:name|property)="(?:description|keywords|og:title|og:description|og:image:alt|twitter:title|twitter:description)" content="([^"]*)"/g)].map((m) => m[1]);
@@ -42,7 +42,9 @@ function visibleText(html) {
     .replace(/<style\b[\s\S]*?<\/style>/g, ' ')
     .replace(/<head>[\s\S]*?<\/head>/, (head) => (head.match(/<title>[\s\S]*?<\/title>/) ?? [''])[0])
     .replace(/<a [^>]*\bhreflang="[^"]*"[^>]*>[\s\S]*?<\/a>/g, ' ')
-    .replace(/<cite lang="[^"]*">[\s\S]*?<\/cite>/g, ' ');
+    .replace(/<cite lang="[^"]*">[\s\S]*?<\/cite>/g, ' ')
+    // Text marked with its own language and no child elements, e.g. the Vietnamese and English terms on /tu-dien/.
+    .replace(/<(\w+)\b[^>]*\slang="[^"]*"[^>]*>[^<]*<\/\1>/g, ' ');
   const attrs = [...body.matchAll(/\s(?:alt|title|aria-label)="([^"]*)"/g)].map((m) => m[1]);
   const text = body.replace(/<[^>]+>/g, '\n');
   return unescape([text, ...attrs, ...meta].join('\n'));

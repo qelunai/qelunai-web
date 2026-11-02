@@ -1154,6 +1154,116 @@ li {
   }
 }
 
+/* ---------- glossary (/tu-dien/) ---------- */
+
+.glossary > p {
+  margin-bottom: 14px;
+}
+
+.gl-search {
+  display: grid;
+  gap: 8px;
+  margin: 8px 0 8px;
+}
+
+.gl-search label {
+  font-size: 14px;
+  color: var(--text-muted);
+}
+
+.gl-search input {
+  width: 100%;
+  min-height: 48px;
+  padding: 10px 14px;
+  border: 1px solid var(--gold-deep);
+  border-radius: 10px;
+  background: var(--paper);
+  color: var(--ink);
+  font: inherit;
+  color-scheme: light;
+}
+
+.gl-search [hidden],
+.glossary [hidden] {
+  display: none;
+}
+
+.sheet .gl-count {
+  font-family: var(--mono);
+  font-size: 13px;
+  color: var(--eyebrow);
+}
+
+.gl-entry {
+  padding: 16px 0;
+  border-bottom: 1px solid rgba(217, 182, 111, 0.14);
+  scroll-margin-top: calc(var(--header-h) + 16px);
+}
+
+.gl-group {
+  scroll-margin-top: calc(var(--header-h) + 16px);
+}
+
+.gl-entry:target {
+  background: rgba(217, 182, 111, 0.08);
+}
+
+.gl-entry h3 {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  font-size: 20px;
+  color: var(--text);
+}
+
+.sheet .gl-anchor {
+  font-size: 15px;
+  color: var(--eyebrow);
+  text-decoration: none;
+  opacity: 0.6;
+}
+
+.sheet .gl-anchor:hover,
+.sheet .gl-anchor:focus-visible {
+  color: var(--accent);
+  opacity: 1;
+}
+
+.gl-terms {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 20px;
+  margin: 6px 0 8px;
+  font-size: 15px;
+}
+
+.gl-terms div {
+  display: flex;
+  gap: 6px;
+}
+
+.gl-terms dt {
+  color: var(--eyebrow);
+}
+
+.gl-terms dt::after {
+  content: ':';
+}
+
+.gl-terms dd {
+  color: var(--gold-light);
+}
+
+.sheet .gl-related {
+  margin-top: 8px;
+  font-size: 14px;
+  color: var(--text-muted);
+}
+
+.gl-contribute {
+  margin-top: 8px;
+}
+
 /* ---------- 404 ---------- */
 
 .not-found {

@@ -26,6 +26,7 @@ Node 22 or newer.
 | `src/i18n/growth.ts` | Copy for `/lich-am/`, `/gio-hoang-dao/` and `/kinh-dich/`, and the zh/ko names of stems, branches and hour spirits |
 | `src/layouts/Base.astro` | `<head>`, SEO tags, hreflang, JSON-LD, header, footer |
 | `src/i18n/methodology.ts`, `src/pages/[...lang]/phuong-phap.astro` | "Phương pháp & độ chính xác" page (see below) |
+| `src/data/glossary.json`, `src/i18n/glossary.ts`, `src/pages/[...lang]/tu-dien.astro` | Vietnamese culture glossary page `/tu-dien/`; the JSON is copied from https://github.com/qelunai/vietnamese-culture-glossary (CC BY 4.0), tests: `test/glossary.test.mjs` |
 | `src/layouts/LegalPage.astro` | Shell for the privacy, support, delete-account and terms pages |
 | `src/components/Landing.astro` | The landing page sections |
 | `src/components/LandingPage.astro` | Page wrapper that adds the app and FAQ structured data |

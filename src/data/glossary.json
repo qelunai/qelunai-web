@@ -1,0 +1,38 @@
+{
+  "name": "vietnamese-culture-glossary",
+  "version": "0.0.0-placeholder",
+  "license": "CC-BY-4.0",
+  "repository": "https://github.com/qelunai/vietnamese-culture-glossary",
+  "categories": [
+    {"id": "lich", "vi": "Lịch và thời gian", "en": "Calendar and time", "zh": "历法与时间", "ko": "역법과 시간"},
+    {"id": "le-tet", "vi": "Lễ tết", "en": "Festivals", "zh": "节日", "ko": "명절"},
+    {"id": "gia-dinh", "vi": "Tục lệ gia đình", "en": "Family customs", "zh": "家庭习俗", "ko": "가정 풍습"},
+    {"id": "tin-nguong", "vi": "Phong thủy và tín ngưỡng dân gian", "en": "Feng shui and folk belief", "zh": "风水与民间信仰", "ko": "풍수와 민간 신앙"}
+  ],
+  "entries": [
+    {"id": "am-lich", "category": "lich", "vi": "âm lịch", "han": "陰曆", "en": "lunar calendar", "zh": "农历", "ko": "음력",
+     "definition_vi": "Lịch tính tháng theo chu kỳ Mặt Trăng; ở Việt Nam thực chất là âm dương lịch, có thêm tháng nhuận để khớp với mùa.",
+     "definition_en": "Calendar whose months follow the phases of the Moon; in Vietnam it is a lunisolar calendar that adds leap months to stay in step with the seasons.",
+     "related": ["thang-nhuan"], "sources": [], "review": {"zh": "needs-native-review", "ko": "needs-native-review"}},
+    {"id": "thang-nhuan", "category": "lich", "vi": "tháng nhuận", "han": "閏月", "en": "leap month", "zh": "闰月", "ko": "윤달",
+     "definition_vi": "Tháng âm lịch thêm vào một số năm để năm âm lịch không lệch xa năm theo mùa.",
+     "definition_en": "Extra lunar month added in some years so the lunar year does not drift away from the seasons.",
+     "related": ["am-lich"], "sources": [], "review": {"zh": "needs-native-review", "ko": "needs-native-review"}},
+    {"id": "tet-nguyen-dan", "category": "le-tet", "vi": "Tết Nguyên Đán", "han": "節元旦", "en": "Lunar New Year", "zh": "春节", "ko": "설날",
+     "definition_vi": "Dịp đầu năm âm lịch, lễ tết lớn nhất trong năm của người Việt.",
+     "definition_en": "The start of the lunar year, the main festival of the Vietnamese year.",
+     "related": ["am-lich", "xong-dat"], "sources": [], "review": {"zh": "needs-native-review", "ko": "needs-native-review"}},
+    {"id": "xong-dat", "category": "le-tet", "vi": "xông đất", "han": "", "en": "first-footing", "zh": "踩年", "ko": "첫 방문",
+     "definition_vi": "Tục người đầu tiên đến nhà sau giao thừa; theo quan niệm dân gian, người này được cho là ảnh hưởng tới may rủi của gia đình trong năm.",
+     "definition_en": "Custom about the first visitor to a home after New Year's Eve; folk belief holds that this person influences the household's luck for the year.",
+     "related": ["tet-nguyen-dan"], "sources": [], "review": {"zh": "needs-native-review", "ko": "needs-native-review"}},
+    {"id": "dam-gio", "category": "gia-dinh", "vi": "đám giỗ", "han": "", "en": "death anniversary", "zh": "忌日", "ko": "기일",
+     "definition_vi": "Ngày tưởng nhớ người đã mất, tính theo ngày mất âm lịch; con cháu cúng và họp mặt.",
+     "definition_en": "Day of remembrance for a deceased family member, kept on the lunar date of death, with offerings and a family gathering.",
+     "related": ["am-lich"], "sources": [], "review": {"zh": "needs-native-review", "ko": "needs-native-review"}},
+    {"id": "phong-thuy", "category": "tin-nguong", "vi": "phong thủy", "han": "風水", "en": "feng shui", "zh": "风水", "ko": "풍수",
+     "definition_vi": "Hệ quan niệm truyền thống về hướng và bố trí nhà cửa, mồ mả; nhiều người tham khảo khi xây nhà, chưa được kiểm chứng khoa học.",
+     "definition_en": "Traditional set of beliefs about the orientation and layout of houses and graves; many people consult it when building, though it is not scientifically verified.",
+     "related": [], "sources": [], "review": {"zh": "needs-native-review", "ko": "needs-native-review"}}
+  ]
+}
