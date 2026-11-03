@@ -1,6 +1,6 @@
 # Chính sách quyền riêng tư — Qelunai
 
-*Cập nhật lần cuối: 29/10/2026.*
+*Cập nhật lần cuối: 03/11/2026.*
 
 ## Tóm tắt
 
@@ -54,7 +54,8 @@ LLC), đặt tại khu vực Singapore (asia-southeast1):
   bắt buộc), chỉ dùng để điền chỗ "ngụ tại" trong bài văn khấn; xoá trống ô này để bỏ.
 - **Lịch sử gieo quẻ Kinh Dịch**: thời điểm gieo và sáu hào.
 - **Sổ giỗ**: tên người đã mất, quan hệ trong gia đình, ngày mất âm lịch (và năm nếu bạn nhập),
-  ghi chú, cài đặt nhắc giỗ, thời điểm tạo và sửa.
+  ghi chú, cài đặt nhắc giỗ, thời điểm tạo và sửa. Ngày giỗ bạn thêm vào một gia đình chung được
+  chia sẻ với các thành viên gia đình đó; xem mục **Sổ giỗ chung gia đình** bên dưới.
 - **Nhà đã lưu** (Phong thủy nhà, tối đa 10 nhà): tên bạn đặt cho nhà (ví dụ "Nhà ở", "Văn
   phòng"), hướng nhà tính bằng độ, thời điểm tạo và sửa. Ứng dụng không lưu địa chỉ hay vị trí
   của nhà.
@@ -64,6 +65,26 @@ LLC), đặt tại khu vực Singapore (asia-southeast1):
 Chỉ tài khoản của bạn đọc và ghi được dữ liệu này. Dữ liệu chỉ dùng để hiển thị lại cho bạn
 trên các thiết bị bạn đăng nhập. Chính sách quyền riêng tư của Google:
 https://policies.google.com/privacy
+
+## Sổ giỗ chung gia đình
+
+Bạn có thể tạo một gia đình trong Sổ giỗ, hoặc tham gia gia đình của người khác bằng mã mời (tối
+đa 30 thành viên một gia đình).
+
+- Khi bạn tạo hoặc tham gia một gia đình, **tên hiển thị** bạn đặt trong gia đình đó và **mọi
+  ngày giỗ** được thêm vào gia đình đó hiện cho **tất cả thành viên** của gia đình đó — không
+  hiện cho gia đình khác bạn tham gia.
+- Mỗi lần một ngày giỗ chung được thêm, sửa hay xoá, ứng dụng ghi lại **ai là người sửa lần
+  cuối** và hiện tên đó cho các thành viên khác.
+- Mã mời dùng được tối đa 7 ngày; chủ gia đình thu hồi được bất cứ lúc nào. Mã chỉ nên gửi cho
+  người bạn muốn mời.
+- **Rời một gia đình** (tự rời hoặc bị chủ mời ra): máy của bạn xoá bản sao các ngày giỗ chung
+  của gia đình đó, và bạn không còn đọc được dữ liệu của gia đình đó nữa.
+- **Xoá tài khoản**: ứng dụng tự đưa bạn ra khỏi mọi gia đình trước khi xoá tài khoản. Nếu bạn là
+  chủ và gia đình còn người khác, quyền chủ chuyển cho một thành viên khác; nếu bạn là người cuối
+  cùng của gia đình, gia đình đó và các ngày giỗ chung của nó bị xoá.
+- Sổ giỗ chung chỉ chia sẻ với các thành viên trong cùng gia đình, theo lựa chọn của chính bạn
+  khi tạo hoặc tham gia; Qelunai không chia sẻ dữ liệu này cho bên thứ ba nào khác.
 
 ## Dữ liệu trên thiết bị
 
@@ -186,6 +207,22 @@ rằm, mùng một, tiết khí và tin khi có bản cập nhật mới.
 - Tắt từng loại ở **Hồ sơ > Thông báo** (thiết bị huỷ đăng ký chủ đề đó), hoặc tắt hẳn thông báo
   của Qelunai trong Cài đặt của máy.
 
+## Thêm vào Lịch và xuất .ics
+
+- **Thêm vào Lịch**: nút "Thêm vào Lịch" ở một ngày giỗ, dịp lễ hay ngày tốt mở màn hình thêm sự
+  kiện có sẵn của hệ điều hành, đã điền sẵn tên, ngày và lời nhắc bạn chọn. Ứng dụng chỉ xin quyền
+  **ghi** vào Lịch của máy, không đọc các sự kiện đã có sẵn trong Lịch của bạn. Sự kiện được lưu
+  vào ứng dụng Lịch bạn chọn trên máy; Qelunai không giữ bản sao.
+- **Xuất tệp .ics**: nút xuất trong Sổ giỗ tạo một tệp .ics chứa các ngày giỗ trong 10 năm tới,
+  ngay trên máy bạn, rồi mở bảng chia sẻ của hệ điều hành để bạn tự chọn nơi lưu hay gửi tệp đó
+  (ví dụ qua email, AirDrop). Qelunai không gửi tệp này lên máy chủ của mình.
+
+## Đọc to bằng giọng máy
+
+Nút đọc to ở văn khấn và các đoạn giải thích dùng giọng đọc của hệ điều hành trên máy bạn (iPhone:
+`AVSpeechSynthesizer`; Android: `TextToSpeech` của hệ thống). Ứng dụng không gửi văn bản được đọc
+lên máy chủ của mình.
+
 ## Những gì Qelunai KHÔNG làm
 
 - Không bán dữ liệu của bạn.
@@ -194,8 +231,10 @@ rằm, mùng một, tiết khí và tin khi có bản cập nhật mới.
 
 ## Quyền truy cập thiết bị
 
-- **Camera**: chỉ khi bạn mở La bàn trên cảnh thật hoặc quét mã QR thẻ tuổi. Hình ảnh chỉ hiện
-  trên màn hình, không được chụp, lưu hay gửi đi.
+- **Camera**: chỉ khi bạn mở La bàn trên cảnh thật, quét mã QR thẻ tuổi, hoặc quét mã mời vào gia
+  đình trong Sổ giỗ. Hình ảnh chỉ hiện trên màn hình, không được chụp, lưu hay gửi đi.
+- **Lịch**: chỉ khi bạn bấm **Thêm vào Lịch**; ứng dụng chỉ xin quyền ghi, không đọc các sự kiện
+  có sẵn trong Lịch của bạn.
 - **Theo dõi (iPhone)**: chỉ hỏi ở bản có quảng cáo, như mục **Quảng cáo** ở trên.
 - **Thông báo**: cho nhắc giỗ và thông báo đẩy, chỉ hỏi khi bạn bật một trong hai.
 
@@ -211,7 +250,7 @@ bạn có thể từ chối ra sao.
 
 # Privacy Policy — Qelunai
 
-*Last updated: 2026-10-29.*
+*Last updated: 2026-11-03.*
 
 ## Summary
 
@@ -269,7 +308,8 @@ When you sign in and agree to backup, the app stores the following in **Cloud Fi
 - **Kinh Dịch cast history**: when each cast happened and its six lines.
 - **Memorial days (Sổ giỗ)**: the name of the person who passed away, their family relation,
   the lunar date of death (and the year if you enter it), notes, reminder settings, and when
-  each entry was created and changed.
+  each entry was created and changed. A memorial day you add to a shared family is shown to
+  that family's members; see **Family memorial days** below.
 - **Saved houses** (Phong thủy nhà, up to 10): the name you give the house (for example "Home"
   or "Office"), the way it faces in degrees, and when it was created and changed. The app does
   not store the house's address or location.
@@ -278,6 +318,26 @@ When you sign in and agree to backup, the app stores the following in **Cloud Fi
 
 Only your account can read or write this data. It is used only to show it back to you on the
 devices you sign in on. Google's privacy policy: https://policies.google.com/privacy
+
+## Family memorial days
+
+You can create a family in the memorial-day book, or join someone else's family with an invite
+code (up to 30 members per family).
+
+- When you create or join a family, the **display name** you set for that family and **every
+  memorial day** added to it are shown to **all members** of that family — not to any other
+  family you belong to.
+- Each time a shared memorial day is added, edited or deleted, the app records **who made the
+  last change** and shows that name to the other members.
+- An invite code works for at most 7 days; the family's owner can revoke it at any time. Only
+  share a code with the people you want to invite.
+- **Leaving a family** (on your own, or being removed by the owner): your device deletes its
+  local copy of that family's memorial days, and you can no longer read that family's data.
+- **Deleting your account**: the app takes you out of every family first. If you own a family
+  that still has other members, ownership passes to another member; if you are its last member,
+  that family and its memorial days are deleted.
+- Family memorial days are shared only with the members of the same family, by your own choice
+  when you create or join it; Qelunai does not share this data with any other third party.
 
 ## Data stored on your device
 
@@ -403,6 +463,24 @@ reminders for full and new moon days and solar terms, and news when a new versio
 - Turn each kind off in **Profile > Notifications** (the device unsubscribes from that topic), or
   turn Qelunai's notifications off entirely in the device Settings.
 
+## Adding to Calendar and exporting .ics
+
+- **Add to Calendar**: the "Add to Calendar" button on a memorial day, festival or auspicious day
+  opens your device's own add-event screen, pre-filled with the title, date and the reminder you
+  chose. The app only asks for **write** access to your calendar, never read access to events
+  already there. The event is saved to whichever calendar app you choose on your device; Qelunai
+  keeps no copy.
+- **Exporting an .ics file**: the export button in the memorial-day book builds an .ics file with
+  the next 10 years of memorial days, on your device, then opens your device's own share sheet so
+  you choose where to save or send it (for example by email or AirDrop). Qelunai does not upload
+  this file to its own servers.
+
+## Reading aloud (on-device voice)
+
+The read-aloud button on prayers (Văn khấn) and on explanation text uses your device's own
+text-to-speech voice (iPhone: `AVSpeechSynthesizer`; Android: the system `TextToSpeech`). The app
+does not send this text to its own servers.
+
 ## What Qelunai does NOT do
 
 - We do not sell your data.
@@ -411,8 +489,11 @@ reminders for full and new moon days and solar terms, and news when a new versio
 
 ## Device permissions
 
-- **Camera**: only when you open the compass over the live view or scan a zodiac-card QR code.
-  The picture is only shown on screen; it is never taken, saved or sent.
+- **Camera**: only when you open the compass over the live view, scan a zodiac-card QR code, or
+  scan a family invite code in the memorial-day book. The picture is only shown on screen; it is
+  never taken, saved or sent.
+- **Calendar**: only when you tap **Add to Calendar**; the app only asks for write access, never
+  reads the events already in your calendar.
 - **Tracking (iPhone)**: asked only in versions with ads, as in **Ads** above.
 - **Notifications**: for memorial day reminders and push notifications, asked only when you turn
   one of them on.
